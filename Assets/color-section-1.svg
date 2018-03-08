@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="175px" viewBox="0 0 150 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>color-section-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="150" height="175" rx="4"></rect>
+        <ellipse id="path-3" cx="200.393617" cy="86.6973684" rx="6.60638298" ry="6.59210526"></ellipse>
+        <ellipse id="path-4" cx="6.60638298" cy="86.6973684" rx="6.60638298" ry="6.59210526"></ellipse>
+    </defs>
+    <g id="Draft-3-Copy-11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-171.000000, -6459.000000)">
+        <g id="color-section-1" transform="translate(171.000000, 6459.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#277172" xlink:href="#path-1"></use>
+            <g id="burger-hamburger-meat" mask="url(#mask-2)">
+                <g transform="translate(-124.000000, 2.000000)">
+                    <path d="M177.387141,71.2556654 C188.320536,69.8373737 193.787234,65.0807274 193.787234,56.9857265 C193.787234,36.8870198 153.857226,7.72227147 104.601064,7.72227147 C55.3449021,7.72227147 15.4148936,35.228504 15.4148936,56.9857265 C15.4148936,65.2799748 20.9387453,70.0366211 31.9864488,71.2556654 L177.387141,71.2556654 Z" id="Oval-12-Copy" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M110.697558,161.287252 L181.696553,161.287252 C186.633959,160.957754 190.020684,158.609694 191.856726,154.243073 C194.610789,147.693141 193.838,135.039474 186.38185,135.039474 C181.411083,135.039474 155.776693,135.039474 109.478679,135.039474" id="Path-59-Copy-2" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle-11" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" x="24.2234043" y="110.868421" width="160.755319" height="15.3815789" rx="7.69078947"></rect>
+                    <path d="M6.60638298,86.3517554 C11.0959706,92.1102115 16.7558778,94.9894395 23.5861044,94.9894395 C33.8314444,94.9894395 37.1776164,82.3026316 47.8534187,82.3026316 C58.529221,82.3026316 64.4228557,94.9894395 76.6725359,94.9894395 C88.9222161,94.9894395 93.2739213,82.3026316 102.322038,82.3026316 C111.370154,82.3026316 115.881602,94.9894395 128.891317,94.9894395 C141.901032,94.9894395 143.656511,82.3026316 154.438248,82.3026316 C165.219984,82.3026316 169.085738,94.9894395 183.492774,94.9894395 C189.729969,94.9894395 195.308883,92.3750145 200.229517,87.1461646" id="Path-62" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="Oval-Copy-171" stroke="none" transform="translate(200.393617, 86.697368) rotate(-90.000000) translate(-200.393617, -86.697368) ">
+                        <use fill="#0F0F0F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <ellipse stroke="#277172" stroke-width="3.3" cx="200.393617" cy="86.6973684" rx="4.95638298" ry="4.94210526"></ellipse>
+                        <use stroke="#277172" stroke-width="2.2" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+            <g id="burger-hamburger-meat-copy" mask="url(#mask-2)">
+                <g transform="translate(69.000000, 2.000000)">
+                    <path d="M178.387141,71.2556654 C189.320536,69.8373737 194.787234,65.0807274 194.787234,56.9857265 C194.787234,36.8870198 154.857226,7.72227147 105.601064,7.72227147 C56.3449021,7.72227147 16.4148936,35.228504 16.4148936,56.9857265 C16.4148936,65.2799748 21.9387453,70.0366211 32.9864488,71.2556654 L178.387141,71.2556654 Z" id="Oval-12-Copy" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M16.4148936,161.287252 L99.6142233,161.287252 C104.55163,160.957754 107.938354,158.609694 109.774396,154.243073 C112.52846,147.693141 111.755671,135.039474 104.299521,135.039474 C99.3287539,135.039474 70.465371,135.039474 17.7093721,135.039474" id="Path-59-Copy-3" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" transform="translate(63.825636, 148.163363) scale(-1, 1) translate(-63.825636, -148.163363) "></path>
+                    <rect id="Rectangle-11" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" x="25.2234043" y="110.868421" width="160.755319" height="15.3815789" rx="7.69078947"></rect>
+                    <path d="M7.60638298,86.3517554 C12.0959706,92.1102115 17.7558778,94.9894395 24.5861044,94.9894395 C34.8314444,94.9894395 38.1776164,82.3026316 48.8534187,82.3026316 C59.529221,82.3026316 65.4228557,94.9894395 77.6725359,94.9894395 C89.9222161,94.9894395 94.2739213,82.3026316 103.322038,82.3026316 C112.370154,82.3026316 116.881602,94.9894395 129.891317,94.9894395 C142.901032,94.9894395 144.656511,82.3026316 155.438248,82.3026316 C166.219984,82.3026316 170.085738,94.9894395 184.492774,94.9894395 C190.729969,94.9894395 196.308883,92.3750145 201.229517,87.1461646" id="Path-62" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="Oval-Copy-172" stroke="none" transform="translate(6.606383, 86.697368) rotate(-90.000000) translate(-6.606383, -86.697368) ">
+                        <use fill="#0F0F0F" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <ellipse stroke="#277172" stroke-width="3.3" cx="6.60638298" cy="86.6973684" rx="4.95638298" ry="4.94210526"></ellipse>
+                        <use stroke="#277172" stroke-width="2.2" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
