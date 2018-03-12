@@ -1,0 +1,21 @@
+.siteMenu {
+    li {
+        line-height: 45px;
+        list-style-type: none;
+    }
+    :global .activeItem {
+        font-weight: bold;
+    }
+
+    .menuTitle {
+        font-size: 10.5pt;
+        line-height: 60px;
+        text-transform: uppercase;
+        color: #444444;
+    }
+
+    .menuItem {
+        cursor: pointer;
+    }
+}
+
