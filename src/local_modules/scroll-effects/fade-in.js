@@ -1,6 +1,6 @@
 import React from 'react'
 import classNames from 'classnames'
-import withVisibilityThreshold from 'components/hoc/with-visibility-threshold'
+import withVisibilityThreshold from 'scroll-awareness/with-visibility-threshold'
 import 'animate.css/animate.min.css'
 
 const FadeIn = (props) => {

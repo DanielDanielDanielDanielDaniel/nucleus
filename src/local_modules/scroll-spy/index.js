@@ -5,12 +5,14 @@ class ScrollSpy extends Component {
   constructor(props) {
     super(props)
     this.children = []
+    this.idProp = props.idprop
     this.handleScroll = this.handleScroll.bind(this)
   }
   getChildTop(child) {
     const node = ReactDOM.findDOMNode(child)
     const { top } = node.getBoundingClientRect()
-    return { [child.props.sectionid]: top };
+    const key = child.props[this.idProp]
+    return { [key]: top };
   }
   handleScroll() {
     const childrenTops = this.children.reduce(

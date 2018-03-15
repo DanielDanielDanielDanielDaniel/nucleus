@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import StickyScrollContainer from 'components/interaction/sticky-scroll-container'
-import StickyScrollBox from 'components/interaction/sticky-scroll-box'
+import StickyScrollContainer from 'sticky-scroll/container'
+import StickyScrollBox from 'sticky-scroll/box'
 import styles from './layout.module.css'
 
 class Layout extends Component {

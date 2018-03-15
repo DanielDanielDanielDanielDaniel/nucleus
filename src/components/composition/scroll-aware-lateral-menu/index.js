@@ -1,6 +1,6 @@
 import React from 'react'
 import sectionWatcher from 'lib/section-watcher'
-import withEventEmitter from 'components/hoc/with-event-emitter'
+import withEventEmitter from 'with-event-emitter'
 import LateralMenu from 'components/composition/lateral-menu'
 
 const ScrollAwareLateralMenu = (props) => {

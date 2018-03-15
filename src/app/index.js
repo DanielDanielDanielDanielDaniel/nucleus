@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 import sectionWatcher from 'lib/section-watcher'
-import Layout from 'components/layout'
-import SiteMenu from 'components/presentation/site-menu'
-import Hero from 'components/presentation/hero'
-import ScrollSpy from 'components/interaction/scroll-spy'
-import ContentBlock from 'components/composition/test-content-block'
-import FadeIn from 'components/effects/fade-in'
+import Layout from 'app/layout'
+import SiteMenu from 'app/site-menu'
+import Hero from 'app/hero'
+import ScrollSpy from 'scroll-spy'
+import ContentBlock from 'app/test-content-block'
+import FadeIn from 'scroll-effects/fade-in'
 import styles from './app.module.css'
 
 class App extends Component {
@@ -15,7 +15,7 @@ class App extends Component {
         <Hero/>
         <Layout>
           <SiteMenu/>
-          <ScrollSpy onScroll={sectionWatcher.update}>
+          <ScrollSpy idprop='sectionid' onScroll={sectionWatcher.update}>
             <FadeIn sectionid='block-1'>
               <ContentBlock />
             </FadeIn>

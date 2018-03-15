@@ -1,15 +1,15 @@
-.siteMenu li {
+.menu li {
   line-height: 45px;
   list-style-type: none; }
 
-.siteMenu :global .activeItem {
+.menu :global .activeItem {
   font-weight: bold; }
 
-.siteMenu .menuTitle {
+.menu .title {
   font-size: 10.5pt;
   line-height: 60px;
   text-transform: uppercase;
   color: #444444; }
 
-.siteMenu .menuItem {
+.menu .item {
   cursor: pointer; }
