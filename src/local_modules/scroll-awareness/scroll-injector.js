@@ -1,12 +1,14 @@
 import React, { Component } from 'react'
-import ReactDOM from 'react-dom'
 
-export class VisibilityInjector extends Component {
+// BASE INJECTOR FOR POSITION AND VISIBLITY HERE
+
+export class ScrollInjector extends Component {
   constructor(Wrapped, offset, props) {
     super(props)
     this.wrappedComponent = Wrapped
     this.offset = (offset || 0)
-    this.state = { visible: false, shown: false }
+    // TODO
+    this.state = this.getInitialState()
     this.handleScroll = this.handleScroll.bind(this)
   }
   componentDidMount() {
@@ -28,22 +30,19 @@ export class VisibilityInjector extends Component {
     switch(true) {
       case (top > viewportHeight): return this.setHidden()
       case (top < -height): return this.setHidden()
-      case (top >= 0 && bottom < viewportHeight): return this.setFullyVisible()
-      case (top >= 0): return this.setPartiallyVisible((viewportHeight - top) / height)
-      case (top < 0): return this.setPartiallyVisible((top + height) / height)
-      default: throw new Error('Uknown state')
+      default: return this.setPosition(top, bottom, viewportHeight)
     }
   }
   setHidden() {
     if (this.state.visible)
       this.setState({ visible: false, ratio: 0 })
   }
-  setFullyVisible() {
-    if (!this.state.visible)
-      this.setState({ visible: true, ratio: 1, shown: true })
-  }
-  setPartiallyVisible(ratio) {
-    this.setState({ visible: true, ratio, shown: true })
+  setPosition(top, bottom, viewportHeight) {
+    const width = bottom - top
+    const range = viewportHeight + width
+    const position = top + width
+    const ratio = (position / range)
+    this.setState({ visible: true, ratio })
   }
   render() {
     const props = Object.assign({}, this.props, this.state)
@@ -51,13 +50,3 @@ export class VisibilityInjector extends Component {
     return <Wrapped {...props}/>
   }
 }
-
-const withVisibilityAwareness = (options = {}) => (Wrapped) => {
-  return class extends VisibilityInjector {
-    constructor(...args) {
-      super(Wrapped, options.offset, ...args)
-    }
-  }
-}
-
-export default withVisibilityAwareness

@@ -6,6 +6,7 @@ import Hero from 'app/hero'
 import ScrollSpy from 'scroll-spy'
 import ContentBlock from 'app/test-content-block'
 import FadeIn from 'scroll-effects/fade-in'
+import Parallax from 'scroll-effects/parallax'
 import styles from './app.module.css'
 
 class App extends Component {
@@ -16,6 +17,13 @@ class App extends Component {
         <Layout>
           <SiteMenu/>
           <ScrollSpy idprop='sectionid' onScroll={sectionWatcher.update}>
+            <div>
+              <h1>Something</h1>
+              <Parallax speed={200}>
+                <h1>Something else</h1>
+              </Parallax>
+            </div>
+            {/*
             <FadeIn sectionid='block-1'>
               <ContentBlock />
             </FadeIn>
@@ -27,6 +35,7 @@ class App extends Component {
             </FadeIn>
             <ContentBlock sectionid='block-4' />
             <ContentBlock sectionid='block-5' />
+            */}
           </ScrollSpy>
         </Layout>
       </div>
