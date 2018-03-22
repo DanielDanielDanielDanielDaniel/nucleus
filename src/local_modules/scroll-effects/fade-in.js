@@ -4,11 +4,11 @@ import withVisibilityThreshold from 'scroll-awareness/with-visibility-threshold'
 import 'animate.css/animate.min.css'
 
 const FadeIn = (props) => {
-  const child = React.cloneElement(
-    React.Children.only(props.children),
-    Object.assign({}, props, { className: classNames(props.className) })
-  )
-  return child
+  const children = React.Children.map(child => React.cloneElement(
+    child,
+    Object.assign({}, props, { className: classNames(child.props.className, props.className) })
+  ))
+  return <React.Fragment>{children}</React.Fragment>
 }
 
 export default withVisibilityThreshold({
@@ -16,6 +16,6 @@ export default withVisibilityThreshold({
     className: classNames('hidden')
   },
   shown: {
-    className: classNames('animated', 'fadeInUp')
+    className: classNames('animated', 'fadeInLeft')
   } 
 })(FadeIn)

@@ -1,5 +1,13 @@
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
+import _ from 'lodash'
+
+
+class Wrapper extends Component {
+  render() {
+    return (React.cloneElement(this.props.child, this.props.props));
+  }
+}
 
 class ScrollSpy extends Component {
   constructor(props) {
@@ -14,9 +22,12 @@ class ScrollSpy extends Component {
     const key = child.props && child.props[this.idProp]
     return key ? { [key]: top } : {}
   }
+  mergeValues(a, b) {
+    if (a && b) return Math.min(a, b)
+  }
   handleScroll() {
     const childrenTops = this.children.reduce(
-      (acc, child) => Object.assign(acc, this.getChildTop(child)),
+      (acc, child) => _.mergeWith(acc, this.getChildTop(child), this.mergeValues),
       {}
     )
     this.props.onScroll(childrenTops)
@@ -28,10 +39,15 @@ class ScrollSpy extends Component {
     window.removeEventListener('scroll', this.handleScroll)
   }
   render() {
-    const children = React.Children.map(
-      this.props.children, child => React.cloneElement(child, { ref: ch => this.children.push(ch) })
+    this.children = []
+    const wrapped = React.Children.map(
+      this.props.children, child => (
+        <Wrapper child={child} props={child.props}
+                 {...{ [this.idProp]: child.props[this.idProp] }}
+                 ref={ch => this.children.push(ch)}/>
+      )
     )
-    return (children)
+    return (wrapped);
   }
 }
 

@@ -17,6 +17,7 @@ export class VisibilityInjector extends Component {
   }
   calculateRect() {
     const node = ReactDOM.findDOMNode(this)
+    if (!node) return { height: 0, top: 0, bottom: 0 }
     return node.getBoundingClientRect()
   }
   handleScroll() {

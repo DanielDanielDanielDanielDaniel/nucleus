@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
 
+const SAFE_MARGIN = 100;
+
 export class PositionInjector extends Component {
   constructor(Wrapped, offset, props) {
     super(props)
@@ -17,6 +19,7 @@ export class PositionInjector extends Component {
   }
   calculateRect() {
     const node = ReactDOM.findDOMNode(this)
+    if (!node) return { height: 0, top: 0, bottom: 0 }
     return node.getBoundingClientRect()
   }
   handleScroll() {
@@ -26,8 +29,8 @@ export class PositionInjector extends Component {
     const bottom = top + height
     const viewportHeight = window.innerHeight
     switch(true) {
-      case (top > viewportHeight): return this.setHidden()
-      case (top < -height): return this.setHidden()
+      case (top > (viewportHeight + SAFE_MARGIN)): return this.setHidden()
+      case (bottom < (0 - SAFE_MARGIN)): return this.setHidden()
       default: return this.setPosition(top, bottom, viewportHeight)
     }
   }
