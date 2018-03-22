@@ -11,4 +11,5 @@
   display: grid;
   grid-column: main-content;
   grid-template-columns: repeat(12, [col-start] 1fr);
-  grid-gap: 20px; }
+  grid-column-gap: 10px;
+  grid-row-gap: 0; }
