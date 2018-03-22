@@ -1,0 +1,15 @@
+.layout {
+  display: grid;
+  width: 1200px;
+  grid-template-columns: [lateral-menu] 300px [main-content] 900px;
+  align-items: start;
+  align-content: start;
+  /* just for debug */
+  min-height: 200vh; }
+
+.mainContent {
+  display: grid;
+  grid-column: main-content;
+  grid-template-columns: repeat(12, [col-start] 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 0; }

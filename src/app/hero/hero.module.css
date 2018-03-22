@@ -1,0 +1,80 @@
+/* global variables */
+/* global styles */
+body {
+  font-family: 'GT America';
+  background-color: #0d0d0d;
+  color: #ffffff; }
+
+/* reused styles */
+.subgrid {
+  grid-column: 1 / span 12;
+  display: grid;
+  grid-template-columns: repeat(12, [col-start] 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 0; }
+
+.sectionTitle {
+  grid-column: col-start / span 12;
+  margin: 0;
+  font-size: 15px;
+  opacity: 0.3;
+  font-weight: lighter;
+  margin-bottom: 8px; }
+
+.sectionText, .bigSectionText {
+  font-size: 15px;
+  opacity: 0.7;
+  font-weight: lighter;
+  margin-top: 0;
+  margin-bottom: 30px;
+  grid-column: auto / span 4;
+  letter-spacing: -0.35px;
+  line-height: 18px; }
+  .sectionText a, .bigSectionText a {
+    color: #ffffff; }
+
+.bigSectionText {
+  grid-column: col-start / span 6;
+  font-size: 22px;
+  letter-spacing: -0.51px;
+  margin-bottom: 50px; }
+
+.sectionSeparator {
+  margin-bottom: 125px; }
+
+.gridBreak {
+  grid-column: 1 / span 12; }
+
+.sectionSeparator {
+  margin-bottom: 315px; }
+
+.hero {
+  /* placeholder */
+  height: 100vh;
+  background-image: url("./background.svg");
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  text-align: center; }
+
+.title {
+  color: rgba(255, 255, 255, 0.9);
+  font-family: GTAmerica-Light;
+  font-size: 57.75px;
+  letter-spacing: -1.33375px;
+  text-align: center;
+  font-weight: normal;
+  margin: 0; }
+
+.subtitle {
+  opacity: 0.4;
+  font-family: GTAmerica-Light;
+  font-size: 21.45px;
+  color: #FFFFFF;
+  letter-spacing: -0.495px;
+  text-align: center;
+  line-height: 26.125px;
+  margin-top: 13.75px; }

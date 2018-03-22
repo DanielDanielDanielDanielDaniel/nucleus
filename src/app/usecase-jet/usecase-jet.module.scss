@@ -1,0 +1,40 @@
+@import 'app/app.module.scss';
+
+$base: 350px;
+
+.container {
+    grid-column: col-start / span 12;
+    background-image: url('./assets/background.png');
+    background-color: $background-color;
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    height: 800px;
+    background-position-y: 85%;
+}
+
+.icon {
+    width: 42px;
+    height: 42px;
+    background-color: #151515;
+    padding: 12px;
+    border-radius: 3px;
+    opacity: 0.2;
+    position: absolute;
+}
+
+.radarIcon {
+    left: 470px;
+    top: $base + 0px;
+}
+
+.funnelIcon {
+    left: 290px;
+    top: $base + 40px;
+}
+
+.marketsIcon {
+    left: 510px;
+    top: $base + 205px;
+}

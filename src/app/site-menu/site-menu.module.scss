@@ -1,0 +1,36 @@
+@import 'app/app.module.scss';
+
+.menu {
+    margin-top: 50vh;
+    transform: translateY(-50%);
+
+    li {
+        list-style-type: none;
+    }
+    :global .activeItem {
+        // font-weight: bold;
+    }
+
+    .title {
+        /* Intro Copy: */
+        font-size: 8px * $scale;
+        color: rgba(255, 255, 255, 0.3);
+        letter-spacing: 0.64px  * $scale;
+        text-transform: uppercase;
+        margin-top: 15px  * $scale;
+        margin-bottom: 15px  * $scale;
+    }
+
+    .item {
+        line-height: 24px * $scale;
+        font-size: 10px * $scale;
+        color: rgba(255, 255, 255, 0.8);
+        letter-spacing: 0.07px * $scale;
+        font-weight: lighter;
+        cursor: pointer;
+        &:global(.activeItem) {
+            font-weight: bolder;
+        }
+    }
+}
+
