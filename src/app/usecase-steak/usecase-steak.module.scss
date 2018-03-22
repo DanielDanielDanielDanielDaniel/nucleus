@@ -1,0 +1,20 @@
+@import 'app/app.module.scss';
+
+.container {
+    background-image: url('./assets/background.png');
+    background-color: $background-color;
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    position: relative;
+    height: 100vh;
+    grid-column: col-start / span 12;
+}
+
+.phoneMockup {
+    position: absolute;
+    top: 180px;
+    left: 25%;
+    width: 300px;
+}
