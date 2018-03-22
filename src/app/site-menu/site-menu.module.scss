@@ -1,21 +1,36 @@
+@import 'app/app.module.scss';
+
 .menu {
+    margin-top: 50vh;
+    transform: translateY(-50%);
+
     li {
-        line-height: 45px;
         list-style-type: none;
     }
     :global .activeItem {
-        font-weight: bold;
+        // font-weight: bold;
     }
 
     .title {
-        font-size: 10.5pt;
-        line-height: 60px;
+        /* Intro Copy: */
+        font-size: 8px * $scale;
+        color: rgba(255, 255, 255, 0.3);
+        letter-spacing: 0.64px  * $scale;
         text-transform: uppercase;
-        color: #444444;
+        margin-top: 15px  * $scale;
+        margin-bottom: 15px  * $scale;
     }
 
     .item {
+        line-height: 24px * $scale;
+        font-size: 10px * $scale;
+        color: rgba(255, 255, 255, 0.8);
+        letter-spacing: 0.07px * $scale;
+        font-weight: lighter;
         cursor: pointer;
+        &:global(.activeItem) {
+            font-weight: bolder;
+        }
     }
 }
 

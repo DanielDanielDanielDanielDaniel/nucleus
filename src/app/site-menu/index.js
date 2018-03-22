@@ -15,13 +15,41 @@ class SiteMenu extends Component {
   render() {
     return (
       <ScrollAwareLateralMenu className={styles.menu}>
+
         <MenuTitle>Intro</MenuTitle>
-        <MenuItem sectionid='block-1'>Section 1</MenuItem>
-        <MenuItem sectionid='block-2'>Section 2</MenuItem>
+
+        <MenuItem sectionid='hero'>
+          Nucleus
+        </MenuItem>
+
+        <MenuItem sectionid='usecases'>
+          Use Cases
+        </MenuItem>
+
+        <MenuItem sectionid='design-spec'>
+          Design specification
+        </MenuItem>
+
+        <MenuItem sectionid='how-to-use'>
+          How to Use
+        </MenuItem>
+
+        <MenuItem sectionid='features'>
+          Features
+        </MenuItem>
+
         <MenuTitle>Product</MenuTitle>
-        <MenuItem sectionid='block-3'>Section 3</MenuItem>
+
+        <MenuItem sectionid='product'>
+          Iconset
+        </MenuItem>
+
         <MenuTitle>Contact</MenuTitle>
-        <MenuItem sectionid='block-4'>Section 4</MenuItem>
+
+        <MenuItem sectionid='contact'>
+          Contact
+        </MenuItem>
+
       </ScrollAwareLateralMenu>
     )
   }
