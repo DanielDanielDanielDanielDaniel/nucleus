@@ -38,3 +38,9 @@ $base: 350px;
     left: 510px;
     top: $base + 205px;
 }
+
+@media (max-width: 900px) {
+    .container {
+        display: none;
+    }
+}

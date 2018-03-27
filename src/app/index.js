@@ -34,9 +34,12 @@ class App extends Component {
             <UsecaseJet sectionid='usecases' />
             <DesignSpecification sectionid='design-spec' />
             <HowCanBeUsed sectionid='how-to-use'/>
-            <Features sectionid='features' />
-            <IconsetGallery sectionid='iconset'/>
-            <Contact sectionid='contact' />
+            {/*
+               <Features sectionid='features' />
+               <IconsetGallery sectionid='iconset'/>
+               <Contact sectionid='contact' />
+            */}
+
           </ScrollSpy>
         </Layout>
       </div>

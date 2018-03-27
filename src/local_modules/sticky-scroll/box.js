@@ -3,9 +3,9 @@ import styles from './sticky-scroll-box.module.css'
 
 class StickyScrollBox extends Component {
   render() {
-    const { scrolloffset } = this.props
+    const { scrolloffset, stickyClass = styles.fixed } = this.props
     return (
-      <div className={scrolloffset > 0 ? styles.fixed : ''}>
+      <div className={scrolloffset > 0 ? stickyClass : ''}>
         {this.props.children}
       </div>
     )

@@ -63,3 +63,35 @@ body {
 .sectionSeparator {
     margin-bottom: 315px;
 }
+
+.mobileHidden {}
+
+@media (max-width: 900px) {
+    .sectionTitle {
+        grid-column: 1 / span 3;
+    }
+    .sectionText {
+        grid-column: 1 / span 3;
+    }
+    .bigSectionText {
+        grid-column: 1 / span 3;
+    }
+    .gridBreak {
+        grid-column: 1 / span 3;
+    }
+    .mobileHidden {
+        display: none !important;
+    }
+    .sectionSeparator {
+        margin-bottom: 35px;
+    }
+    .subgrid {
+        grid-column: 1 / span 3;
+        grid-template-columns: repeat(3, [col-start] 1fr);
+        grid-column-gap: 10px;
+        grid-row-gap: 0;
+        width: 100%;
+        max-width: 450px;
+        justify-self: center;
+    }
+}

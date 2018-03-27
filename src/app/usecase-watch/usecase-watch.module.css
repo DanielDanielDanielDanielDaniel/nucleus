@@ -8,10 +8,21 @@
   background-size: contain;
   position: relative;
   height: 100vh;
-  background-position: 70%; }
+  background-position: 70%;
+  overflow: hidden;
+  text-align: center; }
 
 .watchMockup {
   position: absolute;
   top: 130px;
   left: 0;
   width: 480px; }
+
+@media (max-width: 900px) {
+  .container {
+    grid-column: col-start / span 3;
+    background-image: none;
+    height: auto; }
+  .watchMockup {
+    position: static;
+    margin-right: -184px; } }

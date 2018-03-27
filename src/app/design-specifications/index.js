@@ -20,7 +20,7 @@ const IconBox = ({ src }) => (
 )
 
 const DesignSpecifications = ()=> (
-  <React.Fragment>
+  <div className={globalStyles.subgrid}>
       <h3 className={globalStyles.sectionTitle}>Design specifications</h3>
       <div className={styles.container}>
         <p className={globalStyles.sectionText}>
@@ -39,7 +39,7 @@ const DesignSpecifications = ()=> (
         <IconLabelBox src={iconjarLogo} label='Iconjar'/>
       </div>
       <div className={globalStyles.sectionSeparator}/>
-  </React.Fragment>
+  </div>
 )
 
 export default DesignSpecifications

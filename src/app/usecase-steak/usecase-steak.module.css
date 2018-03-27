@@ -13,5 +13,16 @@
 .phoneMockup {
   position: absolute;
   top: 180px;
-  left: 25%;
-  width: 300px; }
+  left: 25%; }
+  .phoneMockup img {
+    width: 300px; }
+
+@media (max-width: 900px) {
+  .container {
+    grid-column: col-start / span 3;
+    background-size: cover; }
+  .phoneMockup {
+    top: 25%;
+    width: 100%;
+    left: 0;
+    text-align: center; } }

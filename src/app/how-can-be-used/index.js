@@ -21,7 +21,7 @@ import globalStyles from 'app/app.module.css'
 import styles from './how-can-be-used.module.css'
 
 const HowCanBeUsed = ()=> (
-  <React.Fragment>
+  <div className={globalStyles.subgrid}>
     <h3 className={globalStyles.sectionTitle}>How Nucleuscan be used</h3>
     <p className={globalStyles.sectionText}>
       All icons are exclusively designed for digital media, especially interfaces on computers, notebooks, tablets, mobile phones, and smart watches.
@@ -35,21 +35,26 @@ const HowCanBeUsed = ()=> (
       <IconLabelBox src={notebookIcon} label='Notebooks'/>
       <IconLabelBox src={desktopMonitorIcon} label='Desktop monitors'/>
     </div>
-    <PictureBox src={iwatchMeasurements} label='Concentric Grid Visualization – V2 Looped MP4'/>
-    <PictureBox src={parabolicProcess} label='Before (foto) <> After (icon)'/>
-    <p className={globalStyles.sectionText}>
-      Icons are founded on a concentric grid, which improves its consistency throughout the set in all arrangements of icons.
-    </p>
-    <div className={styles.iconContainer} style={{marginTop: '10px'}}>
+    <PictureBox src={iwatchMeasurements} label='Concentric Grid Visualization – V2 Looped MP4'>
+      <p className={globalStyles.sectionText}>
+        Icons are founded on a concentric grid, which improves its consistency throughout the set in all arrangements of icons.
+      </p>
+    </PictureBox>
+    <PictureBox src={parabolicProcess} label='Before (foto) <> After (icon)'>
+      <p className={globalStyles.sectionText}>
+        Icons that resemble objects rely on industry research and provide most advanced sources from which the abstractions are derived
+      </p>
+    </PictureBox>
+    <div className={cn(globalStyles.mobileHidden, styles.iconContainer)} style={{marginTop: '10px'}}>
       <IconLabelBox src={penIcon} label='Partnership Proposal'/>
       <IconLabelBox src={slideIcon} label='Dashboard App'/>
       <IconLabelBox src={headIcon} label='Work Experience'/>
       <IconLabelBox src={menuIcon} label='API Docs'/>
     </div>
-    <p className={cn(globalStyles.sectionText, globalStyles.sectionSeparator)}>
+    <p className={cn(globalStyles.sectionText, globalStyles.sectionSeparator, globalStyles.mobileHidden)}>
       Some highly important and much needed terminology from the digital industry has been granted a first time visualization
     </p>
-  </React.Fragment>
+  </div>
 )
 
 export default HowCanBeUsed

@@ -10,6 +10,8 @@
     position: relative;
     height: 100vh;
     background-position: 70%;
+    overflow: hidden;
+    text-align: center;
 }
 
 .watchMockup {
@@ -17,4 +19,17 @@
     top: 130px;
     left: 0;
     width: 480px;
+}
+
+@media (max-width: 900px) {
+    .container {
+        grid-column: col-start / span 3;
+        background-image: none;
+        height: auto;
+    }
+    .watchMockup {
+        position: static;
+        // because the clock is NOT centered on the image (shadow)
+        margin-right: -184px;
+    }
 }

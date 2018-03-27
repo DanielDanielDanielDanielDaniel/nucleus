@@ -2,3 +2,28 @@
     grid-column: col-start / span 12;
     margin-bottom: 25px;
 }
+
+.pictureGrid {
+    grid-column: col-start / span 12;
+    display: grid;
+    grid-template-columns: [col-start] 1fr repeat(5, 1fr) [col-start] 1fr repeat(5, 1fr);
+    grid-template-rows: auto [text] auto
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    p {
+        grid-column-start: col-start;
+        grid-row-start: text;
+    }
+}
+
+@media (max-width: 900px) {
+    .iconContainer {
+        grid-column:  1 / span 3;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: auto auto 0px;
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+        overflow: hidden;
+    }
+}

@@ -30,3 +30,7 @@
 .marketsIcon {
   left: 510px;
   top: 555px; }
+
+@media (max-width: 900px) {
+  .container {
+    display: none; } }

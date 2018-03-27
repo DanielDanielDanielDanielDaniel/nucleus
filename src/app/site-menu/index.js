@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import classNames from 'classnames'
 import ScrollAwareLateralMenu from 'components/composition/scroll-aware-lateral-menu'
+import layoutStyles from 'app/layout/layout.module.css'
 import styles from './site-menu.module.css'
 
 const MenuItem = (props) => (
@@ -14,7 +15,7 @@ const MenuTitle = (props) => (
 class SiteMenu extends Component {
   render() {
     return (
-      <ScrollAwareLateralMenu className={styles.menu}>
+      <ScrollAwareLateralMenu className={classNames(styles.menu, layoutStyles.menu)}>
 
         <MenuTitle>Intro</MenuTitle>
 
