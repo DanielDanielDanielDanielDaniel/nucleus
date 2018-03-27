@@ -5,6 +5,7 @@ import styles from './contact.module.css'
 
 const Contact = ()=> (
   <React.Fragment>
+    <div className={globalStyles.sectionSeparator}/>
     <div className={globalStyles.gridBreak}/>
     <div className={globalStyles.sectionText}>
       <p>

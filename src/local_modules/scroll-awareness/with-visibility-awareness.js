@@ -40,7 +40,7 @@ export class VisibilityInjector extends Component {
       this.setState({ visible: false, ratio: 0 })
   }
   setFullyVisible() {
-    if (!this.state.visible)
+    if (this.state.ratio !== 1)
       this.setState({ visible: true, ratio: 1, shown: true })
   }
   setPartiallyVisible(ratio) {

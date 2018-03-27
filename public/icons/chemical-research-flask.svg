@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="64px" viewBox="0 0 43 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>chemical-research-flask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="11.5" cy="3" r="3"></circle>
+        <circle id="path-2" cx="29" cy="3" r="3"></circle>
+        <circle id="path-3" cx="6" cy="39" r="3"></circle>
+        <circle id="path-4" cx="35" cy="39" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-2" transform="translate(-984.000000, -720.000000)">
+            <g id="chemical-research-flask" transform="translate(985.000000, 721.000000)">
+                <path d="M28.8617641,21.7727273 L28.8617641,3 L11.4299459,3 L11.4299459,21.7727273 L0.254808982,55.4241947 C0.0860324648,55.9324281 3.73034936e-14,56.4644753 3.73034936e-14,57 C3.77475828e-14,59.7614237 2.23857625,62 5,62 L36.2091251,62 C36.7855869,62 37.3577071,61.900313 37.9001975,61.7053453 C40.4988879,60.7713917 41.8484239,57.907618 40.9144703,55.3089276 L40.9144703,55.3089276 L28.8617641,21.7727273 Z" id="Combined-Shape" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-422" transform="translate(11.500000, 3.000000) rotate(-90.000000) translate(-11.500000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="11.5" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-423" transform="translate(29.000000, 3.000000) rotate(-90.000000) translate(-29.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="29" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <path d="M5.7770122,38.7686686 C10.2963279,38.0098706 14.7004294,38.9378512 18.9893166,41.5526105 C23.2782038,44.1673698 28.6282635,43.2393891 35.0394955,38.7686686" id="Path-48" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-424" transform="translate(6.000000, 39.000000) rotate(-90.000000) translate(-6.000000, -39.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="6" cy="39" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-425" transform="translate(35.000000, 39.000000) rotate(-90.000000) translate(-35.000000, -39.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="35" cy="39" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

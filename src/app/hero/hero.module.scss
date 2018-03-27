@@ -1,10 +1,10 @@
-@import 'app/app.module.scss';
+@import 'app/vars.scss';
 
 .hero {
     /* placeholder */
     height: 100vh;
     background-image: url('./background.svg');
-    background-position: center top;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     display: grid;
@@ -16,17 +16,18 @@
 
 .title {
     color: rgba(255, 255, 255, 0.9);
-    font-family: GTAmerica-Light;
+    font-family: 'GT America';
+    font-weight: 300;
     font-size: 42px * $scale;
     letter-spacing: -0.97px * $scale;
     text-align: center;
-    font-weight: normal;
     margin: 0;
 }
 
 .subtitle {
     opacity: 0.4;
-    font-family: GTAmerica-Light;
+    font-family: 'GT America';
+    font-weight: 300;
     font-size: 15.6px * $scale;
     color: #FFFFFF;
     letter-spacing: -0.36px * $scale;

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="99px" viewBox="0 0 95 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>soup-miso-ramen-lunch</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="34" cy="5" r="3"></circle>
+        <circle id="path-2" cx="47" cy="3" r="3"></circle>
+        <circle id="path-3" cx="60" cy="9" r="3"></circle>
+        <circle id="path-4" cx="65" cy="35.5" r="3"></circle>
+        <circle id="path-5" cx="25" cy="35.5" r="3"></circle>
+        <circle id="path-6" cx="46" cy="94" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-5" transform="translate(-958.000000, -701.000000)">
+            <g id="soup-miso-ramen-lunch" transform="translate(959.000000, 702.000000)">
+                <path d="" id="Path-85" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="" id="Path-87" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M34.439978,6 C38.3067972,9.11403024 43.4414716,14.3627004 34.8542552,23.2029318 C28.7501755,29.4868629 33.8401101,40.2348699 37.1439015,43.8041881" id="Path-89" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M59.8548826,9 C63.7217018,12.1140302 68.4028737,18.1190434 59.7252948,26.2029318 C53.5983148,31.9107245 59.2550147,43.2348699 62.5588061,46.8041881" id="Path-89-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M47.8548826,3 C51.7217018,6.85538387 57.8463426,12.460652 47.7252948,23.2984142 C40.0302619,31.5383649 45.9689331,44.0531754 50.5588061,48.8041881" id="Path-89-Copy-2" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M75.5239403,35.2838418 C57.9487567,37.2342965 48.3623523,40.4359991 46.7647272,44.8889495 C44.3682895,51.5683751 47.6358326,67.2473209 56.1214589,75.482887 C64.6070853,83.7184531 74.3801612,86.8308613 71.7126008,89.1246485 C69.9342272,90.65384 70.1822727,91.6748748 72.4567374,92.1877528 C77.7117702,93.3203513 84.488213,93.8866505 92.7860658,93.8866505" id="Path-86-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(69.393033, 64.585246) scale(-1, 1) translate(-69.393033, -64.585246) "></path>
+                <path d="M92.5,58 C92.5,51.342132 72.0170273,45.9448635 46.75,45.9448635 C21.4829727,45.9448635 1,51.342132 1,58" id="Oval-19" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(46.750000, 51.972432) rotate(-180.000000) translate(-46.750000, -51.972432) "></path>
+                <path d="M27.8160717,35 C11.3708164,37.3946067 2.35247466,40.6909232 0.761046493,44.8889495 C-1.62609575,51.1859889 1.63215187,67.2473209 10.1177782,75.482887 C18.6034046,83.7184531 28.3764805,86.8308613 25.7089201,89.1246485 C23.9305465,90.65384 24.178592,91.6748748 26.4530567,92.1877528 C31.7080895,93.3203513 38.4845323,93.8866505 46.7823851,93.8866505" id="Path-86" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-464" transform="translate(34.000000, 5.000000) rotate(-90.000000) translate(-34.000000, -5.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="34" cy="5" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-465" transform="translate(47.000000, 3.000000) rotate(-90.000000) translate(-47.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="47" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-466" transform="translate(60.000000, 9.000000) rotate(-90.000000) translate(-60.000000, -9.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="60" cy="9" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-469" transform="translate(65.000000, 35.500000) rotate(-90.000000) translate(-65.000000, -35.500000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="65" cy="35.5" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval-Copy-470" transform="translate(25.000000, 35.500000) rotate(-90.000000) translate(-25.000000, -35.500000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="25" cy="35.5" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+                <g id="Oval-Copy-471" transform="translate(46.000000, 94.000000) rotate(-90.000000) translate(-46.000000, -94.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="46" cy="94" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-6"></use>
+                </g>
+                <path d="" id="Path-88" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

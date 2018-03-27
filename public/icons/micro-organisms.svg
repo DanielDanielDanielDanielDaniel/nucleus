@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="75px" viewBox="0 0 91 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>micro-organisms</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="19" cy="61" r="3"></circle>
+        <circle id="path-2" cx="85" cy="7" r="3"></circle>
+        <circle id="path-3" cx="57" cy="43" r="3"></circle>
+        <circle id="path-4" cx="66" cy="60" r="3"></circle>
+        <circle id="path-5" cx="29" cy="4" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-5" transform="translate(-957.000000, -885.000000)">
+            <g id="micro-organisms" transform="translate(958.000000, 885.000000)">
+                <polygon id="Star" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" points="20.5 38.7999589 15.9383209 40.4860222 12.5599454 36.9876932 7.71845906 36.5275454 6.19251602 31.9098377 2.03013821 29.3946167 2.65885929 24.5721239 0 20.5 2.65885929 16.4278761 2.03013821 11.6053833 6.19251602 9.09016226 7.71845906 4.47245461 12.5599454 4.01230676 15.9383209 0.5139778 20.5 2.20004112 25.0616791 0.5139778 28.4400546 4.01230676 33.2815409 4.47245461 34.807484 9.09016226 38.9698618 11.6053833 38.3411407 16.4278761 41 20.5 38.3411407 24.5721239 38.9698618 29.3946167 34.807484 31.9098377 33.2815409 36.5275454 28.4400546 36.9876932 25.0616791 40.4860222"></polygon>
+                <polygon id="Star-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(65.629010, 50.212387) rotate(-15.000000) translate(-65.629010, -50.212387) " points="65.6290098 71.1903884 60.3997679 73.1231927 56.526996 69.1129131 50.9769995 68.5854266 49.2277477 63.2919568 44.4562414 60.4086546 45.1769705 54.8804312 42.1290098 50.2123867 45.1769705 45.5443422 44.4562414 40.0161188 49.2277477 37.1328166 50.9769995 31.8393469 56.526996 31.3118603 60.3997679 27.3015808 65.6290098 29.2343851 70.8582518 27.3015808 74.7310236 31.3118603 80.2810202 31.8393469 82.030272 37.1328166 86.8017782 40.0161188 86.0810492 45.5443422 89.1290098 50.2123867 86.0810492 54.8804312 86.8017782 60.4086546 82.030272 63.2919568 80.2810202 68.5854266 74.7310236 69.1129131 70.8582518 73.1231927"></polygon>
+                <circle id="Oval-13" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="25.5" cy="60.5" r="7.5"></circle>
+                <circle id="Oval-13-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="16" cy="21" r="3"></circle>
+                <circle id="Oval-13-Copy-2" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="56" cy="47" r="5"></circle>
+                <circle id="Oval-13-Copy-3" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="71.5" cy="56.5" r="6.5"></circle>
+                <path d="M50,18.1372227 C50.9325094,17.5041655 52.864741,17.3823082 53.9436978,18.1372227 C55.0226546,18.8921373 58.5802885,19.8951382 60.0226316,16.6967922 C61.4649748,13.4984462 64.126438,12.0918953 66.6739673,12.8599245 C69.2214966,13.6279538 71.830501,13.1601964 73.0351403,10.7380763 C74.2397796,8.31595629 75.3181899,6.28427162 78.8504142,7.24219072 C82.3826384,8.20010983 82.1741694,8.14956361 84.3238864,7.24219072" id="Path-76" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-467" transform="translate(19.000000, 61.000000) rotate(-90.000000) translate(-19.000000, -61.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="19" cy="61" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-472" transform="translate(85.000000, 7.000000) rotate(-90.000000) translate(-85.000000, -7.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="85" cy="7" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-515" transform="translate(57.000000, 43.000000) rotate(-90.000000) translate(-57.000000, -43.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="57" cy="43" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-516" transform="translate(66.000000, 60.000000) rotate(-90.000000) translate(-66.000000, -60.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="66" cy="60" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval-Copy-517" transform="translate(29.000000, 4.000000) rotate(-90.000000) translate(-29.000000, -4.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="29" cy="4" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

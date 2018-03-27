@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="89px" viewBox="0 0 70 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>ingestion</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="63" cy="84" r="3"></circle>
+        <circle id="path-2" cx="61" cy="11" r="3"></circle>
+        <circle id="path-3" cx="8" cy="20" r="3"></circle>
+        <circle id="path-4" cx="13" cy="74" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-6" transform="translate(-779.000000, -386.000000)">
+            <g id="ingestion" transform="translate(780.000000, 387.000000)">
+                <path d="M46.8071179,83.9040434 L63.3077601,83.9019202 L59.4991877,60.8083575 C58.7766934,56.2885861 59.6051323,52.5737546 61.9845044,49.663863 C65.5535625,45.2990256 71.3223649,31.6656298 65.5535625,17.8470301 C59.7847602,4.02843042 41.5511388,-5.91881059 23.0116323,4.02843042 C10.6519613,10.6599244 4.5888242,21.5801829 4.82222092,36.7892057 C0.693727044,48.4437911 -0.783841776,55.2142296 0.389514461,57.1005213 C1.5628707,58.9868129 4.03615934,59.5161375 7.80938039,58.6884952 L7.80938039,62.852766 M7.80938039,66.7331591 C7.86689263,72.0154896 10.705889,74.6566549 16.3263694,74.6566549 C24.7570901,74.6566549 24.2306677,74.7448475 25.3057863,74.7575708 C28.9350716,74.8005209 30.8641703,76.3564651 31.8803375,81.1858042 C32.1133248,82.2930771 33.0024005,83.1996827 34.5475646,83.9056208 L42.7004364,83.9045718" id="Path-92" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-461" transform="translate(63.000000, 84.000000) rotate(-90.000000) translate(-63.000000, -84.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="63" cy="84" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-462" transform="translate(61.000000, 11.000000) rotate(-90.000000) translate(-61.000000, -11.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="61" cy="11" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-463" transform="translate(8.000000, 20.000000) rotate(-90.000000) translate(-8.000000, -20.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="8" cy="20" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-469" transform="translate(13.000000, 74.000000) rotate(-90.000000) translate(-13.000000, -74.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="13" cy="74" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <path d="M7.97552505,66.7751989 C11.1336652,66.7751989 26.9454363,66.7751989 34.5580002,66.7751989 C42.1705642,66.7751989 42.6954235,68.181544 42.6954235,73.0274274 C42.6954235,76.2580163 42.6954235,79.8555767 42.6954235,83.8201087" id="Path-195" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8.08529283,62.844517 C21.2067764,62.844517 30.4248587,62.844517 35.7395396,62.844517 C43.711561,62.844517 46.8091102,65.6235757 46.8091102,71.9856072 C46.8091102,76.2269615 46.8091102,80.1636355 46.8091102,83.7956294" id="Path-196" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

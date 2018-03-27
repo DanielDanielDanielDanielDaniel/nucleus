@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="97px" viewBox="0 0 56 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>location-marker-for-house</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="27" cy="92" r="3"></circle>
+        <circle id="path-2" cx="27" cy="3" r="3"></circle>
+        <circle id="path-3" cx="37" cy="38" r="3"></circle>
+        <circle id="path-4" cx="18" cy="38" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-7" transform="translate(-410.000000, -1537.000000)">
+            <g id="location-marker-for-house" transform="translate(411.000000, 1538.000000)">
+                <path d="M53.5876093,31.3424869 C53.5876093,47.1535871 27,90.4814961 27,90.4814961 C27,90.4814961 0.412390744,47.1535871 0.412390744,31.3424869 C0.412390744,15.5390174 12.3130046,2.72683724 27,2.72683724 C41.6834503,2.72683724 53.5876093,15.5390174 53.5876093,31.3424869 Z" id="Stroke-1" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M46.8175219,29.7808958 C46.8175219,40.9188066 37.9392721,49.9460935 27,49.9460935 C16.0541221,49.9460935 7.18247815,40.9188066 7.18247815,29.7808958 C7.18247815,18.6497067 16.0541221,9.61569811 27,9.61569811 C37.9392721,9.61569811 46.8175219,18.6497067 46.8175219,29.7808958 Z" id="Stroke-3" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Path-430" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" points="15 26.3624676 27.2975536 17 39.7931274 26.3076381"></polyline>
+                <polyline id="Path-431" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" points="23.1430749 38.6201256 23.1430749 29.671 32.0650318 29.671 32.0650318 38.5767626"></polyline>
+                <polyline id="Path-429" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" points="17.9149 24.35473 17.9149 38.6558581 36.9413916 38.6558581 36.9413916 24.178445"></polyline>
+                <g id="Oval-Copy-124" transform="translate(27.000000, 92.000000) rotate(-90.000000) translate(-27.000000, -92.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="27" cy="92" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-125" transform="translate(27.000000, 3.000000) rotate(-90.000000) translate(-27.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="27" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-126" transform="translate(37.000000, 38.000000) rotate(-90.000000) translate(-37.000000, -38.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="37" cy="38" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-127" transform="translate(18.000000, 38.000000) rotate(-90.000000) translate(-18.000000, -38.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="18" cy="38" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -10,6 +10,7 @@ import UsecaseJet from 'app/usecase-jet'
 import DesignSpecification from 'app/design-specifications'
 import HowCanBeUsed from 'app/how-can-be-used'
 import Features from 'app/features'
+import IconsetGallery from 'app/iconset-gallery'
 import Contact from 'app/contact'
 
 import ScrollSpy from 'scroll-spy'
@@ -34,6 +35,7 @@ class App extends Component {
             <DesignSpecification sectionid='design-spec' />
             <HowCanBeUsed sectionid='how-to-use'/>
             <Features sectionid='features' />
+            <IconsetGallery sectionid='iconset'/>
             <Contact sectionid='contact' />
           </ScrollSpy>
         </Layout>
