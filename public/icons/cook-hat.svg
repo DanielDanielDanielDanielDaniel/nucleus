@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="84px" viewBox="0 0 69 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>cook-hat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,71 C13.6568542,71 15,69.6568542 15,68 C15,66.3431458 13.6568542,65 12,65 C10.3431458,65 9,66.3431458 9,68 C9,69.6568542 10.3431458,71 12,71 Z" id="path-1"></path>
+        <path d="M55,71 C56.6568542,71 58,69.6568542 58,68 C58,66.3431458 56.6568542,65 55,65 C53.3431458,65 52,66.3431458 52,68 C52,69.6568542 53.3431458,71 55,71 Z" id="path-2"></path>
+        <path d="M55,37 C56.6568542,37 58,35.6568542 58,34 C58,32.3431458 56.6568542,31 55,31 C53.3431458,31 52,32.3431458 52,34 C52,35.6568542 53.3431458,37 55,37 Z" id="path-3"></path>
+        <path d="M12,37 C13.6568542,37 15,35.6568542 15,34 C15,32.3431458 13.6568542,31 12,31 C10.3431458,31 9,32.3431458 9,34 C9,35.6568542 10.3431458,37 12,37 Z" id="path-4"></path>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-1" transform="translate(-592.000000, -608.000000)">
+            <g id="cook-hat" transform="translate(593.000000, 609.000000)">
+                <path d="M54.6843931,8.93713489 C52.5754598,8.93713489 50.5932738,9.47336298 48.8610615,10.4206993 C47.1922228,4.41136978 39.9993169,0 33.5492906,0 C27.0992643,0 19.8148187,4.41136978 18.1424593,10.4206993 C16.410247,9.47336298 14.4245402,8.93713489 12.3261692,8.93713489 C5.51702575,8.93713489 0,14.538931 0,21.4491237 C0,28.3593164 5.27761429,33.9611126 12.3191277,33.9611126 L12.3191277,82 L54.6738308,82 L54.6738308,33.9611126 C61.7153442,33.9611126 67,28.3593164 67,21.4491237 C67,14.538931 61.486495,8.93713489 54.6843931,8.93713489 Z" id="Stroke-1" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M12.7387565,67.9781165 L54.2612435,67.9781165 L12.7387565,67.9781165 Z" id="Stroke-3" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-219" transform="translate(12.000000, 68.000000) rotate(-90.000000) translate(-12.000000, -68.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#151515" stroke-width="1.5" d="M12,70.25 C13.2426407,70.25 14.25,69.2426407 14.25,68 C14.25,66.7573593 13.2426407,65.75 12,65.75 C10.7573593,65.75 9.75,66.7573593 9.75,68 C9.75,69.2426407 10.7573593,70.25 12,70.25 Z"></path>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-220" transform="translate(55.000000, 68.000000) rotate(-90.000000) translate(-55.000000, -68.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#151515" stroke-width="1.5" d="M55,70.25 C56.2426407,70.25 57.25,69.2426407 57.25,68 C57.25,66.7573593 56.2426407,65.75 55,65.75 C53.7573593,65.75 52.75,66.7573593 52.75,68 C52.75,69.2426407 53.7573593,70.25 55,70.25 Z"></path>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-215" transform="translate(55.000000, 34.000000) rotate(-90.000000) translate(-55.000000, -34.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#151515" stroke-width="1.5" d="M55,36.25 C56.2426407,36.25 57.25,35.2426407 57.25,34 C57.25,32.7573593 56.2426407,31.75 55,31.75 C53.7573593,31.75 52.75,32.7573593 52.75,34 C52.75,35.2426407 53.7573593,36.25 55,36.25 Z"></path>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-218" transform="translate(12.000000, 34.000000) rotate(-90.000000) translate(-12.000000, -34.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <path stroke="#151515" stroke-width="1.5" d="M12,36.25 C13.2426407,36.25 14.25,35.2426407 14.25,34 C14.25,32.7573593 13.2426407,31.75 12,31.75 C10.7573593,31.75 9.75,32.7573593 9.75,34 C9.75,35.2426407 10.7573593,36.25 12,36.25 Z"></path>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

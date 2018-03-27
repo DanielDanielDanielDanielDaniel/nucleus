@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="82px" viewBox="0 0 75 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>muscle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="36" cy="47" r="3"></circle>
+        <circle id="path-2" cx="42" cy="6" r="3"></circle>
+        <circle id="path-3" cx="3" cy="40" r="3"></circle>
+        <circle id="path-4" cx="40" cy="77" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-6" transform="translate(-970.000000, -388.000000)">
+            <g id="muscle" transform="translate(971.000000, 389.000000)">
+                <path d="M2.16171636,71.0039727 C15.1420366,75.8003922 26.6682624,76.7111831 36.7204906,76.9017824 C46.7727187,77.0923817 58.2000615,75.3952942 66.626273,70.5323202 C75.0524846,65.6693462 74.5722175,51.2710235 67.9012423,46.0936146 C61.2302671,40.9162056 54.186708,43.11402 51.2803381,46.0936146 C49.8152667,47.5955977 48.4932355,49.2553969 47.3142444,51.0730122 C46.9340011,51.6592219 41.7676028,44.3319172 31.5495426,47.957611 C24.7375024,50.3747403 20.864855,54.3717272 19.9316005,59.9485719 C20.3219147,57.991471 20.3219147,56.3518369 19.9316005,55.0296694 C21.5394669,53.6332118 25.0534095,47.3715246 24.898721,40.884836 C24.7440325,34.3981474 24.2663307,31.1790931 23.2938813,26.0735211 C35.1465128,25.7372974 45.4296742,21.7401132 45.407515,15.3126579 C45.3853557,8.88520264 39.7798446,2.06996084 37.5454235,0.577621899 C35.3110025,-0.914717046 32.4345639,0.811572237 30.4253183,2.06996084 C28.4160727,3.32834945 7.54488549,17.8024937 2.88139481,41.5517436 C-1.6335484,64.5445021 -0.0180552697,70.198515 2.16171636,71.0039727 Z" id="Path-197" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-465" transform="translate(36.000000, 47.000000) rotate(-90.000000) translate(-36.000000, -47.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="36" cy="47" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-466" transform="translate(42.000000, 6.000000) rotate(-90.000000) translate(-42.000000, -6.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="42" cy="6" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-467" transform="translate(3.000000, 40.000000) rotate(-90.000000) translate(-3.000000, -40.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3" cy="40" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-468" transform="translate(40.000000, 77.000000) rotate(-90.000000) translate(-40.000000, -77.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="40" cy="77" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

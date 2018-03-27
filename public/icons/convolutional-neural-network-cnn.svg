@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="101px" viewBox="0 0 46 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>convolutional-neural-network-cnn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="22" cy="60" r="3"></circle>
+        <circle id="path-2" cx="22" cy="3" r="3"></circle>
+        <circle id="path-3" cx="22" cy="96" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-3" transform="translate(-983.000000, -534.000000)">
+            <g id="convolutional-neural-network-cnn" transform="translate(984.000000, 535.000000)">
+                <circle id="Oval-3-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="22" cy="74" r="22"></circle>
+                <circle id="Oval-3-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="22" cy="60" r="5"></circle>
+                <circle id="Oval-3-Copy-2" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="22" cy="25" r="22"></circle>
+                <path d="M26,63 L41,36" id="Path-12" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M3,63 L18,36" id="Path-12-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(10.500000, 49.500000) scale(1, -1) translate(-10.500000, -49.500000) "></path>
+                <g id="Oval-Copy-456" transform="translate(22.000000, 60.000000) rotate(-90.000000) translate(-22.000000, -60.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="22" cy="60" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-459" transform="translate(22.000000, 3.000000) rotate(-90.000000) translate(-22.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="22" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-457" transform="translate(22.000000, 96.000000) rotate(-90.000000) translate(-22.000000, -96.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="22" cy="96" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
