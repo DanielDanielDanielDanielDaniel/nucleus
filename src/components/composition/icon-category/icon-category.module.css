@@ -1,0 +1,18 @@
+.container {
+  grid-column: col-start / span 12; }
+
+.title {
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.35px;
+  font-weight: 300;
+  opacity: 0.8;
+  margin-bottom: 22px;
+  margin-top: 30px; }
+
+.iconGrid {
+  grid-column: 1 / span 12;
+  display: grid;
+  grid-template-columns: repeat(7, [col-start] 1fr);
+  grid-column-gap: 7px;
+  grid-row-gap: 7px; }
