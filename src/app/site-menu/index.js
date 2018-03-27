@@ -40,7 +40,7 @@ class SiteMenu extends Component {
 
         <MenuTitle>Product</MenuTitle>
 
-        <MenuItem sectionid='product'>
+        <MenuItem sectionid='iconset'>
           Iconset
         </MenuItem>
 

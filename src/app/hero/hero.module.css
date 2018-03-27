@@ -3,7 +3,7 @@
   /* placeholder */
   height: 100vh;
   background-image: url("./background.svg");
-  background-position: center top;
+  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   display: grid;
@@ -13,16 +13,17 @@
 
 .title {
   color: rgba(255, 255, 255, 0.9);
-  font-family: GTAmerica-Light;
+  font-family: 'GT America';
+  font-weight: 300;
   font-size: 57.75px;
   letter-spacing: -1.33375px;
   text-align: center;
-  font-weight: normal;
   margin: 0; }
 
 .subtitle {
   opacity: 0.4;
-  font-family: GTAmerica-Light;
+  font-family: 'GT America';
+  font-weight: 300;
   font-size: 21.45px;
   color: #FFFFFF;
   letter-spacing: -0.495px;
