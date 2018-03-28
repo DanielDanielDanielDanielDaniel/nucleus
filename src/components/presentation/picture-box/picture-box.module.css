@@ -34,4 +34,6 @@
     margin-top: 35px;
     margin-bottom: 0; }
   .content {
-    grid-template-columns: repeat(3, 1fr); } }
+    grid-template-columns: repeat(3, 1fr); }
+  .imageBox {
+    height: 225px; } }

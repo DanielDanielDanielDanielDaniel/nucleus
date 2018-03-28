@@ -51,9 +51,10 @@ const HowCanBeUsed = ()=> (
       <IconLabelBox src={headIcon} label='Work Experience'/>
       <IconLabelBox src={menuIcon} label='API Docs'/>
     </div>
-    <p className={cn(globalStyles.sectionText, globalStyles.sectionSeparator, globalStyles.mobileHidden)}>
+    <p className={cn(globalStyles.sectionText, globalStyles.mobileHidden)}>
       Some highly important and much needed terminology from the digital industry has been granted a first time visualization
     </p>
+    <div className={globalStyles.sectionSeparator}/>
   </div>
 )
 

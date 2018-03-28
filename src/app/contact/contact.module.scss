@@ -1,3 +1,10 @@
+
 .illustration {
     grid-column: 7 / span 6;
+}
+
+@media (max-width: 900px) {
+    .section {
+        margin-top: 50px;
+    }
 }

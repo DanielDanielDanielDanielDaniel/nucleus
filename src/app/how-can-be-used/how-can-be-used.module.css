@@ -6,10 +6,12 @@
   grid-column: col-start / span 12;
   display: grid;
   grid-template-columns: [col-start] 1fr repeat(5, 1fr) [col-start] 1fr repeat(5, 1fr);
+  grid-template-rows: auto [text] auto;
   grid-column-gap: 10px;
   grid-row-gap: 10px; }
   .pictureGrid p {
-    grid-column-start: col-start; }
+    grid-column-start: col-start;
+    grid-row-start: text; }
 
 @media (max-width: 900px) {
   .iconContainer {
