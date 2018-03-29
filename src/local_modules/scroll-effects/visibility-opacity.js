@@ -1,5 +1,5 @@
-import React from 'react'
 import _ from 'lodash'
+import React from 'react'
 import withVisibilityAwareness from 'scroll-awareness/with-visibility-awareness'
 import easingFunctions from './easing-functions'
 import { vmap } from './utils'

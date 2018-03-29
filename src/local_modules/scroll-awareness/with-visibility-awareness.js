@@ -26,14 +26,22 @@ export class VisibilityInjector extends Component {
     const height = rect.height
     const bottom = top + height
     const viewportHeight = window.innerHeight
+    const visibilityRatio = this.calculateVisibility(top, bottom, height, viewportHeight)
     switch(true) {
       case (top > viewportHeight): return this.setHidden()
       case (top < -height): return this.setHidden()
       case (top >= 0 && bottom < viewportHeight): return this.setFullyVisible()
-      case (top >= 0): return this.setPartiallyVisible((viewportHeight - top) / height)
-      case (top < 0): return this.setPartiallyVisible((top + height) / height)
+      case (top >= 0): return this.setPartiallyVisible(visibilityRatio)
+      case (top < 0): return this.setPartiallyVisible(visibilityRatio)
       default: throw new Error('Uknown state')
     }
+  }
+  calculateVisibility(top, bottom, height, viewportHeight) {
+    if (bottom < 0 || top > viewportHeight) return 0
+    const visibleHeight = Math.min(bottom, viewportHeight) - Math.max(top, 0)
+    const thingVisibleRatio = visibleHeight / height
+    const viewportCoveredRatio = visibleHeight / viewportHeight
+    return Math.max(thingVisibleRatio, viewportCoveredRatio)
   }
   setHidden() {
     if (this.state.visible)
