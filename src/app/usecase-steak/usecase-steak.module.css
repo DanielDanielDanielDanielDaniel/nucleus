@@ -8,11 +8,12 @@
   background-position: center;
   position: relative;
   height: 100vh;
+  min-height: 700px;
   grid-column: col-start / span 12; }
 
 .phoneMockup {
   position: absolute;
-  top: 180px;
+  top: calc(50% - 250px);
   left: 25%; }
   .phoneMockup img {
     width: 300px; }
@@ -20,9 +21,8 @@
 @media (max-width: 900px) {
   .container {
     grid-column: col-start / span 3;
-    background-size: cover; }
+    background-size: auto 100%; }
   .phoneMockup {
-    top: 25%;
     width: 100%;
     left: 0;
     text-align: center; } }
