@@ -35,13 +35,8 @@ class App extends Component {
             <DesignSpecification sectionid='design-spec' />
             <HowCanBeUsed sectionid='how-to-use'/>
             <Features sectionid='features' />
-
+            <IconsetGallery sectionid='iconset'/>
             <Contact sectionid='contact' />
-            {/*
-               <IconsetGallery sectionid='iconset'/>
-               
-            */}
-
           </ScrollSpy>
         </Layout>
       </div>
