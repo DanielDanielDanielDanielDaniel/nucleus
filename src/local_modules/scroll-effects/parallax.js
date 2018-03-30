@@ -8,7 +8,6 @@ const Parallax = (props) => {
   const parallaxRatio = vmap(props.ratio, 0, 1, -1, 1)
   const parallaxSpeed = props.speed
   const position = parallaxSpeed * parallaxRatio
-  console.log('position:', position)
   // style
   const style = _.assign(
     {},
