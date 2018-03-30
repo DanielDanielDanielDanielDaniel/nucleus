@@ -13,9 +13,18 @@
 }
 
 .iconGrid {
-    grid-column: 1 / span 12;
     display: grid;
     grid-template-columns: repeat(7, [col-start] 1fr);
     grid-column-gap: 7px;
     grid-row-gap: 7px;
+}
+
+@media (max-width: 900px) {
+    .container {
+        grid-column: col-start / span 3;
+        padding: 0 15px;
+    }
+    .iconGrid {
+        grid-template-columns: repeat(3, [col-start] 1fr);
+    }
 }
