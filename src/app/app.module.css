@@ -48,6 +48,9 @@ body {
 .sectionSeparator {
   margin-bottom: 315px; }
 
+.desktopHidden {
+  display: none; }
+
 @media (max-width: 900px) {
   .app {
     padding-top: 35px; }
@@ -61,6 +64,8 @@ body {
     grid-column: 1 / span 3; }
   .mobileHidden {
     display: none !important; }
+  .desktopHidden {
+    display: block; }
   .sectionSeparator {
     margin-top: 75px;
     margin-bottom: 30px;

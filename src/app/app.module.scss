@@ -66,6 +66,8 @@ body {
 
 .mobileHidden {}
 
+.desktopHidden { display: none; }
+ 
 @media (max-width: 900px) {
     .app {
         padding-top: 35px;
@@ -84,6 +86,9 @@ body {
     }
     .mobileHidden {
         display: none !important;
+    }
+    .desktopHidden {
+        display: block;
     }
     .sectionSeparator {
         margin-top: 75px;

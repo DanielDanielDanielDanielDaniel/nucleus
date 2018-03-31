@@ -8,7 +8,7 @@ import Hero from 'app/hero'
 import UsecaseSteak from 'app/usecase-steak'
 import UsecaseWatch from 'app/usecase-watch'
 import UsecaseJet from 'app/usecase-jet'
-import DesnnignSpecification from 'app/design-specifications'
+import DesignSpecification from 'app/design-specifications'
 import HowCanBeUsed from 'app/how-can-be-used'
 import Features from 'app/features'
 import IconsetGallery from 'app/iconset-gallery'
@@ -23,13 +23,20 @@ import 'normalize.css'
 import styles from './app.module.css'
 
 class App extends Component {
+  constructor(props) {
+    super(props)
+    this.state = { menuOpen: false }
+    // handlers
+    this.onOpenMenu = () => this.setState({ menuOpen: true })
+    this.onCloseMenu = () => this.setState({ menuOpen: false})
+  }
   render() {
     return (
       <div className={styles.app}>
-        <Header/>
+        <Header onOpenMenu={this.onOpenMenu}/>
         <Hero/>
         <Layout>
-          <SiteMenu/>
+          <SiteMenu onCloseMenu={this.onCloseMenu} isMenuOpen={this.state.menuOpen}/>
           <ScrollSpy idprop='sectionid' onScroll={sectionWatcher.update}>
             <UsecaseSteak sectionid='usecases' />
             <UsecaseWatch sectionid='usecases' />

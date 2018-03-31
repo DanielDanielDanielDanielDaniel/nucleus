@@ -18,6 +18,7 @@ class ScrollSpy extends Component {
   }
   getChildTop(child) {
     const node = ReactDOM.findDOMNode(child)
+    if (!node) return {}
     const { top } = node.getBoundingClientRect()
     const key = child.props && child.props[this.idProp]
     return key ? { [key]: top } : {}
