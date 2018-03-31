@@ -67,6 +67,9 @@ body {
 .mobileHidden {}
 
 @media (max-width: 900px) {
+    .app {
+        padding-top: 35px;
+    }
     .sectionTitle {
         grid-column: 1 / span 3;
     }

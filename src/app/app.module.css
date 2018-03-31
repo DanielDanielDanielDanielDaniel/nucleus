@@ -49,6 +49,8 @@ body {
   margin-bottom: 315px; }
 
 @media (max-width: 900px) {
+  .app {
+    padding-top: 35px; }
   .sectionTitle {
     grid-column: 1 / span 3; }
   .sectionText, .bigSectionText {

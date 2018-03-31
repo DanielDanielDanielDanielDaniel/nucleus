@@ -3,11 +3,12 @@ import sectionWatcher from 'lib/section-watcher'
 import Layout from 'app/layout'
 import SiteMenu from 'app/site-menu'
 
+import Header from 'app/header'
 import Hero from 'app/hero'
 import UsecaseSteak from 'app/usecase-steak'
 import UsecaseWatch from 'app/usecase-watch'
 import UsecaseJet from 'app/usecase-jet'
-import DesignSpecification from 'app/design-specifications'
+import DesnnignSpecification from 'app/design-specifications'
 import HowCanBeUsed from 'app/how-can-be-used'
 import Features from 'app/features'
 import IconsetGallery from 'app/iconset-gallery'
@@ -25,6 +26,7 @@ class App extends Component {
   render() {
     return (
       <div className={styles.app}>
+        <Header/>
         <Hero/>
         <Layout>
           <SiteMenu/>
