@@ -5,8 +5,10 @@ import styles from './usecase-steak.module.css'
 
 const UsecaseSteak = ()=> (
   <div className={styles.container}>
-    <Parallax speed={100}>
-      <img src={phoneMock} className={styles.phoneMockup} alt='app usecase'/>
+    <Parallax speed={200}>
+      <div className={styles.phoneMockup}>
+        <img src={phoneMock} alt='app usecase'/>
+      </div>
     </Parallax>
   </div>
 )

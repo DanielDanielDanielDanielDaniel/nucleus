@@ -2,6 +2,7 @@
     display: grid;
     width: 1200px;
     grid-template-columns: [lateral-menu] 300px [main-content] 900px;
+    grid-template-areas: "menu main-content";
     align-items: start;
     align-content: start;
     /* just for debug */
@@ -10,8 +11,55 @@
 
 .mainContent {
     display: grid;
-    grid-column: main-content;
+    grid-area: main-content;
     grid-template-columns: repeat(12, [col-start] 1fr);
     grid-column-gap: 10px;
     grid-row-gap: 0;
+}
+
+.menu {
+    grid-area: menu;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+}
+
+@media (min-width: 900px) and (max-width: 1200px) {
+    .layout {
+        width: 900px;
+        margin: 0 auto;
+        grid-template-columns: 900px;
+        grid-template-rows: 0 auto;
+        grid-template-areas: "menu" "main-content";
+    }
+
+    .fixed {
+        position: static;
+    }
+}
+
+@media (max-width: 900px) {
+    .layout {
+        min-width: 320px;
+        width: 100%;
+        margin: 0 auto;
+        grid-template-columns: auto;
+        grid-template-rows: 0 auto;
+        grid-template-areas: "menu" "main-content";
+    }
+
+    .fixed {
+        position: static;
+    }
+
+    .mainContent {
+        display: grid;
+        grid-area: main-content;
+        grid-template-columns: repeat(3, [col-start] 1fr);
+        grid-column-gap: 10px;
+        grid-row-gap: 0;
+    }
 }

@@ -3,7 +3,7 @@ import classNames from 'classnames'
 
 class LateralMenu extends Component {
   render() {
-    const { activeSectionId } = this.props
+    const { activeSectionId, pre, post } = this.props
     const children = React.Children.map(
       this.props.children, child => React.cloneElement(child, {
         className: classNames(child.props.className, {
@@ -13,9 +13,11 @@ class LateralMenu extends Component {
     )
     return (
       <aside className={this.props.className}>
+        {pre}
         <ul>
           {children}
         </ul>
+        {post}
       </aside>
     )
   }

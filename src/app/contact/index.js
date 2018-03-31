@@ -1,11 +1,13 @@
 import React from 'react'
+import cn from 'classnames'
 import valuesChart from './assets/values-chart.svg'
 import globalStyles from 'app/app.module.css'
 import styles from './contact.module.css'
 
 const Contact = ()=> (
-  <React.Fragment>
-    <div className={globalStyles.sectionSeparator}/>
+  <div className={cn(globalStyles.subgrid, styles.section)}>
+    <div className={cn(globalStyles.sectionSeparator, globalStyles.mobileHidden)}/>
+    <div className={globalStyles.sectionTitle}>About</div>
     <div className={globalStyles.gridBreak}/>
     <div className={globalStyles.sectionText}>
       <p>
@@ -45,10 +47,10 @@ const Contact = ()=> (
       </p>
 
     </div>
-    <div className={styles.illustration}>
+    <div className={cn(styles.illustration, globalStyles.mobileHidden)}>
       <img src={valuesChart} alt='values chart'/>
     </div>
-  </React.Fragment>
+  </div>
 )
 
 export default Contact

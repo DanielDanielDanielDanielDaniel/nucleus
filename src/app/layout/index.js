@@ -8,7 +8,7 @@ class Layout extends Component {
     const [menu, ...rest] = React.Children.toArray(this.props.children)
     return (
       <StickyScrollContainer className={styles.layout}>
-        <StickyScrollBox>
+        <StickyScrollBox stickyClass={styles.fixed}>
           {menu}
         </StickyScrollBox>
         <main className={styles.mainContent}>

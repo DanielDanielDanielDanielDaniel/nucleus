@@ -1,4 +1,6 @@
 import React from 'react'
+import { identity } from 'lodash'
+import { nextTick } from 'lib/utils'
 import sectionWatcher from 'lib/section-watcher'
 import withEventEmitter from 'with-event-emitter'
 import LateralMenu from 'components/composition/lateral-menu'
@@ -9,7 +11,10 @@ const ScrollAwareLateralMenu = (props) => {
     props.children, (ch) => {
       if (!ch.props.sectionid) return ch
       else return React.cloneElement(ch, {
-        onClick: () => sectionWatcher.goto(ch.props.sectionid)
+        onClick: (e) => {
+          sectionWatcher.goto(ch.props.sectionid)
+          nextTick(props.onClick)
+        }
       })
     }
   )

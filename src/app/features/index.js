@@ -18,32 +18,36 @@ import globalStyles from 'app/app.module.css'
 import styles from './features.module.css'
 
 const Features = ()=> (
-  <React.Fragment>
+  <div className={globalStyles.subgrid}>
     <h3 className={globalStyles.sectionTitle}>Powerful Features</h3>
     <p className={globalStyles.bigSectionText}>
       Powerful features that allow you to truly customize through powerful functionality
     </p>
     <div className={styles.gridBreak}/>
     <PictureBox src={thumb1} className={styles.pictureCover}
-                label='How to change sketch styles within seconds'/>
+                label='How to change sketch styles within seconds'>
+      <p className={cn(globalStyles.sectionText, styles.withIcon, styles.sketch)}>
+        Sketch styles allow you to customize the looks of the iconset to your needs.
+      </p>
+    </PictureBox>
     <PictureBox src={thumb2} className={styles.pictureCover}
-                label='Change thickness and size of the icons to match their surrounding.'/>
-    <p className={cn(globalStyles.sectionText, styles.withIcon, styles.sketch)}>
-      Sketch styles allow you to customize the looks of the iconset to your needs.
-    </p>
-    <p className={cn(globalStyles.sectionText, styles.column2, styles.withIcon, styles.sketch)}>
-      Scale options allow you to change the thickness and size of the icons to match their visual surrounding
-    </p>
-    <PictureBox src={thumb3}  className={styles.pictureCover}
-                label='Export easily from sketch to your asset folders'/>
-    <PictureBox src={thumb4}  className={styles.pictureCover}
-                label='Iconjars search is perfect for tagged elements. Easier to find than ever.'/>
-    <p className={cn(globalStyles.sectionText, styles.withIcon, styles.sketch)}>
-      Export functions make it easy for you to prepare all files for further collaboration, embedding - or as hand over format for the next user or client.
-    </p>
-    <p className={cn(globalStyles.sectionText, styles.column2, styles.withIcon, styles.iconjar)}>
-      The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.
-    </p>
+                label='Change thickness and size of the icons to match their surrounding.'>
+      <p className={cn(globalStyles.sectionText, styles.withIcon, styles.sketch)}>
+        Scale options allow you to change the thickness and size of the icons to match their visual surrounding
+      </p>
+    </PictureBox>
+    <PictureBox src={thumb3} className={styles.pictureCover}
+                label='Export easily from sketch to your asset folders'>
+      <p className={cn(globalStyles.sectionText, styles.withIcon, styles.sketch)}>
+        Export functions make it easy for you to prepare all files for further collaboration, embedding - or as hand over format for the next user or client.
+      </p>
+    </PictureBox>
+    <PictureBox src={thumb4} className={styles.pictureCover}
+                label='Iconjars search is perfect for tagged elements. Easier to find than ever.'>
+      <p className={cn(globalStyles.sectionText, styles.column2, styles.withIcon, styles.iconjar)}>
+        The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.
+      </p>
+    </PictureBox>
 
     <div className={styles.iconStrip}>
       <img src={colorIcon1} alt='color icon 1'/>
@@ -55,11 +59,11 @@ const Features = ()=> (
       <img src={colorIcon7} alt='color icon 7'/>
     </div>
 
-    <p className={cn(globalStyles.sectionText, globalStyles.sectionSeparator)}>
+    <p className={cn(globalStyles.sectionText, globalStyles.sectionSeparator, globalStyles.mobileHidden)}>
       Blablablabla?
     </p>
-
-  </React.Fragment>
+    
+  </div>
 )
 
 export default Features

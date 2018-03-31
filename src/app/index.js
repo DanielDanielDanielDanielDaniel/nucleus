@@ -3,6 +3,7 @@ import sectionWatcher from 'lib/section-watcher'
 import Layout from 'app/layout'
 import SiteMenu from 'app/site-menu'
 
+import Header from 'app/header'
 import Hero from 'app/hero'
 import UsecaseSteak from 'app/usecase-steak'
 import UsecaseWatch from 'app/usecase-watch'
@@ -22,12 +23,20 @@ import 'normalize.css'
 import styles from './app.module.css'
 
 class App extends Component {
+  constructor(props) {
+    super(props)
+    this.state = { menuOpen: false }
+    // handlers
+    this.onOpenMenu = () => this.setState({ menuOpen: true })
+    this.onCloseMenu = () => this.setState({ menuOpen: false})
+  }
   render() {
     return (
       <div className={styles.app}>
+        <Header onOpenMenu={this.onOpenMenu}/>
         <Hero/>
         <Layout>
-          <SiteMenu/>
+          <SiteMenu onCloseMenu={this.onCloseMenu} isMenuOpen={this.state.menuOpen}/>
           <ScrollSpy idprop='sectionid' onScroll={sectionWatcher.update}>
             <UsecaseSteak sectionid='usecases' />
             <UsecaseWatch sectionid='usecases' />

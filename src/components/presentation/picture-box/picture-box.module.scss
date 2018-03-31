@@ -4,6 +4,12 @@
     margin-bottom: 16px;
 }
 
+.content {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin-top: 16px;
+}
+
 .imageBox {
     height: 321px;
     position: relative;
@@ -25,4 +31,18 @@
     opacity: .5;
     font-style: italic;
     text-align: left;
+}
+
+@media (max-width: 900px) {
+    .container {
+        grid-column: 1 / span 3;
+        margin-top: 35px;
+        margin-bottom: 0;
+    }
+    .content {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .imageBox {
+        height: 225px;
+    }
 }

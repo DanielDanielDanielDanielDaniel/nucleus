@@ -6,3 +6,11 @@
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%); }
+
+@media (max-width: 900px) {
+  .container {
+    grid-column: auto / span 3;
+    display: grid;
+    grid-tempalte-coluns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    margin-bottom: 35px; } }
