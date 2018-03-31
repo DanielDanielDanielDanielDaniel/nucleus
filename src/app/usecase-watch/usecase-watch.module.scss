@@ -9,16 +9,18 @@ $background-position: 200px;
     background-blend-mode: lighten;
     background-repeat: no-repeat;
     background-size: 900px - $background-position;
-    background-position: $background-position;
+    background-position: $background-position -75px;
     position: relative;
     height: 100vh;
+    max-height: 975px;
+    min-height: 800px;
     overflow: hidden;
     text-align: center;
 }
 
 .watchMockup {
     position: absolute;
-    top: 175px;
+    top: 75px;
     left: 0;
     width: 480px;
 }
