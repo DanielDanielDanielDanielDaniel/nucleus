@@ -35,6 +35,7 @@
     line-height: 19px * $scale;
     margin-top: 10px * $scale;
     padding: 0 15px;
+    max-width: 500px;
 }
 
 @media (max-width: 900px) {

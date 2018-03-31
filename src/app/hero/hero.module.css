@@ -30,7 +30,8 @@
   text-align: center;
   line-height: 26.125px;
   margin-top: 13.75px;
-  padding: 0 15px; }
+  padding: 0 15px;
+  max-width: 500px; }
 
 @media (max-width: 900px) {
   .title {
