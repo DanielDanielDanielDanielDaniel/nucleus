@@ -11,29 +11,35 @@ $bottom-space: 100px;
         list-style-type: none;
     }
     :global(.activeItem) {
-        // font-weight: bold;
+        // text-decoration: underline;
     }
 
     .title {
         /* Intro Copy: */
-        font-size: 8px * $scale;
+        font-size: 7px * $scale;
         color: rgba(255, 255, 255, 0.3);
-        letter-spacing: 0.64px  * $scale;
+        letter-spacing: 0.84px  * $scale;
         text-transform: uppercase;
         margin-top: 15px  * $scale;
         margin-bottom: 15px  * $scale;
+        font-weight: lighter;
     }
 
     .item {
-        line-height: 24px * $scale;
-        font-size: 10px * $scale;
+        line-height: 25px * $scale;
+        font-size: 9px * $scale;
         color: rgba(255, 255, 255, 0.8);
-        letter-spacing: 0.07px * $scale;
+        letter-spacing: 0.27px * $scale;
         font-weight: lighter;
+        transition: 0.17s ease-in all;
         cursor: pointer;
         &:global(.activeItem) {
-            font-weight: bolder;
+            text-decoration: underline;
         }
+    }
+
+    .item:hover {
+        opacity: 0.7;
     }
 
     .closeButton {

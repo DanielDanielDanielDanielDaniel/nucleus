@@ -81,7 +81,7 @@ class SiteMenu extends Component {
           Iconset
         </MenuItem>
 
-        <MenuTitle>Contact</MenuTitle>
+        <MenuTitle>Other</MenuTitle>
 
         <MenuItem sectionid='contact'>
           Contact
