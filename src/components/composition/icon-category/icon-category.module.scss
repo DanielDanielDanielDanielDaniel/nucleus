@@ -10,13 +10,11 @@
     opacity: 0.8;
     margin-bottom: 22px;
     margin-top: 30px;
-
-
 }
 
 .iconGrid {
     display: grid;
-    grid-template-columns: repeat(7, [col-start] 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     grid-column-gap: 7px;
     grid-row-gap: 7px;
 }
@@ -27,6 +25,5 @@
         padding: 0 15px;
     }
     .iconGrid {
-        grid-template-columns: repeat(3, [col-start] 1fr);
     }
 }

@@ -1,6 +1,8 @@
 .iconContainer {
   grid-column: col-start / span 12;
-  margin-bottom: 25px; }
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row; }
 
 .pictureGrid {
   grid-column: col-start / span 12;
