@@ -1,0 +1,25 @@
+.box, :global(.icon-box) {
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+  margin-right: 9px;
+  border-radius: 4px;
+  background-color: #151515;
+  position: relative;
+  overflow: hidden; }
+  .box:after, :global(.icon-box):after {
+    content: '';
+    display: block;
+    padding-bottom: 100%; }
+
+.iconContainer {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%); }
+
+@media (max-width: 600px) {
+  .box {
+    width: 100%; }
+  .icon {
+    transform: scale(0.75); } }

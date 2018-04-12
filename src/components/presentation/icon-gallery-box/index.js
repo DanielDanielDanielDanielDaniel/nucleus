@@ -2,11 +2,6 @@ import React from 'react'
 import _ from 'lodash'
 import styles from './icon-gallery-box.module.css'
 
-    // <span className={styles.separator}/>
-    // <span className={styles.label}>{_.capitalize(label)}</span>
-    // <span className={styles.sublabel}>{sublabel}</span>
-
-    
 const IconLabelBox = ({ src, label, sublabel }) => (
   <div className={styles.box}>
     <div className={styles.iconContainer}>

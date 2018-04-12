@@ -1,5 +1,4 @@
 import React from 'react'
-import { identity } from 'lodash'
 import { nextTick } from 'lib/utils'
 import sectionWatcher from 'lib/section-watcher'
 import withEventEmitter from 'with-event-emitter'

@@ -1,6 +1,7 @@
 import React from 'react'
 import cn from 'classnames'
 import IconLabelBox from 'components/presentation/icon-label-box'
+import IconBox from 'components/presentation/icon-box'
 import PictureBox from 'components/presentation/picture-box'
 // images
 import androidPhoneIcon from './assets/androidphone.svg'
@@ -27,13 +28,13 @@ const HowCanBeUsed = ()=> (
       All icons are exclusively designed for digital media, especially interfaces on computers, notebooks, tablets, mobile phones, and smart watches.
     </p>
     <div className={styles.iconContainer}>
-      <IconLabelBox src={iwatchIcon} label='Iwatch'/>
-      <IconLabelBox src={androidWatchIcon} label='Android Watch'/>
-      <IconLabelBox src={androidPhoneIcon} label='Android Phone'/>
-      <IconLabelBox src={iphoneIcon} label='Iphone'/>
-      <IconLabelBox src={tabletIcon} label='Tablets'/>
-      <IconLabelBox src={notebookIcon} label='Notebooks'/>
-      <IconLabelBox src={desktopMonitorIcon} label='Desktop monitors'/>
+      <IconBox src={iwatchIcon} />
+      <IconBox src={androidWatchIcon} />
+      <IconBox src={androidPhoneIcon} />
+      <IconBox src={iphoneIcon} />
+      <IconBox src={tabletIcon} />
+      <IconBox src={notebookIcon} />
+      <IconBox src={desktopMonitorIcon} />
     </div>
     <PictureBox src={iwatchMeasurements} label='Concentric Grid Visualization – V2 Looped MP4'>
       <p className={globalStyles.sectionText}>

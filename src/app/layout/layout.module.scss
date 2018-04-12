@@ -1,8 +1,10 @@
+$desk-lateral-margin: 180px;
+
 .layout {
     display: grid;
-    width: 1200px;
-    grid-template-columns: [lateral-menu] 300px [main-content] 900px;
-    grid-template-areas: "menu main-content";
+    width: 100%;
+    grid-template-columns: [lateral-menu] $desk-lateral-margin [main-content] auto $desk-lateral-margin;
+    grid-template-areas: "menu main-content none";
     align-items: start;
     align-content: start;
     /* just for debug */

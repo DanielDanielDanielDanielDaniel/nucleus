@@ -12,13 +12,11 @@
 
 .iconGrid {
   display: grid;
-  grid-template-columns: repeat(7, [col-start] 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   grid-column-gap: 7px;
   grid-row-gap: 7px; }
 
 @media (max-width: 900px) {
   .container {
     grid-column: col-start / span 3;
-    padding: 0 15px; }
-  .iconGrid {
-    grid-template-columns: repeat(3, [col-start] 1fr); } }
+    padding: 0 15px; } }

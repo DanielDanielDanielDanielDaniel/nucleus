@@ -25,19 +25,19 @@ const CloseButton = ({ onCloseMenu }) => (
 
 const ShareButtons = () => (
   <div className={styles.shareButtons}>
-    <a href='#'>
+    <a href='/'>
       <img src={twitterLogo} alt='twitter'/>
     </a>
-    <a href='#'>
+    <a href='/'>
       <img src={linkedinLogo} alt='linkedin'/>
     </a>
-    <a href='#'>
+    <a href='/'>
       <img src={pinterestLogo} alt='pinterestLogo'/>
     </a>
-    <a href='#'>
+    <a href='/'>
       <img src={designerNewsLogo} alt='designerNews'/>
     </a>
-    <a href='#'>
+    <a href='/'>
       <img src={productHuntLogo} alt='productHunt'/>
     </a>
   </div>
@@ -46,7 +46,6 @@ const ShareButtons = () => (
 class SiteMenu extends Component {
   render() {
     const { onCloseMenu, isMenuOpen } = this.props
-    console.log('>props', this.props)
     return (
       <ScrollAwareLateralMenu className={classNames(styles.menu, layoutStyles.menu, { open: isMenuOpen })}
                               pre={<CloseButton onCloseMenu={onCloseMenu}/>}

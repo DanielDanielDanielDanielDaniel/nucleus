@@ -1,7 +1,7 @@
 import React from 'react'
 import _ from 'lodash'
 import withPositionAwareness from 'scroll-awareness/with-position-awareness'
-import { vmap, vcap } from './utils'
+import { vmap } from './utils'
 
 const Parallax = (props) => {
   let child = React.Children.only(props.children)

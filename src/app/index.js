@@ -43,7 +43,6 @@ class App extends Component {
             <DesignSpecification sectionid='design-spec' />
             <UsecaseWatch sectionid='usecases' />
             <Features sectionid='features' />
-            
             <IconsetGallery sectionid='iconset'/>
             <Contact sectionid='contact' />
           </ScrollSpy>
