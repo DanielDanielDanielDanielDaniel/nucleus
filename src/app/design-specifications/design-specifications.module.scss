@@ -9,6 +9,35 @@
     transform: translate(-50%, -50%);
 }
 
+.devicesimg {
+    display: grid;
+    grid-column: col-start / span 12;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    margin-bottom: 75px;
+    img {
+        width: 120%;
+        transform: translateX(-10%);
+    }
+}
+
+.hitler {
+    height: 55vh;
+}
+
+.organisms {
+    position: absolute;
+    width: 100vw;
+    left: 0;
+    z-index: -1;
+    img {
+        width: 100%;
+        transform: translate(0,250px);
+    }
+}
+
+
 @media (max-width: 900px) {
     .container {
         grid-column: auto / span 3;

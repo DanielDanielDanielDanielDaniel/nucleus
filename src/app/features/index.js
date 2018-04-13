@@ -18,12 +18,15 @@ import styles from './features.module.css'
 
 const Features = ()=> (
   <div className={globalStyles.subgrid}>
-    <div className={globalStyles.centeredBox}>
-      <div>
-        <h4>Discover the power of customization</h4>
-        <p>
-          With total control through the sketch file you can further customize to any style you want and apply to all 400 icons within seconds.
-        </p>
+    <div className={globalStyles.btmMargin}>
+    
+      <div className={globalStyles.centeredBox}>
+        <div>
+          <h4>Discover the power of customization</h4>
+          <p>
+            With total control through the sketch file you can further customize to any style you want and apply to all 400 icons within seconds.
+          </p>
+        </div>
       </div>
     </div>
     <div className={styles.iconStrip}>

@@ -19,12 +19,14 @@ import styles from './features.module.css'
 
 const Features = ()=> (
   <div className={globalStyles.subgrid}>
-    <div className={globalStyles.centeredBox}>
-      <div>
-        <h4>Communicate Meaning</h4>
-        <p>
-          Your advanced progress needs the right terminology. Many new tech and business world buzzwords have been turned into icons for the first time and added to the set.
-        </p>
+    <div className={globalStyles.btmMargin}>
+      <div className={globalStyles.centeredBox}>
+        <div>
+          <h4>Communicate Meaning</h4>
+          <p>
+            Your advanced progress needs the right terminology. Many new tech and business world buzzwords have been turned into icons for the first time and added to the set.
+          </p>
+        </div>
       </div>
     </div>
     <div className={styles.iconContainer}>

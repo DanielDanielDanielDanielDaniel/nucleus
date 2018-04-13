@@ -8,7 +8,7 @@ import styles from './usecase-watch.module.css'
 
 const UsecaseWatch = ()=> (
 <div className={styles.container}>
-	<Parallax speed={-150}>
+	<Parallax speed={-200}>
 		<div className={styles.rocket}>
 		  <img src={rocket} alt=''/>
 		</div>

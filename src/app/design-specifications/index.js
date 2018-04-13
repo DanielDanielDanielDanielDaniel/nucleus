@@ -1,17 +1,17 @@
 import React from 'react'
 import IconLabelBox from 'components/presentation/icon-label-box'
+
 // import FadeIn from 'scroll-effects/fade-in'
 // images
-import svgLogo from './assets/svg.svg'
-import epsLogo from './assets/eps.svg'
-import pngLogo from './assets/png.svg'
-import aiLogo from './assets/ai.png'
-import iconjarLogo from './assets/iconjar.png'
-import sketchLogo from './assets/sketch.png'
+import svgLogo from './assets/designspecs.svg'
+import organisms from './assets/organisms.png'
 // styles
 import globalStyles from 'app/app.module.css'
 import boxStyles from 'components/presentation/icon-label-box/icon-label-box.module.css'
 import styles from './design-specifications.module.css'
+import Parallax from 'scroll-effects/parallax'
+
+
 
 const IconBox = ({ src }) => (
   <div className={boxStyles.box}>
@@ -21,24 +21,27 @@ const IconBox = ({ src }) => (
 
 const DesignSpecifications = ()=> (
   <div className={globalStyles.subgrid}>
-      <h3 className={globalStyles.sectionTitle}>Design specifications</h3>
-      <div className={styles.container}>
-        <p className={globalStyles.sectionText}>
-          Exported in EPS, SVG and 4 sizes of PNG
-        </p>
-        <IconBox src={svgLogo}/>
-        <IconBox src={pngLogo}/>
-        <IconBox src={epsLogo}/>
+      <div className={globalStyles.btmMargin}>
+        <div className={styles.devicesimg}>
+          <img src={svgLogo} alt='devices'/>
+        </div>
+        <div className={globalStyles.centeredBox}>
+          <div>
+            <h4>Design specifications</h4>
+            <p>
+              Nucleus is a Sketch first design and 100% optimized for. It also features Adobe Illustrator and IconJar searchability.
+              For export and fastest integration all icons are readily available for SVG, PNG and EPS.
+            </p>
+          </div>
+        </div>
       </div>
-      <div className={styles.container}>
-        <p className={globalStyles.sectionText}>
-          Created for Sketch, Adobe Illustrator and IconJar
-        </p>
-        <IconLabelBox src={sketchLogo} label='Sketch App'/>
-        <IconLabelBox src={aiLogo} label='Adobe Illustrator'/>
-        <IconLabelBox src={iconjarLogo} label='Iconjar'/>
+      <div className={styles.hitler}>
       </div>
-      <div className={globalStyles.sectionSeparator}/>
+      <Parallax speed={-200}>
+        <div className={styles.organisms}>
+          <img src={organisms} alt=''/>
+        </div>
+      </Parallax>
   </div>
 )
 

@@ -13,6 +13,7 @@ $background-position: 200px;
     height: 80vh;
     min-height: 700px;
     grid-column: col-start / span 12;
+    padding-bottom: 220px;
 }
 
 .watchMockup {
@@ -37,7 +38,7 @@ $background-position: 200px;
 
 .description {
     position: absolute;
-    top: 390px;
+    top: 470px;
     left: calc(49% + 150px);
 }
 

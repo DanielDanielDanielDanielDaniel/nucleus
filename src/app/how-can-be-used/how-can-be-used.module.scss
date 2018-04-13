@@ -18,6 +18,21 @@
     }
 }
 
+.devicesimg {
+    display: grid;
+    grid-column: col-start / span 12;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    margin-bottom: 75px;
+    img {
+        width: 120%;
+        transform: translateX(-10%);
+    }
+}
+
+
+
 @media (max-width: 900px) {
     .iconContainer {
         grid-column:  1 / span 3;

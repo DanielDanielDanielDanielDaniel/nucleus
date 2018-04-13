@@ -9,7 +9,8 @@
   position: relative;
   height: 80vh;
   min-height: 700px;
-  grid-column: col-start / span 12; }
+  grid-column: col-start / span 12;
+  padding-bottom: 220px; }
 
 .watchMockup {
   position: absolute;
@@ -29,7 +30,7 @@
 
 .description {
   position: absolute;
-  top: 390px;
+  top: 470px;
   left: calc(49% + 150px); }
 
 @media (min-width: 900px) {
