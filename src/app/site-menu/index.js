@@ -62,6 +62,14 @@ class SiteMenu extends Component {
           Use Cases
         </MenuItem>
 
+        <MenuItem sectionid='features'>
+          Customization
+        </MenuItem>
+
+        <MenuItem sectionid='terminology'>
+          Terminology
+        </MenuItem>
+
         <MenuItem sectionid='design-spec'>
           Design specification
         </MenuItem>
@@ -70,9 +78,7 @@ class SiteMenu extends Component {
           How to Use
         </MenuItem>
 
-        <MenuItem sectionid='features'>
-          Features
-        </MenuItem>
+        
 
         <MenuTitle>Product</MenuTitle>
 

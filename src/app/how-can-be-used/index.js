@@ -17,6 +17,8 @@ import headIcon from './assets/head.svg'
 import slideIcon from './assets/slide.svg'
 import menuIcon from './assets/menu.svg'
 import penIcon from './assets/pen.svg'
+import thumb3 from './assets/thumb3.png'
+import thumb4 from './assets/thumb4.png'
 // styles
 import globalStyles from 'app/app.module.css'
 import styles from './how-can-be-used.module.css'
@@ -44,6 +46,18 @@ const HowCanBeUsed = ()=> (
     <PictureBox src={parabolicProcess} label='Before (foto) <> After (icon)'>
       <p className={globalStyles.sectionText}>
         Icons that resemble objects rely on industry research and provide most advanced sources from which the abstractions are derived
+      </p>
+    </PictureBox>
+    <PictureBox src={thumb3} className={styles.pictureCover}
+                label='Export easily from sketch to your asset folders'>
+      <p className={cn(globalStyles.sectionText, styles.withIcon, styles.sketch)}>
+        Export functions make it easy for you to prepare all files for further collaboration, embedding - or as hand over format for the next user or client.
+      </p>
+    </PictureBox>
+    <PictureBox src={thumb4} className={styles.pictureCover}
+                label='Iconjars search is perfect for tagged elements. Easier to find than ever.'>
+      <p className={cn(globalStyles.sectionText, styles.column2, styles.withIcon, styles.iconjar)}>
+        The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.
       </p>
     </PictureBox>
     <div className={cn(globalStyles.mobileHidden, styles.iconContainer)} style={{marginTop: '10px'}}>

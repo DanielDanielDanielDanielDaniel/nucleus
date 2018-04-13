@@ -11,6 +11,7 @@ import UsecaseJet from 'app/usecase-jet'
 import DesignSpecification from 'app/design-specifications'
 import HowCanBeUsed from 'app/how-can-be-used'
 import Features from 'app/features'
+import Terminology from 'app/terminology'
 import IconsetGallery from 'app/iconset-gallery'
 import Contact from 'app/contact'
 
@@ -38,11 +39,13 @@ class App extends Component {
         <Layout>
           <SiteMenu onCloseMenu={this.onCloseMenu} isMenuOpen={this.state.menuOpen}/>
           <ScrollSpy idprop='sectionid' onScroll={sectionWatcher.update}>
-            <HowCanBeUsed sectionid='how-to-use'/>
             <UsecaseSteak sectionid='usecases' />
-            <DesignSpecification sectionid='design-spec' />
-            <UsecaseWatch sectionid='usecases' />
             <Features sectionid='features' />
+            <UsecaseJet sectionid='usecases' />
+            <Terminology sectionid='terminology' />
+            <UsecaseWatch sectionid='usecases' />
+            <HowCanBeUsed sectionid='how-to-use'/>
+            <DesignSpecification sectionid='design-spec' />
             <IconsetGallery sectionid='iconset'/>
             <Contact sectionid='contact' />
           </ScrollSpy>

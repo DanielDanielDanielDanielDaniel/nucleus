@@ -19,7 +19,7 @@
   cursor: pointer;
   border-radius: 2px;
   border: 1px solid #2b2b2b;
-  background-color: #0d0d0d;
+  background-color: #0F0F0F;
   text-align: center;
   font-weight: lighter;
   font-size: 12.2px;
@@ -36,7 +36,7 @@
   .header {
     height: 39px;
     opacity: .7;
-    background: #0d0d0d; }
+    background: #0F0F0F; }
   .burger {
     background: url("./assets/burger.svg");
     background-position: center;

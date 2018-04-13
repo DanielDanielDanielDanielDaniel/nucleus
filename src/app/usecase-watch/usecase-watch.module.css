@@ -1,30 +1,58 @@
 /* global variables */
 .container {
-  grid-column: col-start / span 12;
-  background-image: url("./assets/background.png");
-  background-color: #0d0d0d;
-  background-blend-mode: lighten;
-  background-repeat: no-repeat;
-  background-size: 700px;
-  background-position: 200px -75px;
+  /*    background-image: url('./assets/rocket.png');
+    background-color: $background-color;
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;*/
   position: relative;
-  height: 100vh;
-  max-height: 975px;
-  min-height: 800px;
-  overflow: hidden;
-  text-align: center; }
+  height: 80vh;
+  min-height: 700px;
+  grid-column: col-start / span 12; }
 
 .watchMockup {
   position: absolute;
-  top: 75px;
+  top: calc(50% - 350px);
+  left: 32%; }
+  .watchMockup img {
+    width: 500px; }
+
+.rocket {
+  position: absolute;
+  width: 100vw;
   left: 0;
-  width: 480px; }
+  z-index: -1; }
+  .rocket img {
+    width: 100%;
+    transform: translate(-34vw, -130px); }
+
+.description {
+  position: absolute;
+  top: 390px;
+  left: calc(49% + 150px); }
+
+@media (min-width: 900px) {
+  .description {
+    max-width: 350px; }
+  .container {
+    margin: 10vh 0; } }
 
 @media (max-width: 900px) {
   .container {
     grid-column: col-start / span 3;
-    background-image: none;
-    height: auto; }
+    background-size: auto 100%;
+    margin: 20vh 0; }
   .watchMockup {
-    position: static;
-    margin-right: -184px; } }
+    width: 100%;
+    left: 0;
+    text-align: center; }
+  .description {
+    position: relative;
+    width: calc(100% - 40px);
+    left: 0;
+    text-align: left;
+    top: -100px;
+    margin-left: 20px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15); } }

@@ -1,22 +1,38 @@
-.box, :global(.icon-box) {
+.boxcontainer {
   display: inline-block;
   vertical-align: top;
   width: 100%;
   margin-right: 9px;
   border-radius: 4px;
   background-color: #151515;
-  position: relative;
-  overflow: hidden; }
-  .box:after, :global(.icon-box):after {
+  position: relative; }
+  .boxcontainer:after {
     content: '';
     display: block;
     padding-bottom: 100%; }
+
+.box, :global(.icon-box) {
+  overflow: hidden; }
 
 .iconContainer {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%); }
+  transform: translate(-50%, -60%); }
+
+.label {
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  left: 0;
+  right: 0;
+  bottom: 0px;
+  transform: translateY(25px);
+  font-size: 12px;
+  opacity: .5;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 0.07px; }
 
 @media (max-width: 600px) {
   .box {

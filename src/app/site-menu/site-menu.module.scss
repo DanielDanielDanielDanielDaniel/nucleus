@@ -16,7 +16,7 @@ $bottom-space: 100px;
 
     .title {
         /* Intro Copy: */
-        font-size: 7px * $scale;
+        font-size: 8px * $scale;
         color: rgba(255, 255, 255, 0.3);
         letter-spacing: 0.84px  * $scale;
         text-transform: uppercase;
@@ -27,7 +27,7 @@ $bottom-space: 100px;
 
     .item {
         line-height: 25px * $scale;
-        font-size: 9px * $scale;
+        font-size: 10px * $scale;
         color: rgba(255, 255, 255, 0.8);
         letter-spacing: 0.27px * $scale;
         font-weight: lighter;

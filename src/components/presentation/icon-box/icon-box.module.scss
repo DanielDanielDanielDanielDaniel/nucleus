@@ -1,4 +1,4 @@
-.box, :global(.icon-box) {
+.boxcontainer {
     display: inline-block;
     vertical-align: top;
     width: 100%;
@@ -6,7 +6,6 @@
     border-radius: 4px;
     background-color: #151515;
     position: relative;
-    overflow: hidden;
     &:after {
         content: '';
         display: block;
@@ -14,14 +13,33 @@
     }
 }
 
+.box, :global(.icon-box) {
+    overflow: hidden;
+}
+
 .iconContainer {
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -60%);
 }
 
 .icon {
+}
+
+.label {
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    transform: translateY(25px);
+    font-size: 12px;
+    opacity: .5;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.07px;
 }
 
 @media (max-width: 600px) {

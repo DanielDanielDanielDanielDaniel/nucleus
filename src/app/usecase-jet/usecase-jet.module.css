@@ -1,14 +1,13 @@
 /* global variables */
 .container {
   grid-column: col-start / span 12;
-  background-image: url("./assets/background.png");
-  background-color: #0d0d0d;
-  background-blend-mode: lighten;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: relative;
-  height: 800px;
-  background-position-y: 85%; }
+  margin-top: 50px;
+  margin-bottom: 100px; }
+
+.container img {
+  width: 100%;
+  blend-mode: lighten; }
 
 .icon {
   width: 42px;
@@ -33,4 +32,11 @@
 
 @media (max-width: 900px) {
   .container {
-    display: none; } }
+    display: none;
+    background-image: url("./assets/background.png");
+    background-color: #0F0F0F;
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 85%;
+    height: 100vh; } }

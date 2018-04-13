@@ -9,7 +9,7 @@
   margin-top: 16px; }
 
 .imageBox {
-  height: 321px;
+  height: 380px;
   position: relative;
   background-color: #151515;
   margin-bottom: 8px;
@@ -23,10 +23,11 @@
   transform: translate(-50%, -50%); }
 
 .label {
-  font-size: 10px;
+  font-size: 12px;
   opacity: .5;
   font-style: italic;
-  text-align: left; }
+  text-align: center;
+  letter-spacing: 0.07px; }
 
 @media (max-width: 900px) {
   .container {

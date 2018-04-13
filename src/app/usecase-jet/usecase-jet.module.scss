@@ -4,16 +4,15 @@ $base: 350px;
 
 .container {
     grid-column: col-start / span 12;
-    background-image: url('./assets/background.png');
-    background-color: $background-color;
-    background-blend-mode: lighten;
-    background-repeat: no-repeat;
-    background-size: contain;
     position: relative;
-    height: 800px;
-    background-position-y: 85%;
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 
+.container img{
+    width: 100%;
+    blend-mode: lighten;
+}
 .icon {
     width: 42px;
     height: 42px;
@@ -42,5 +41,12 @@ $base: 350px;
 @media (max-width: 900px) {
     .container {
         display: none;
+        background-image: url('./assets/background.png');
+        background-color: $background-color;
+        background-blend-mode: lighten;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-y: 85%;
+        height: 100vh;
     }
 }

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="151px" height="175px" viewBox="0 0 151 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>color-section-5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.333333333" y="0" width="150" height="175" rx="4"></rect>
+        <ellipse id="path-3" cx="35" cy="130.257426" rx="7.5" ry="7.51485149"></ellipse>
+        <ellipse id="path-4" cx="87.5" cy="130.257426" rx="7.5" ry="7.51485149"></ellipse>
+        <ellipse id="path-5" cx="87.5" cy="215.425743" rx="7.5" ry="7.51485149"></ellipse>
+        <ellipse id="path-6" cx="62.5" cy="172.841584" rx="7.5" ry="7.51485149"></ellipse>
+    </defs>
+    <g id="Draft-3-Copy-11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-802.000000, -6459.000000)">
+        <g id="color-section-5" transform="translate(802.000000, 6459.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F1737F" xlink:href="#path-1"></use>
+            <g id="Group-20" mask="url(#mask-2)">
+                <g transform="translate(45.000000, -107.000000)">
+                    <path d="M87.5,73.4209628 C108.144941,73.3247302 126.580359,77.4926555 142.806254,85.9247385 C167.145098,98.5728631 180.78033,121.905029 172.639375,159.717633 C164.49842,197.530237 141.303,211.49606 127.890607,231.761906 C114.478215,252.027752 101.407389,253 87.5,253" id="Path-65" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M0,73.4209628 C20.6449406,73.3247302 39.0803587,77.4926555 55.3062542,85.9247385 C79.6450976,98.5728631 93.2803295,121.905029 85.1393746,159.717633 C76.9984196,197.530237 53.8029996,211.49606 40.3906073,231.761906 C26.9782151,252.027752 13.9073886,253 0,253" id="Path-65-Copy" stroke="#0F0F0F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" transform="translate(43.750000, 163.210481) scale(-1, 1) translate(-43.750000, -163.210481) "></path>
+                    <g id="Oval-Copy-194" stroke="none" transform="translate(35.000000, 130.257426) rotate(-90.000000) translate(-35.000000, -130.257426) ">
+                        <use fill="#0F0F0F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <ellipse stroke="#F1737F" stroke-width="3.75" cx="35" cy="130.257426" rx="5.625" ry="5.63985149"></ellipse>
+                        <use stroke="#F1737F" stroke-width="2.5" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Oval-Copy-400" stroke="none" transform="translate(87.500000, 130.257426) rotate(-90.000000) translate(-87.500000, -130.257426) ">
+                        <use fill="#0F0F0F" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <ellipse stroke="#F1737F" stroke-width="3.75" cx="87.5" cy="130.257426" rx="5.625" ry="5.63985149"></ellipse>
+                        <use stroke="#F1737F" stroke-width="2.5" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Oval-Copy-408" stroke="none">
+                        <use fill="#0F0F0F" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <ellipse stroke="#F1737F" stroke-width="3.75" cx="87.5" cy="215.425743" rx="5.625" ry="5.63985149"></ellipse>
+                        <use stroke="#F1737F" stroke-width="2.5" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Oval-Copy-402" stroke="none">
+                        <use fill="#0F0F0F" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <ellipse stroke="#F1737F" stroke-width="3.75" cx="62.5" cy="172.841584" rx="5.625" ry="5.63985149"></ellipse>
+                        <use stroke="#F1737F" stroke-width="2.5" xlink:href="#path-6"></use>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-20-Copy" mask="url(#mask-2)" stroke="#0F0F0F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+                <g transform="translate(-59.000000, 110.000000)" id="Path-66">
+                    <path d="M48.3905454,73.8523402 C38.5182356,72.8090238 30.2132571,68.2573468 23.4756098,60.1973094 C29.5226899,57.0208047 36.5198213,55.9712211 44.4670038,57.0485588 C40.0179401,50.8722208 37.8270726,45.0707128 37.8944014,39.6440348 C46.5896487,39.4963112 60.3747751,43.4436644 65.5120226,48.4895439 C65.4345647,42.4546625 67.8157999,35.6841474 72.6557282,28.1779988 C78.1200865,30.455031 81.7662691,33.2370093 83.594276,36.5239336 C84.0393611,24.1563361 93.5488103,6.59871676 103.697287,1.85365619 C110.462939,-1.30971751 115.048745,-0.402485809 117.454708,4.57535131 C119.105157,9.57765981 117.200586,13.1940525 111.740994,15.4245294 C103.551607,18.7702447 93.6471222,29.6991041 92.8373891,42.9449854 C98.9336252,34.451327 106.044262,32.3724533 109.422619,32.1047602 C111.875056,36.3260735 114.921834,42.515244 114.692141,49.4779489 C122.122143,45.9719759 131.904482,44.5911334 144.039159,45.3354215 C142.370835,51.3679155 139.669639,56.0103157 135.935571,59.2626219 C141.296255,60.1644819 146.156144,61.5110047 150.515237,63.3021905 C147.456245,68.7903454 141.146404,73.0259835 131.585713,76.0091046"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
