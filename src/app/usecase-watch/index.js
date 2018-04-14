@@ -21,8 +21,7 @@ const UsecaseWatch = ()=> (
   <Parallax speed={-20}>
     <div className={styles.description}>
     	<h4>Your secret weapon</h4>
-    	<p>The set consists of 100s of hours intense design work, a passion project and accessible to you in order to add flavour to the world.
-Sounds a bit shitty
+    	<p>Build your own unique visual aesthetic and skip huge efforts of designing everything yourself by using the iconset as a key component for your brand.
 </p>
     </div>
   </Parallax>

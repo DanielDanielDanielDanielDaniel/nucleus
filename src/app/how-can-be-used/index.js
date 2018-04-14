@@ -51,7 +51,6 @@ const HowCanBeUsed = ()=> (
     <PictureBox src={thumb4} className={styles.pictureCover}
                 label='The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.'>
     </PictureBox>
-    <div className={globalStyles.sectionSeparator}/>
   </div>
 )
 
