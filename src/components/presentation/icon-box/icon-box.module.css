@@ -5,11 +5,15 @@
   margin-right: 9px;
   border-radius: 4px;
   background-color: #151515;
-  position: relative; }
+  position: relative;
+  transition: all ease 0.38s;
+  cursor: pointer; }
   .boxcontainer:after {
     content: '';
     display: block;
     padding-bottom: 100%; }
+  .boxcontainer :hover {
+    opacity: 0.7; }
 
 .box, :global(.icon-box) {
   overflow: hidden; }

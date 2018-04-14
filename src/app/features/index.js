@@ -29,15 +29,7 @@ const Features = ()=> (
         </div>
       </div>
     </div>
-    <div className={styles.iconStrip}>
-      <img src={colorIcon1} alt='color icon 1'/>
-      <img src={colorIcon2} alt='color icon 2'/>
-      <img src={colorIcon3} alt='color icon 3'/>
-      <img src={colorIcon4} alt='color icon 4'/>
-      <img src={colorIcon5} alt='color icon 5'/>
-      <img src={colorIcon6} alt='color icon 6'/>
-      <img src={colorIcon7} alt='color icon 7'/>
-    </div>
+    
     <PictureBox src={thumb1} className={styles.pictureCover}
                 label='Sketch styles allow you to customize the looks of the iconset to your needs.'>
     </PictureBox>
@@ -49,3 +41,14 @@ const Features = ()=> (
 )
 
 export default Features
+
+
+// <div className={styles.iconStrip}>
+//   <img src={colorIcon1} alt='color icon 1'/>
+//   <img src={colorIcon2} alt='color icon 2'/>
+//   <img src={colorIcon3} alt='color icon 3'/>
+//   <img src={colorIcon4} alt='color icon 4'/>
+//   <img src={colorIcon5} alt='color icon 5'/>
+//   <img src={colorIcon6} alt='color icon 6'/>
+//   <img src={colorIcon7} alt='color icon 7'/>
+// </div>

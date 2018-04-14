@@ -11,6 +11,13 @@
         display: block;
         padding-bottom: 100%;
     }
+
+    transition: all ease 0.38s;
+    :hover{
+        opacity: 0.7;
+    }
+    cursor: pointer;
+
 }
 
 .box, :global(.icon-box) {

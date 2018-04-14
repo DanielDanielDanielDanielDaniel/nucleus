@@ -3,7 +3,8 @@
   grid-column: col-start / span 12;
   position: relative;
   margin-top: 50px;
-  margin-bottom: 100px; }
+  margin-bottom: 100px;
+  z-index: -1; }
 
 .container img {
   width: 100%;

@@ -4,7 +4,7 @@ import IconLabelBox from 'components/presentation/icon-label-box'
 // import FadeIn from 'scroll-effects/fade-in'
 // images
 import svgLogo from './assets/designspecs.svg'
-import organisms from './assets/organisms.png'
+import organisms from './assets/organisms2.png'
 // styles
 import globalStyles from 'app/app.module.css'
 import boxStyles from 'components/presentation/icon-label-box/icon-label-box.module.css'

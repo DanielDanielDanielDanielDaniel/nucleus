@@ -3,10 +3,31 @@
 body {
   font-family: 'GT America';
   background-color: #0F0F0F;
-  color: #ffffff; }
+  color: #ffffff;
+  width: calc(100vw -9px);
+  overflow-x: hidden; }
 
 a {
   text-decoration: none; }
+
+/* Custom Scrollbar */
+::-webkit-scrollbar-track {
+  background: #3F3F3F;
+  border-left: 4px solid #0F0F0F;
+  border-right: 4px solid #0F0F0F; }
+
+::-webkit-scrollbar-thumb {
+  background-image: url("./header/assets/scrollbar_dot.svg");
+  background-position: center center;
+  background-repeat: no-repeat; }
+
+::-webkit-scrollbar-thumb:hover {
+  background-image: url("./header/assets/scrollbar_dot.svg");
+  background-position: center center;
+  background-repeat: no-repeat; }
+
+::-webkit-scrollbar {
+  width: 9px; }
 
 /* Typography */
 h4 {
@@ -26,6 +47,44 @@ p {
   margin-bottom: 30px; }
   p a {
     color: #ffffff; }
+
+.descriptionText {
+  line-height: 20.74px;
+  font-size: 12.2px;
+  color: white;
+  letter-spacing: 0.3294px;
+  font-weight: lighter;
+  transition: 0.17s ease-in all;
+  cursor: pointer;
+  margin-bottom: -2px;
+  margin-right: 40px; }
+  .descriptionText:global(.activeItem) {
+    text-decoration: underline; }
+
+.descriptionTitle {
+  font-size: 9.76px;
+  color: rgba(255, 255, 255, 0.7);
+  letter-spacing: 1.0248px;
+  text-transform: uppercase;
+  margin-top: 18.3px;
+  margin-bottom: 23px;
+  font-weight: lighter; }
+
+.shareButtons {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  bottom: 0;
+  height: 50px;
+  width: 220px; }
+  .shareButtons a {
+    flex: 1; }
+    .shareButtons a :hover {
+      opacity: 0.9; }
+    .shareButtons a img {
+      opacity: 0.7;
+      transition: 0.37s ease-in all; }
 
 /* reused styles */
 .subgrid {

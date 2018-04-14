@@ -2,13 +2,8 @@
   grid-column: col-start / span 12; }
 
 .title {
-  font-size: 15px;
-  line-height: 20px;
-  letter-spacing: -0.15px;
-  font-weight: lighter;
-  opacity: 0.8;
   margin-bottom: 22px;
-  margin-top: 30px; }
+  margin-top: 80px; }
 
 .iconGrid {
   display: grid;

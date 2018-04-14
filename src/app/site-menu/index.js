@@ -25,19 +25,19 @@ const CloseButton = ({ onCloseMenu }) => (
 
 const ShareButtons = () => (
   <div className={styles.shareButtons}>
-    <a href='/'>
+    <a href='https://ui8.net/products/nucleus-icon-set-v3'>
       <img src={twitterLogo} alt='twitter'/>
     </a>
-    <a href='/'>
+    <a href='https://ui8.net/products/nucleus-icon-set-v3'>
       <img src={linkedinLogo} alt='linkedin'/>
     </a>
-    <a href='/'>
+    <a href='https://ui8.net/products/nucleus-icon-set-v3'>
       <img src={pinterestLogo} alt='pinterestLogo'/>
     </a>
-    <a href='/'>
+    <a href='https://ui8.net/products/nucleus-icon-set-v3'>
       <img src={designerNewsLogo} alt='designerNews'/>
     </a>
-    <a href='/'>
+    <a href='https://ui8.net/products/nucleus-icon-set-v3'>
       <img src={productHuntLogo} alt='productHunt'/>
     </a>
   </div>
@@ -70,15 +70,13 @@ class SiteMenu extends Component {
           Terminology
         </MenuItem>
 
-        <MenuItem sectionid='design-spec'>
-          Design specification
-        </MenuItem>
-
         <MenuItem sectionid='how-to-use'>
           How to Use
         </MenuItem>
 
-        
+        <MenuItem sectionid='design-spec'>
+          Specifications
+        </MenuItem>
 
         <MenuTitle>Product</MenuTitle>
 

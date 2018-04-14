@@ -19,7 +19,8 @@
     transform: translateX(-10%); }
 
 .hitler {
-  height: 55vh; }
+  height: 45vh;
+  margin-bottom: 400px; }
 
 .organisms {
   position: absolute;

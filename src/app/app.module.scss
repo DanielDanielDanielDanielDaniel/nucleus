@@ -6,11 +6,39 @@ body {
     font-family: 'GT America';
     background-color: $background-color;
     color: #ffffff;
+    width: calc(100vw -9px);
+    overflow-x: hidden;
 }
 
 a {
     text-decoration: none;
 }
+
+/* Custom Scrollbar */
+
+::-webkit-scrollbar-track {
+    background: #3F3F3F;
+    border-left: 4px solid #0F0F0F;
+    border-right: 4px solid #0F0F0F;
+
+}
+
+::-webkit-scrollbar-thumb {
+    background-image: url('./header/assets/scrollbar_dot.svg');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-image: url('./header/assets/scrollbar_dot.svg');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+::-webkit-scrollbar {
+    width: 9px;
+}
+
 
 /* Typography */
 
@@ -32,6 +60,54 @@ p {
     margin-bottom: 30px;
     a {
         color: #ffffff;
+    }
+}
+
+
+
+.descriptionText {
+    line-height: 17px * $scale;
+    font-size: 10px * $scale;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.27px * $scale;
+    font-weight: lighter;
+    transition: 0.17s ease-in all;
+    cursor: pointer;
+    &:global(.activeItem) {
+        text-decoration: underline;
+    }
+    margin-bottom: -2px;
+    margin-right: 40px;
+}
+
+.descriptionTitle {
+    font-size: 8px * $scale;
+    color: rgba(255, 255, 255, 0.7);
+    letter-spacing: 0.84px  * $scale;
+    text-transform: uppercase;
+    margin-top: 15px  * $scale;
+    margin-bottom: 23px;
+    font-weight: lighter;
+
+}
+
+.shareButtons {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    bottom: 0;
+    height: 50px;
+    width: 220px;
+    a {
+        flex: 1;
+        :hover {
+            opacity: 0.9;
+        }
+        img {
+            opacity: 0.7;
+            transition: 0.37s ease-in all;
+        }
     }
 }
 
