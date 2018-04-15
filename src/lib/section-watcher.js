@@ -23,7 +23,8 @@ class SectionWatcher extends EventEmitter {
     this.emit('active', activeSection)
   }
   goto(section) {
-    const target = this.sectionScrollData[section]
+    // if the section does not exist, scroll to the top
+    const target = (this.sectionScrollData[section] || -window.scrollY - OFFSET)
     const ref = window.scrollY
     smoothScroll(ref + target - OFFSET)
   }
