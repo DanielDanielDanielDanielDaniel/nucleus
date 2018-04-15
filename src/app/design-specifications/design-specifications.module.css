@@ -37,4 +37,8 @@
     display: grid;
     grid-tempalte-coluns: repeat(3, 1fr);
     grid-column-gap: 10px;
-    margin-bottom: 35px; } }
+    margin-bottom: 35px; }
+  .devicesimg {
+    overflow: hidden; }
+    .devicesimg img {
+      width: 100%; } }

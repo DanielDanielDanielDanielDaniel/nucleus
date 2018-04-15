@@ -21,6 +21,7 @@ $background-position: 200px;
     top: calc(50% - 350px);
     left: 32%;
     img {
+        max-width: 100%;
         width: 500px;
     }
 }

@@ -14,4 +14,6 @@
 @media (max-width: 900px) {
   .container {
     grid-column: col-start / span 3;
-    padding: 0 15px; } }
+    padding: 0 15px; }
+  .iconGrid {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); } }

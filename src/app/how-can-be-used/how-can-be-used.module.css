@@ -34,4 +34,8 @@
     grid-template-rows: auto auto 0px;
     grid-column-gap: 10px;
     grid-row-gap: 10px;
-    overflow: hidden; } }
+    overflow: hidden; }
+  .devicesimg {
+    overflow: hidden; }
+    .devicesimg img {
+      width: 100%; } }

@@ -17,6 +17,7 @@
   top: calc(50% - 350px);
   left: 32%; }
   .watchMockup img {
+    max-width: 100%;
     width: 500px; }
 
 .rocket {

@@ -43,4 +43,10 @@
         grid-row-gap: 10px;
         overflow: hidden;
     }
+    .devicesimg {
+        overflow: hidden;
+        img {
+            width: 100%;
+        }
+    }
 }

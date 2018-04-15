@@ -47,4 +47,10 @@
         grid-column-gap: 10px;
         margin-bottom: 35px;
     }
+    .devicesimg {
+        overflow: hidden;
+        img {
+            width: 100%;
+        }
+    }
 }
