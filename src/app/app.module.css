@@ -4,8 +4,7 @@ body {
   font-family: 'GT America';
   background-color: #0F0F0F;
   color: #ffffff;
-  width: calc(100vw -9px);
-  overflow-x: hidden; }
+  width: calc(100vw -9px); }
 
 a {
   text-decoration: none; }

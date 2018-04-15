@@ -21,12 +21,13 @@
 
 .rocket {
   position: absolute;
-  width: 100vw;
-  left: 0;
-  z-index: -1; }
+  z-index: -1;
+  width: calc(100% + 180px);
+  left: -180px; }
   .rocket img {
     width: 100%;
-    transform: translate(-34vw, -130px); }
+    position: relative;
+    left: -215px; }
 
 .description {
   position: absolute;
