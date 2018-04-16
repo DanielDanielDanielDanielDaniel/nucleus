@@ -38,7 +38,7 @@ const Features = ()=> (
       <IconLabelBox src={term6} label='Statistical Analysis'/>
       <IconLabelBox src={term7} label='Native Advertising'/>
     </div>
-    
+    <div className={globalStyles.btmMargin}></div>
   </div>
 )
 

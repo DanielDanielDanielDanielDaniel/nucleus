@@ -36,6 +36,8 @@
     grid-row-gap: 10px;
     overflow: hidden; }
   .devicesimg {
-    overflow: hidden; }
+    overflow: hidden;
+    display: flex;
+    justify-content: center; }
     .devicesimg img {
-      width: 100%; } }
+      width: 350%; } }

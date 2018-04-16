@@ -130,6 +130,14 @@ p {
   .centeredBox div {
     max-width: 440px; }
 
+@media (max-width: 900px) {
+  .centeredBox {
+    text-align: left;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 100%; } }
+
 .btmMargin {
   grid-column: col-start / span 12;
   display: flex;
@@ -138,6 +146,16 @@ p {
   margin-top: 75px;
   justify-content: center;
   align-items: center; }
+
+@media (max-width: 900px) {
+  .btmMargin {
+    grid-column: col-start / span 12;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    margin-top: 75px;
+    justify-content: center;
+    align-items: center; } }
 
 .desktopHidden {
   display: none; }

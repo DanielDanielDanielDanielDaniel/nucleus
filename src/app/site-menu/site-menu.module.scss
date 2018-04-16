@@ -76,16 +76,21 @@ $bottom-space: 100px;
         }
 
         .title {
-            font-size: 8px;
-            letter-spacing: 1.6px;
-            margin-top: 25px;
-            margin-bottom: 6px;
+            font-size: 8px * $scale;
+            color: rgba(255, 255, 255, 0.3);
+            letter-spacing: 0.84px  * $scale;
+            text-transform: uppercase;
+            margin-top: 15px  * $scale;
+            margin-bottom: 15px  * $scale;
+            font-weight: lighter;
         }
 
         .item {
-            line-height: 32px;
-            font-size: 15px;
-            font-weight: 400;
+           line-height: 25px * $scale;
+           font-size: 10px * $scale;
+           color: rgba(255, 255, 255, 0.8);
+           letter-spacing: 0.27px * $scale;
+           font-weight: lighter;
             &:global(.activeItem) {
                 font-weight: 400;
             }

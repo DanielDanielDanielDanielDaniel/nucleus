@@ -4,6 +4,7 @@ import IconLabelBox from 'components/presentation/icon-label-box'
 // import FadeIn from 'scroll-effects/fade-in'
 // images
 import svgLogo from './assets/designspecs.svg'
+import svgLogoMobile from './assets/mobile_specs@2x.png'
 import organisms from './assets/organisms2.png'
 // styles
 import globalStyles from 'app/app.module.css'
@@ -25,6 +26,9 @@ const DesignSpecifications = ()=> (
         <div className={styles.devicesimg}>
           <img src={svgLogo} alt='devices'/>
         </div>
+        <div className={styles.devicesimg2}>
+          <img src={svgLogoMobile} alt='devices'/>
+        </div>
         <div className={globalStyles.centeredBox}>
           <div>
             <h4>Design specifications</h4>
@@ -35,7 +39,7 @@ const DesignSpecifications = ()=> (
           </div>
         </div>
       </div>
-      <div className={styles.hitler}>
+      <div className={styles.margins}>
       </div>
       <Parallax speed={-200}>
         <div className={styles.organisms}>

@@ -40,7 +40,7 @@
   .withIcon:after {
     display: none; }
   .pictureCover {
-    margin-top: 70px; }
+    margin-top: 0px; }
   .iconStrip {
     grid-column: 1 / span 3;
     grid-template-columns: repeat(3, 1fr);

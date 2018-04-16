@@ -48,14 +48,19 @@
       position: absolute;
       bottom: 170px; }
     .menu .title {
-      font-size: 8px;
-      letter-spacing: 1.6px;
-      margin-top: 25px;
-      margin-bottom: 6px; }
+      font-size: 9.76px;
+      color: rgba(255, 255, 255, 0.3);
+      letter-spacing: 1.0248px;
+      text-transform: uppercase;
+      margin-top: 18.3px;
+      margin-bottom: 18.3px;
+      font-weight: lighter; }
     .menu .item {
-      line-height: 32px;
-      font-size: 15px;
-      font-weight: 400; }
+      line-height: 30.5px;
+      font-size: 12.2px;
+      color: rgba(255, 255, 255, 0.8);
+      letter-spacing: 0.3294px;
+      font-weight: lighter; }
       .menu .item:global(.activeItem) {
         font-weight: 400; }
     .menu .closeButton {

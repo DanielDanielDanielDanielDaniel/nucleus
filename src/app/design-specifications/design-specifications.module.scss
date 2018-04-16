@@ -22,7 +22,7 @@
     }
 }
 
-.hitler {
+.margins {
     height: 45vh;
     margin-bottom: 400px;
 }
@@ -37,7 +37,11 @@
         transform: translate(0,250px);
     }
 }
-
+@media (min-width: 900px) {
+    .devicesimg2 {
+    display: none;
+    }
+}
 
 @media (max-width: 900px) {
     .container {
@@ -48,9 +52,36 @@
         margin-bottom: 35px;
     }
     .devicesimg {
+        display: none;
         overflow: hidden;
         img {
             width: 100%;
+        }
+    }
+
+    .devicesimg2 {
+        display: visible;
+        display: grid;
+        grid-column: col-start / span 12;
+        align-items: center;
+        justify-content: center;
+        margin-top: 70px;
+        margin-bottom: 35px;
+        img {
+            width: 80%;
+            transform: translateX(10%);
+        }
+    }
+
+    .organisms {
+        width: calc(100vw);
+        left: 0;
+        z-index: -1;
+        overflow: hidden;
+        height: 300vh;
+        img {
+            width: 300%;
+            transform: translate(-600px,350px);
         }
     }
 }

@@ -11,7 +11,7 @@
     }
 }
 
-.withIcon {
+/*.withIcon {
     position: relative;
     &:after {
         position: absolute;
@@ -48,7 +48,7 @@
         width: 100%;
         border-radius: 4px;
     }
-}
+}*/
 
 
 @media (max-width: 900px) {
@@ -56,9 +56,9 @@
         display: none;
     }
     .pictureCover {
-        margin-top: 70px;
+        margin-top: 0px;
     }
-    .iconStrip {
+/*    .iconStrip {
         grid-column: 1 / span 3;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: auto auto 0;
@@ -68,6 +68,6 @@
         img {
             width: 100%;
             border-radius: 4px;
-        }
+        }*/
     }
 }

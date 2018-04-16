@@ -42,4 +42,4 @@
 
 @media (max-width: 900px) {
   .box {
-    width: 100%; } }
+    flex: 1 120px; } }

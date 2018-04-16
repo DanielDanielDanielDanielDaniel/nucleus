@@ -52,15 +52,15 @@ const Contact = ()=> (
       </p>
 
       <p className={globalStyles.descriptionText}>
-        Iconset and website design by <a href=''>Daniel Seiler</a>.<br/>
-        Website development. by <a href=''>Elias Alonso</a>.
+        Iconset and website design by <a href='http://daniel-seiler.com'>Daniel Seiler</a>.<br/>
+        Website development. by <a href='https://redradix.com/'>Elias Alonso</a>.
       </p>
     </div>
     <div className={globalStyles.sectionText}>
       <h4 className={globalStyles.descriptionTitle}>Contact</h4>
       <p className={globalStyles.descriptionText}>
-        Specific icon requests, general feedback and questions, business inquiries to
-        <br/><a href='/'>daniel@daniel-seiler.com</a>
+        Specific icon requests, general feedback and questions, inquiries to
+        <br/><a href='mailto:daniel@daniel-seiler.com'>daniel@daniel-seiler.com</a>
         <br/><br/>
         Copyright © 2018
         <br/><br/>

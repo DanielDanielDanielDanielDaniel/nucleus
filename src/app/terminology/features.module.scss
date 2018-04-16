@@ -1,11 +1,12 @@
 @import 'app/vars.scss';
 
 .iconContainer {
-    grid-column: col-start / span 12;
+    grid-column: 1 / span 12;
     margin-bottom: 25px;
     margin-top: 0px;
     display: flex;
     flex-direction: row;
+
 }
 
 
