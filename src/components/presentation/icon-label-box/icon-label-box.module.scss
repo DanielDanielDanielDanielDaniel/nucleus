@@ -48,6 +48,6 @@
 
 @media (max-width: 900px) {
     .box {
-        width: (100vw - (9px * 2)) / 1;
+        width: calc(100vw - (9px * 2));
     }
 }

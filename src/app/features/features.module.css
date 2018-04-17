@@ -7,47 +7,57 @@
     object-fit: cover;
     border-radius: 4px; }
 
-.withIcon {
-  position: relative; }
-  .withIcon:after {
-    position: absolute;
-    left: calc(100% + 13px);
-    top: 4px;
-    content: '';
-    width: 20px;
-    height: 20px;
-    background-size: contain;
-    background-repeat: no-repeat; }
+/*.withIcon {
+    position: relative;
+    &:after {
+        position: absolute;
+        left: calc(100% + 13px);
+        top: 4px;
+        content: '';
+        width: 20px;
+        height: 20px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+}
 
-.sketch:after {
-  background-image: url("./assets/sketch.png"); }
+.sketch {
+    &:after {
+        background-image: url('./assets/sketch.png');
+    }
+}
 
-.iconjar:after {
-  background-image: url("./assets/iconjar.png"); }
+.iconjar {
+    &:after {
+        background-image: url('./assets/iconjar.png');
+   } 
+}
 
 .iconStrip {
-  grid-column: 1 / span 12;
-  display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  grid-column-gap: 8px;
-  margin-top: 75px;
-  margin-bottom: 0px; }
-  .iconStrip img {
-    width: 100%;
-    border-radius: 4px; }
-
+    grid-column: 1 / span 12;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-column-gap: 8px;
+    margin-top: 75px;
+    margin-bottom: 0px;
+    img {
+        width: 100%;
+        border-radius: 4px;
+    }
+}*/
 @media (max-width: 900px) {
   .withIcon:after {
     display: none; }
   .pictureCover {
     margin-top: 0px; }
-  .iconStrip {
-    grid-column: 1 / span 3;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto auto 0;
-    grid-column-gap: 5px;
-    grid-row-gap: 5px;
-    overflow: hidden; }
-    .iconStrip img {
-      width: 100%;
-      border-radius: 4px; } }
+  /*    .iconStrip {
+        grid-column: 1 / span 3;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: auto auto 0;
+        grid-column-gap: 5px;
+        grid-row-gap: 5px;
+        overflow: hidden;
+        img {
+            width: 100%;
+            border-radius: 4px;
+        }*/ }

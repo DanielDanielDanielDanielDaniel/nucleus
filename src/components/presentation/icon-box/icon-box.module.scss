@@ -40,7 +40,9 @@
     text-align: center;
     left: 0;
     right: 0;
-    bottom: 0px;
+    top: calc(100% - 20px);
+    -webkit-transform: translateY(25px);
+    -ms-transform: translateY(25px);
     transform: translateY(25px);
     font-size: 12px;
     opacity: .5;
