@@ -2,6 +2,7 @@
   "name": "nucleus",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://werelax.github.io/nucleus/",
   "dependencies": {
     "animate.css": "^3.6.1",
     "classnames": "^2.2.5",
