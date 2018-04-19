@@ -47,8 +47,5 @@
 
 @media (max-width: 900px) {
   .box {
-<<<<<<< HEAD
-    width: 82vw; } }
-=======
-    width: calc(100vw - (9px * 2)); } }
->>>>>>> 3e8d333a69afe29e6061d9cb7b31ad2939464e51
+    width: 82vw;
+    /*width: calc(100vw - (9px * 2));*/ } }
