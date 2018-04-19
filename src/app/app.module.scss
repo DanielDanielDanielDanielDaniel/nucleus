@@ -131,8 +131,13 @@ p {
     margin-top: 0;
     margin-bottom: 30px;
     grid-column: auto / span 4;
+    
     a {
-        color: #ffffff;
+        transition: 0.23s ease-in all;
+        text-decoration: underline;
+    }
+    a:hover {
+        color: rgba(255,255,255,0.6);
     }
 }
 

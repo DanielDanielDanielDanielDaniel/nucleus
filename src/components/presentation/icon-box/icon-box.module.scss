@@ -1,3 +1,5 @@
+@import 'app/vars.scss';
+
 .boxcontainer {
     display: inline-block;
     vertical-align: top;
@@ -42,11 +44,15 @@
     right: 0;
     bottom: 0px;
     transform: translateY(25px);
-    font-size: 12px;
-    opacity: .5;
-    font-style: italic;
+    line-height: 17px * $scale;
+    font-size: 10px * $scale;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.27px * $scale;
+    font-weight: lighter;
+    transition: 0.17s ease-in all;
     text-align: center;
     letter-spacing: 0.07px;
+    opacity: 0.6;
 }
 
 @media (max-width: 600px) {
