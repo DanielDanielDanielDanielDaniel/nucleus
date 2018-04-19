@@ -1,3 +1,4 @@
+/* global variables */
 .boxcontainer {
   display: inline-block;
   vertical-align: top;
@@ -34,11 +35,15 @@
   -webkit-transform: translateY(25px);
   -ms-transform: translateY(25px);
   transform: translateY(25px);
-  font-size: 12px;
-  opacity: .5;
-  font-style: italic;
+  line-height: 20.74px;
+  font-size: 12.2px;
+  color: white;
+  letter-spacing: 0.3294px;
+  font-weight: lighter;
+  transition: 0.17s ease-in all;
   text-align: center;
-  letter-spacing: 0.07px; }
+  letter-spacing: 0.07px;
+  opacity: 0.6; }
 
 @media (max-width: 600px) {
   .box {

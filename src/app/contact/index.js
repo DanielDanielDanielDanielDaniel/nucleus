@@ -52,6 +52,14 @@ const Contact = ()=> (
       </p>
 
       <p className={globalStyles.descriptionText}>
+        Get the fitting Nucleus font: GT America by <a href='https://www.grillitype.com/'>GrilliType</a>.
+      </p>
+
+      <p className={globalStyles.descriptionText}>
+        Download <a href='https://geticonjar.com/'>Iconjar</a> for best icon management.
+      </p>
+
+      <p className={globalStyles.descriptionText}>
         Iconset and website design by <a href='http://daniel-seiler.com'>Daniel Seiler</a>.<br/>
         Website development. by <a href='https://redradix.com/'>Elias Alonso</a>.
       </p>

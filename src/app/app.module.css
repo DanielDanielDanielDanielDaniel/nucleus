@@ -104,7 +104,10 @@ p {
   margin-bottom: 30px;
   grid-column: auto / span 4; }
   .sectionText a, .bigSectionText a {
-    color: #ffffff; }
+    transition: 0.23s ease-in all;
+    text-decoration: underline; }
+  .sectionText a:hover, .bigSectionText a:hover {
+    color: rgba(255, 255, 255, 0.6); }
 
 .bigSectionText {
   grid-column: col-start / span 6;

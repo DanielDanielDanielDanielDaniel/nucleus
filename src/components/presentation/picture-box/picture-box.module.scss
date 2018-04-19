@@ -1,3 +1,5 @@
+@import 'app/vars.scss';
+
 .container {
     margin-top: 0px;
     grid-column: auto / span 6;
@@ -27,12 +29,13 @@
 }
 
 .label {
-    font-size: 12px;
-    opacity: .4;
-    font-style: italic;
+    line-height: 17px * $scale;
+    font-size: 10px * $scale;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.27px * $scale;
+    font-weight: lighter;
     text-align: center;
-    letter-spacing: 0.07px;
-    line-height: 14px;
+    opacity: 0.6;
     padding: 0 100px;
 }
 
