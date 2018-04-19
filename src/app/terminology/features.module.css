@@ -3,8 +3,12 @@
   grid-column: 1 / span 12;
   margin-bottom: 25px;
   margin-top: 0px;
-  display: flex;
-  flex-direction: row; }
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
+  align-items: center;
+  justify-content: center; }
 
 .pictureCover {
   margin-top: 10px; }
@@ -27,6 +31,11 @@
     background-repeat: no-repeat; }
 
 @media (max-width: 900px) {
+  .iconContainer {
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 45px; }
+    .iconContainer > *:last-child {
+      display: none; }
   .withIcon:after {
     display: none; }
   .pictureCover {

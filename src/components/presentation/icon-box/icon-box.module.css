@@ -31,7 +31,9 @@
   text-align: center;
   left: 0;
   right: 0;
-  bottom: 0px;
+  top: calc(100% - 20px);
+  -webkit-transform: translateY(25px);
+  -ms-transform: translateY(25px);
   transform: translateY(25px);
   line-height: 20.74px;
   font-size: 12.2px;

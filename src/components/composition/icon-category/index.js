@@ -4,7 +4,7 @@ import IconBox from 'components/presentation/icon-box'
 import VisibilityOpacity from 'scroll-effects/visibility-opacity'
 import styles from './icon-category.module.css'
 
-const path = filename => `/icons/${filename}`
+const path = filename => `${process.env.PUBLIC_URL}/icons/${filename}`
 
 const IconCategory = ({ title, icons}) => (
   <div className={styles.container}>
