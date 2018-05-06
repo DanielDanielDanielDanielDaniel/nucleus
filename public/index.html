@@ -63,8 +63,12 @@
        width: 100%;
        text-align: center;
      }
+     #root {
+       display: none;
+     }
      @supports (display:grid) {
        #ie-banner { display: none; }
+       #root { display: block; }
      }
 
     </style>
