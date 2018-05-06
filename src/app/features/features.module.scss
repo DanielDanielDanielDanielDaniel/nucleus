@@ -10,6 +10,11 @@
         object-fit: cover;
         border-radius: 4px;
     }
+    :global(.image-box) {
+        height: 380px;
+        background-color: #151515;
+        overflow: hidden;
+    }
     video {
         height: 100%;
         width: 100%;

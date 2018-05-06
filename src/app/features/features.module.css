@@ -7,6 +7,10 @@
     height: 100%;
     object-fit: cover;
     border-radius: 4px; }
+  .pictureCover :global(.image-box) {
+    height: 380px;
+    background-color: #151515;
+    overflow: hidden; }
   .pictureCover video {
     height: 100%;
     width: 100%;

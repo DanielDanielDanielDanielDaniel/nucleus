@@ -1,9 +1,12 @@
 import React from 'react'
 import Parallax from 'scroll-effects/parallax'
+import VideoBox from 'components/presentation/video-box'
+import styles from './usecase-watch.module.css'
+// images
 import watchMock from './assets/watch-mock.png'
 import rocket from './assets/rocket.png'
-import styles from './usecase-watch.module.css'
-
+// videos
+import demoVideo from './assets/demo.mp4'
 
 
 const UsecaseWatch = ()=> (
@@ -13,11 +16,7 @@ const UsecaseWatch = ()=> (
 		  <img src={rocket} alt=''/>
 		</div>
 	</Parallax>
-  <Parallax speed={-80}>
-    <div className={styles.watchMockup}>
-      <img src={watchMock} alt='watch usecase'/>
-    </div>
-  </Parallax>
+
   <Parallax speed={-20}>
     <div className={styles.description}>
     	<h4>Your secret weapon</h4>
@@ -25,6 +24,14 @@ const UsecaseWatch = ()=> (
 </p>
     </div>
   </Parallax>
+
+  <Parallax speed={-80}>
+    <VideoBox thumbnail={watchMock}
+              className={styles.videoBox}
+              src={demoVideo}>
+    </VideoBox>
+  </Parallax>
+
 </div>
 )
 

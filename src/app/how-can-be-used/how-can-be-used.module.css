@@ -26,10 +26,22 @@
     width: 120%;
     transform: translateX(-10%); }
 
+.pictureCover :global(.image-box) {
+  height: 380px;
+  background-color: #151515; }
+
+.pictureCover video {
+  width: 544px; }
+
+.pictureCover :global(.image) {
+  width: 544px; }
+
 .pictureCover video {
   width: 544px; }
 
 @media (max-width: 900px) {
+  .pictureCover video {
+    width: auto; }
   .iconContainer {
     grid-column: 1 / span 3;
     display: grid;
