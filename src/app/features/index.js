@@ -1,9 +1,12 @@
 import React from 'react'
 import cn from 'classnames'
-import PictureBox from 'components/presentation/picture-box'
+import VideoBox from 'components/presentation/video-box'
 // images
 import thumb1 from './assets/thumb1.png'
 import thumb2 from './assets/thumb2.png'
+// videos
+import video1 from './assets/video1.mp4'
+import video2 from './assets/video2.mp4'
 
 import colorIcon1 from './assets/color-section-1.svg'
 import colorIcon2 from './assets/color-section-2.svg'
@@ -30,12 +33,14 @@ const Features = ()=> (
       </div>
     </div>
     
-    <PictureBox src={thumb1} className={styles.pictureCover}
-                label='Sketch styles allow you to customize the looks of the iconset to your needs.'>
-    </PictureBox>
-    <PictureBox src={thumb2} className={styles.pictureCover}
-                label='Scale options allow you to change the thickness and size of the icons to match their visual surrounding'>
-    </PictureBox>
+    <VideoBox thumbnail={thumb1} className={styles.pictureCover}
+              src={video1}
+              label='Sketch styles allow you to customize the looks of the iconset to your needs.'>
+    </VideoBox>
+    <VideoBox thumbnail={thumb2} className={styles.pictureCover}
+              src={video2}
+              label='Scale options allow you to change the thickness and size of the icons to match their visual surrounding'>
+    </VideoBox>
     
   </div>
 )

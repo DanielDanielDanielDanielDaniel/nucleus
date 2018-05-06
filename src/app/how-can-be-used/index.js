@@ -54,7 +54,7 @@ const HowCanBeUsed = ()=> (
               label='Export functions make it easy for you to prepare all files for further collaboration, embedding - or as hand over format for the next user or client.'>
     </VideoBox>
     <VideoBox thumbnail={thumb4} className={styles.pictureCover}
-              src={video4}
+              src={video4} style={{width: '544px'}}
               label='The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.'>
     </VideoBox>
   </div>

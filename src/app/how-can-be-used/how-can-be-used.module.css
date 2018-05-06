@@ -26,6 +26,9 @@
     width: 120%;
     transform: translateX(-10%); }
 
+.pictureCover video {
+  width: 544px; }
+
 @media (max-width: 900px) {
   .iconContainer {
     grid-column: 1 / span 3;
