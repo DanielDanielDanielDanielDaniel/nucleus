@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.a936552e.css",
-  "main.css.map": "static/css/main.a936552e.css.map",
-  "main.js": "static/js/main.f08b89e1.js",
-  "main.js.map": "static/js/main.f08b89e1.js.map",
+  "main.css.map": "static/css/main-cssmodules.9bf3c30c.css.map",
+  "main.js": "static/js/main.c9123965.js",
+  "main.js.map": "static/js/main.c9123965.js.map",
   "static/media/androidphone.svg": "static/media/androidphone.40759769.svg",
   "static/media/androidwatch.svg": "static/media/androidwatch.0ec9266a.svg",
   "static/media/background.png": "static/media/background.73e8fb39.png",
@@ -55,5 +55,9 @@
   "static/media/thumb4.png": "static/media/thumb4.f54d8809.png",
   "static/media/twitter.svg": "static/media/twitter.88046deb.svg",
   "static/media/values-chart.svg": "static/media/values-chart.fc8829e3.svg",
+  "static/media/video1.mp4": "static/media/video1.7bab5831.mp4",
+  "static/media/video2.mp4": "static/media/video2.7bfbccbf.mp4",
+  "static/media/video3.mp4": "static/media/video3.8fbf0cd6.mp4",
+  "static/media/video4.mp4": "static/media/video4.9aefb7a7.mp4",
   "static/media/watch-mock.png": "static/media/watch-mock.98a5ca3d.png"
 }
