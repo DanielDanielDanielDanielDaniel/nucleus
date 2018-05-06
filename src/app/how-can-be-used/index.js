@@ -3,6 +3,7 @@ import cn from 'classnames'
 import IconLabelBox from 'components/presentation/icon-label-box'
 import IconBox from 'components/presentation/icon-box'
 import PictureBox from 'components/presentation/picture-box'
+import VideoBox from 'components/presentation/video-box'
 // images
 import androidPhoneIcon from './assets/androidphone.svg'
 import androidWatchIcon from './assets/androidwatch.svg'
@@ -20,6 +21,9 @@ import penIcon from './assets/pen.svg'
 import thumb3 from './assets/thumb3.png'
 import thumb4 from './assets/thumb4.png'
 import devices from './assets/devices.svg'
+// videos
+import video3 from './assets/video3.mp4'
+import video4 from './assets/video4.mp4'
 
 // styles
 import globalStyles from 'app/app.module.css'
@@ -45,12 +49,14 @@ const HowCanBeUsed = ()=> (
     </PictureBox>
     <PictureBox src={parabolicProcess} label='The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.'>
     </PictureBox>
-    <PictureBox src={thumb3} className={styles.pictureCover}
-                label='Export functions make it easy for you to prepare all files for further collaboration, embedding - or as hand over format for the next user or client.'>
-    </PictureBox>
-    <PictureBox src={thumb4} className={styles.pictureCover}
-                label='The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.'>
-    </PictureBox>
+    <VideoBox thumbnail={thumb3} className={styles.pictureCover}
+              src={video3}
+              label='Export functions make it easy for you to prepare all files for further collaboration, embedding - or as hand over format for the next user or client.'>
+    </VideoBox>
+    <VideoBox thumbnail={thumb4} className={styles.pictureCover}
+              src={video4}
+              label='The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.'>
+    </VideoBox>
   </div>
 )
 
