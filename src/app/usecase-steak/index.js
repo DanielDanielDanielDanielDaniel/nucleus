@@ -1,10 +1,6 @@
 import React from 'react'
 import Parallax from 'scroll-effects/parallax'
-<<<<<<< HEAD
-import phoneMock from './assets/galaxy@2x.png'
-=======
 import VideoBox from 'components/presentation/video-box'
->>>>>>> 4fea2c0b6021ed093ea0d080ae78a03db560a67f
 import styles from './usecase-steak.module.css'
 // images
 import phoneMock from './assets/galaxy_transparent@2x.png'
