@@ -1,6 +1,6 @@
 import React from 'react'
 import Parallax from 'scroll-effects/parallax'
-import phoneMock from './assets/phone-mock@2x.png'
+import phoneMock from './assets/galaxy@2x.png'
 import styles from './usecase-steak.module.css'
 
 const UsecaseSteak = ()=> (
