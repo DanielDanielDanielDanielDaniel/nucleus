@@ -15,12 +15,33 @@
 }
 
 .phoneMockup {
+    height: 827px;
     position: absolute;
-    top: calc(50% - 350px);
+    top: calc(50% - 290px);
     left: 45%;
+    max-width: 100%;
     img {
         max-width: 100%;
         width: 370px;
+    }
+    :global(.image) {
+        position: absolute;
+        top: -58px; left: -35px;
+        transform: none;
+        max-width: none;
+        z-index: 999;
+    }
+    :global(.video-crop) {
+        overflow-y: hidden;
+        height: 635px;
+        background-color: #151515;
+        width: 330px;
+    }
+    :global(.video) {
+        position: static;
+        transform: none;
+        max-width: none;
+        width: 327px;
     }
 }
 
@@ -49,7 +70,13 @@
     .phoneMockup {
         width: 100%;
         left: 0;
+        top: -230px;
         text-align: center;
+        > div {
+            position: absolute;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+        }
     }
     .description {
         position: relative;
@@ -59,5 +86,13 @@
         top: -220px;
         margin-left: 20px;
         padding-top: 30px;
+    }
+}
+
+@media (max-width: 400px) {
+    .phoneMockup {
+        top: -300px;
+        :global(.image) { transform: scale(.7); }
+        :global(.video-crop) { height: 650px; transform: scale(.71); }
     }
 }

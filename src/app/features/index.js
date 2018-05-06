@@ -3,7 +3,11 @@ import cn from 'classnames'
 import VideoBox from 'components/presentation/video-box'
 // images
 import thumb1 from './assets/thumb1.png'
+import thumb1x2 from './assets/thumb1@2x.png'
+import thumb1x3 from './assets/thumb1@3x.png'
 import thumb2 from './assets/thumb2.png'
+import thumb2x2 from './assets/thumb2@2x.png'
+import thumb2x3 from './assets/thumb2@3x.png'
 // videos
 import video1 from './assets/video1.mp4'
 import video2 from './assets/video2.mp4'
@@ -33,12 +37,12 @@ const Features = ()=> (
       </div>
     </div>
     
-    <VideoBox thumbnail={thumb1} className={styles.pictureCover}
-              src={video1}
+    <VideoBox thumbnail={thumb1} thumbnailx2={thumb1x2} thumbnailx3={thumb1x3}
+              className={styles.pictureCover} src={video1}
               label='Sketch styles allow you to customize the looks of the iconset to your needs.'>
     </VideoBox>
-    <VideoBox thumbnail={thumb2} className={styles.pictureCover}
-              src={video2}
+    <VideoBox thumbnail={thumb2} thumbnailx2={thumb2x2} thumbnailx3={thumb2x3}
+              className={styles.pictureCover} src={video2}
               label='Scale options allow you to change the thickness and size of the icons to match their visual surrounding'>
     </VideoBox>
     

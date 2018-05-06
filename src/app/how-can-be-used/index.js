@@ -19,7 +19,11 @@ import slideIcon from './assets/slide.svg'
 import menuIcon from './assets/menu.svg'
 import penIcon from './assets/pen.svg'
 import thumb3 from './assets/thumb3.png'
+import thumb3x2 from './assets/thumb3@2x.png'
+import thumb3x3 from './assets/thumb3@3x.png'
 import thumb4 from './assets/thumb4.png'
+import thumb4x2 from './assets/thumb4@2x.png'
+import thumb4x3 from './assets/thumb4@3x.png'
 import devices from './assets/devices.svg'
 // videos
 import video3 from './assets/video3.mp4'
@@ -49,12 +53,12 @@ const HowCanBeUsed = ()=> (
     </PictureBox>
     <PictureBox src={parabolicProcess} label='The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.'>
     </PictureBox>
-    <VideoBox thumbnail={thumb3} className={styles.pictureCover}
-              src={video3}
+    <VideoBox thumbnail={thumb3} thumbnailx2={thumb3x2} thumbnailx3={thumb3x3}
+              className={styles.pictureCover} src={video3}
               label='Export functions make it easy for you to prepare all files for further collaboration, embedding - or as hand over format for the next user or client.'>
     </VideoBox>
-    <VideoBox thumbnail={thumb4} className={styles.pictureCover}
-              src={video4} style={{width: '544px'}}
+    <VideoBox thumbnail={thumb4} thumbnailx2={thumb4x2} thumbnailx3={thumb4x3}
+              className={styles.pictureCover} src={video4}
               label='The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.'>
     </VideoBox>
   </div>
