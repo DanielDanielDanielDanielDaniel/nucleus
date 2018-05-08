@@ -3,7 +3,7 @@ import Parallax from 'scroll-effects/parallax'
 import VideoBox from 'components/presentation/video-box'
 import styles from './usecase-steak.module.css'
 // images
-import phoneMock from './assets/galaxy_transparent@2x.png'
+import phoneMock from './assets/galaxy_transparent_2@2x.png'
 // videos
 import demoVideo from './assets/demo.mp4'
 

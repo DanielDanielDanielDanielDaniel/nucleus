@@ -22,21 +22,23 @@
     width: 370px; }
   .phoneMockup :global(.image) {
     position: absolute;
-    top: -58px;
+    top: -45px;
     left: -35px;
     transform: none;
     max-width: none;
     z-index: 999; }
   .phoneMockup :global(.video-crop) {
     overflow-y: hidden;
-    height: 635px;
+    overflow-x: hidden;
+    height: 610px;
+    transform: translateY(-1px);
     background-color: #151515;
-    width: 330px; }
+    width: 294px; }
   .phoneMockup :global(.video) {
     position: static;
     transform: none;
     max-width: none;
-    width: 327px; }
+    width: 294px; }
 
 .description {
   position: absolute;
@@ -77,8 +79,19 @@
 @media (max-width: 400px) {
   .phoneMockup {
     top: -300px; }
+
     .phoneMockup :global(.image) {
-      transform: scale(0.7); }
+      transform: scale(0.7); 
+    }
+
     .phoneMockup :global(.video-crop) {
-      height: 650px;
-      transform: scale(0.71); } }
+      height: 620px;
+      transform: scale(0.71); 
+    } 
+    .phoneMockup :global(.video) {
+      transform: translateY(19px);
+    }
+}
+
+
+
