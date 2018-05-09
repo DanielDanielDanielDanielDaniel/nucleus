@@ -26,22 +26,22 @@
     }
     :global(.image) {
         position: absolute;
-        top: -58px; left: -35px;
+        top: -46px; left: -38px;
         transform: none;
         max-width: none;
         z-index: 999;
     }
     :global(.video-crop) {
         overflow-y: hidden;
-        height: 635px;
+        height: 600px;
         background-color: #151515;
-        width: 330px;
+        width: 300px;
     }
     :global(.video) {
         position: static;
         transform: none;
         max-width: none;
-        width: 327px;
+        width: 289px;
     }
 }
 
@@ -93,6 +93,6 @@
     .phoneMockup {
         top: -300px;
         :global(.image) { transform: scale(.7); }
-        :global(.video-crop) { height: 650px; transform: scale(.71); }
+        :global(.video-crop) { height: 610px; width: 289px; transform: scale(.71); }
     }
 }
