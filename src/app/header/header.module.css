@@ -32,6 +32,17 @@
 .button:hover {
   opacity: 0.7; }
 
+.awardBadge {
+  position: fixed;
+  bottom: 35px;
+  left: 37px; }
+  .awardBadge a {
+    transition: 0.3s ease-in all; }
+  .awardBadge a img {
+    width: 100px; }
+  .awardBadge a:hover {
+    opacity: 0.7; }
+
 @media (max-width: 900px) {
   .header {
     height: 39px;
