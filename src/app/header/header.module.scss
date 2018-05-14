@@ -39,13 +39,27 @@
     }
 .awardBadge {
     position: fixed;
-    bottom: 35px;
-    left: 37px;
+    bottom: 28px;
+    left: 85px;
     a {
         transition: 0.3s ease-in all;
     }
     a img{
-        width: 100px;
+        width: 80px;
+    }
+    a:hover {
+        opacity: 0.7;
+    }
+}
+.awardBadge2 {
+    position: fixed;
+    bottom: 15px;
+    left: 0px;
+    a {
+        transition: 0.3s ease-in all;
+    }
+    a img{
+        width: 70px;
     }
     a:hover {
         opacity: 0.7;

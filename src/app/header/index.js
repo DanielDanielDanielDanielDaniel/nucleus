@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './header.module.css'
 import badge from './assets/cssda-nominee-purple-vote.png'
-
+import badge2 from './assets/awwwards_nominee_white_left@2x.png'
 
 const Header = ({ onOpenMenu }) => (
   <div className={styles.header}>
@@ -14,6 +14,11 @@ const Header = ({ onOpenMenu }) => (
     <div className={styles.awardBadge}>
     <a href='https://www.cssdesignawards.com/sites/nucleus-iconset/32906/'>
     	<img src={badge} alt=''/>
+    </a>
+    </div>
+    <div className={styles.awardBadge2}>
+    <a href='http://www.awwwards.com'>
+      <img src={badge2} alt=''/>
     </a>
       
     </div>
