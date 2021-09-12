@@ -74,20 +74,22 @@ const Contact = ()=> (
         <br/><br/>
       </p>
 
+      
+
       <div className={globalStyles.shareButtons}>
-        <a href='https://ui8.net/products/nucleus-icon-set-v3'>
+        <a href='https://crmrkt.com/MVBWoK?u=DanielSeiler'>
           <img src={twitterLogo} alt='twitter'/>
         </a>
-        <a href='https://ui8.net/products/nucleus-icon-set-v3'>
+        <a href='https://crmrkt.com/MVBWoK?u=DanielSeiler'>
           <img src={linkedinLogo} alt='linkedin'/>
         </a>
-        <a href='https://ui8.net/products/nucleus-icon-set-v3'>
+        <a href='https://crmrkt.com/MVBWoK?u=DanielSeiler'>
           <img src={pinterestLogo} alt='pinterestLogo'/>
         </a>
-        <a href='https://ui8.net/products/nucleus-icon-set-v3'>
+        <a href='https://crmrkt.com/MVBWoK?u=DanielSeiler'>
           <img src={designerNewsLogo} alt='designerNews'/>
         </a>
-        <a href='https://ui8.net/products/nucleus-icon-set-v3'>
+        <a href='https://crmrkt.com/MVBWoK?u=DanielSeiler'>
           <img src={productHuntLogo} alt='productHunt'/>
         </a>
       </div>

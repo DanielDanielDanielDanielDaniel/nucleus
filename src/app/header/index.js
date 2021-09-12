@@ -9,7 +9,7 @@ const Header = ({ onOpenMenu }) => (
           onClick={onOpenMenu}
           onTouchStart={onOpenMenu}/>
     <div className={styles.buttonBox}>
-      <a className={styles.button} href='https://ui8.net/products/nucleus-icon-set-v3?rel=doge'>Buy Set</a>
+      <a className={styles.button} href='https://crmrkt.com/MVBWoK?u=DanielSeiler'>Buy Set</a>
     </div>
     <div className={styles.awardBadge}>
     <a href='https://www.cssdesignawards.com/sites/nucleus-iconset/32906/'>
