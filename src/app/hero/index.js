@@ -7,7 +7,7 @@ const Hero = ()=> (
    		<div>
 	      <h1 className={styles.title}>Nucleus Iconset</h1>
 	      <p className={styles.subtitle}>
-	        400 icons for those who build the future
+	        1000 icons for those who build the future
 	      </p>
       	</div>
     </div>
