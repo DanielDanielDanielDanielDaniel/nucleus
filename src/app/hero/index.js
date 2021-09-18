@@ -9,7 +9,7 @@ const Hero = ()=> (
 	      <p className={styles.subtitle}>
 	        1000 premium icons – 3 unique styles – duotone
 	      </p>
-		  <a className={styles.button} href='https://crmrkt.com/MVBWoK?u=DanielSeiler'>Buy Set</a>
+		  <a className={styles.button} href='https://crmrkt.com/MVBWoK?u=DanielSeiler'>Buy Set – from $75</a>
       	</div>
     </div>
   </div>

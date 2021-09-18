@@ -22,7 +22,7 @@
   font-size: 48.8px;
   letter-spacing: -1.1834px;
   text-align: center;
-  margin: 0; }
+  margin: -15px 0 0 0; }
 
 .subtitle {
   opacity: 0.4;
@@ -33,7 +33,8 @@
   letter-spacing: -0.4392px;
   text-align: center;
   line-height: 23.18px;
-  margin-top: 12.2px;
+  margin-top: 6.1px;
+  margin-bottom: 25px;
   padding: 0 15px;
   max-width: 500px; }
 
