@@ -31,7 +31,7 @@ const Features = ()=> (
         <div>
           <h4>Discover the power of customization</h4>
           <p>
-            With total control through the sketch file you can further customize to any style you want and apply to all 400 icons within seconds.
+            With total control through the sketch file you can further customize to any style you want and apply to all 1000 icons within seconds.
           </p>
         </div>
       </div>
