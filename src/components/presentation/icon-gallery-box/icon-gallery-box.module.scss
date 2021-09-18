@@ -1,0 +1,73 @@
+// $ratio = real box width / sketch box width
+// (caused by a reduction of wrapper width)
+$ratio: 122 / 150;
+
+@import 'app/vars.scss';
+
+.box {
+    display: inline-block;
+    vertical-align: top;
+    height: 185px * $ratio;
+    border-radius: 4px;
+    background-color: #151515;
+    position: relative;
+    &:last-child {
+        margin-right: 0;
+    }
+    cursor: pointer;
+    &:hover {
+        background-color: #1d1d1d;
+    }
+}
+
+.iconContainer {
+    position: absolute;
+    top: 18px;
+    height: 70px * $ratio;
+    width: 70px * $ratio;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.icon {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.separator {
+    display: inline-block;
+    border-bottom: 1px solid #ffffff;
+    opacity: 0.2;
+    width: 8px * $ratio;
+    position: absolute;
+    top: 122px * $ratio;
+    left: 18px * $ratio;
+}
+
+.label {
+    position: absolute;
+    top: 130px * $ratio;
+    left: 19px * $ratio;
+    right: 19px * $ratio;
+    line-height: 17px * $scale;
+    font-size: 10px * $scale;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.27px * $scale;
+    font-weight: lighter;
+    text-align: center;
+    opacity: 0.6;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.sublabel {
+    position: absolute;
+    top: 148px * $ratio;
+    left: 19px * $ratio;
+    right: 19px * $ratio;
+    opacity: 0.4;
+    font-size: 10px;
+    letter-spacing: 0.07px;
+}

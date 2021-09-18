@@ -1,0 +1,197 @@
+/* global variables */
+/* global styles */
+body {
+  font-family: 'GT America';
+  background-color: #0F0F0F;
+  color: #ffffff;
+  width: calc(100vw -9px); }
+
+#root {
+  overflow-x: hidden; }
+
+a {
+  text-decoration: none; }
+
+/* Custom Scrollbar */
+body::-webkit-scrollbar-track {
+  background: #3F3F3F;
+  border-left: 4px solid #0F0F0F;
+  border-right: 4px solid #0F0F0F; }
+
+body::-webkit-scrollbar-thumb {
+  background-image: url("./header/assets/scrollbar_dot.svg");
+  background-position: center center;
+  background-repeat: no-repeat; }
+
+body::-webkit-scrollbar-thumb:hover {
+  background-image: url("./header/assets/scrollbar_dot.svg");
+  background-position: center center;
+  background-repeat: no-repeat; }
+
+body::-webkit-scrollbar {
+  width: 9px; }
+
+/* Typography */
+h4 {
+  font-size: 13px;
+  text-transform: uppercase;
+  opacity: 0.4;
+  letter-spacing: 1.28px;
+  font-weight: lighter;
+  margin-bottom: 8px; }
+
+p {
+  font-size: 16.7px;
+  font-weight: lighter;
+  opacity: 0.8;
+  letter-spacing: -0.07px;
+  line-height: 23px;
+  margin-bottom: 30px; }
+  p a {
+    color: #ffffff; }
+
+.descriptionText {
+  line-height: 20.74px;
+  font-size: 12.2px;
+  color: white;
+  letter-spacing: 0.3294px;
+  font-weight: lighter;
+  transition: 0.17s ease-in all;
+  cursor: pointer;
+  margin-bottom: -2px;
+  margin-right: 40px; }
+  .descriptionText:global(.activeItem) {
+    text-decoration: underline; }
+
+.descriptionTitle {
+  font-size: 9.76px;
+  color: rgba(255, 255, 255, 0.7);
+  letter-spacing: 1.0248px;
+  text-transform: uppercase;
+  margin-top: 18.3px;
+  margin-bottom: 23px;
+  font-weight: lighter; }
+
+.shareButtons {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  bottom: 0;
+  height: 50px;
+  width: 220px; }
+  .shareButtons a {
+    flex: 1; }
+    .shareButtons a :hover {
+      opacity: 0.9; }
+    .shareButtons a img {
+      opacity: 0.7;
+      transition: 0.37s ease-in all; }
+
+/* reused styles */
+.subgrid {
+  grid-column: 1 / span 12;
+  display: grid;
+  grid-template-columns: repeat(12, [col-start] 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 0;
+  margin-bottom: 0px; }
+
+.sectionTitle {
+  grid-column: col-start / span 12;
+  margin: 0;
+  margin-bottom: 8px; }
+
+.sectionText, .bigSectionText {
+  margin-top: 0;
+  margin-bottom: 30px;
+  grid-column: auto / span 4; }
+  .sectionText a, .bigSectionText a {
+    transition: 0.23s ease-in all;
+    text-decoration: underline; }
+  .sectionText a:hover, .bigSectionText a:hover {
+    color: rgba(255, 255, 255, 0.6); }
+
+.bigSectionText {
+  grid-column: col-start / span 6;
+  font-size: 22px;
+  letter-spacing: -0.51px;
+  margin-bottom: 50px; }
+
+.sectionSeparator {
+  margin-bottom: 125px; }
+
+.gridBreak {
+  grid-column: 1 / span 12; }
+
+.sectionSeparator {
+  margin-bottom: 315px; }
+
+.centeredBox {
+  text-align: center;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  width: 100%; }
+  .centeredBox div {
+    max-width: 440px; }
+
+@media (max-width: 900px) {
+  .centeredBox {
+    text-align: left;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 100%; } }
+
+.btmMargin {
+  grid-column: col-start / span 12;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+  margin-top: 75px;
+  justify-content: center;
+  align-items: center; }
+
+@media (max-width: 900px) {
+  .btmMargin {
+    grid-column: col-start / span 12;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    margin-top: 75px;
+    justify-content: center;
+    align-items: center; } }
+
+.desktopHidden {
+  display: none; }
+
+@media (max-width: 900px) {
+  .app {
+    padding-top: 35px; }
+  .sectionTitle {
+    grid-column: 1 / span 3; }
+  .sectionText, .bigSectionText {
+    grid-column: 1 / span 3; }
+  .bigSectionText {
+    grid-column: 1 / span 3; }
+  .gridBreak {
+    grid-column: 1 / span 3; }
+  .mobileHidden {
+    display: none !important; }
+  .desktopHidden {
+    display: block; }
+  .sectionSeparator {
+    margin-top: 75px;
+    margin-bottom: 30px;
+    grid-column: 1 / span 3;
+    border-bottom: 1px solid #3f3f3f;
+    opacity: 0.3; }
+  .subgrid {
+    grid-column: 1 / span 3;
+    grid-template-columns: repeat(3, [col-start] 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 0;
+    width: calc(100% - 30px);
+    max-width: 450px;
+    justify-self: center; } }

@@ -1,0 +1,106 @@
+/* global variables */
+.container {
+  /*    background-image: url('./assets/rocket.png');
+    background-color: $background-color;
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;*/
+  position: relative;
+  height: 80vh;
+  min-height: 700px;
+  grid-column: col-start / span 12;
+  padding-bottom: 220px;
+  margin-top: 130px; }
+
+.watchMockup {
+  position: absolute;
+  top: calc(50% - 350px);
+  left: 32%; }
+  .watchMockup img {
+    max-width: 100%;
+    width: 500px; }
+
+.videoBox {
+  position: absolute;
+  top: calc(50% - 350px);
+  left: 32%; }
+  .videoBox :global(.image-box) {
+    height: auto; }
+  .videoBox :global(.image) {
+    position: static;
+    transform: none;
+    max-width: none;
+    width: 500px; }
+  .videoBox :global(.video-crop) {
+    position: absolute;
+    left: 40px;
+    top: 268px; }
+  .videoBox :global(.video) {
+    transform: none;
+    max-width: none;
+    width: 235px; }
+
+.rocket {
+  position: absolute;
+  z-index: -1;
+  width: calc(100% + 180px);
+  left: -180px; }
+  .rocket img {
+    width: 100%;
+    position: relative;
+    left: -215px; }
+
+.description {
+  position: absolute;
+  top: 470px;
+  left: calc(49% + 150px); }
+
+@media (min-width: 900px) {
+  .description {
+    max-width: 350px; }
+  .container {
+    margin: 10vh 0; } }
+
+@media (max-width: 900px) {
+  .container {
+    grid-column: col-start / span 3;
+    background-size: auto 100%;
+    margin: 40vh 0 20vh; }
+  .videoBox {
+    width: 100%;
+    height: 828px;
+    max-width: 100%;
+    box-sizing: border-box;
+    left: 0;
+    position: relative;
+    overflow: hidden; }
+    .videoBox :global(.image-box) {
+      position: absolute;
+      left: 50%;
+      transform: translateX(calc(-50% + 95px)); }
+  .watchMockup {
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    left: 0%; }
+    .watchMockup img {
+      width: 120%;
+      max-width: 150%;
+      transform: translateX(8%); }
+  .rocket {
+    width: calc(100% + 180px);
+    left: -180px;
+    overflow: hidden; }
+    .rocket img {
+      width: 300%;
+      position: relative;
+      left: -100%; }
+  .description {
+    position: relative;
+    width: calc(100% - 40px);
+    left: 0;
+    text-align: left;
+    top: -300px;
+    margin-left: 20px;
+    padding-top: 30px; } }

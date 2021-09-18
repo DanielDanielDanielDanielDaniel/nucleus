@@ -1,0 +1,73 @@
+@import 'app/vars.scss';
+
+
+.pictureCover {
+    margin-top: 10px;
+    overflow: hidden;
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 4px;
+    }
+    :global(.image-box) {
+        height: 380px;
+        background-color: #151515;
+        overflow: hidden;
+    }
+    video {
+        height: 100%;
+        width: 100%;
+        max-width: none;
+        object-fit: cover;
+    }
+}
+
+/*.withIcon {
+    position: relative;
+    &:after {
+        position: absolute;
+        left: calc(100% + 13px);
+        top: 4px;
+        content: '';
+        width: 20px;
+        height: 20px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+}
+
+.sketch {
+    &:after {
+        background-image: url('./assets/sketch.png');
+    }
+}
+
+.iconjar {
+    &:after {
+        background-image: url('./assets/iconjar.png');
+   } 
+}
+
+.iconStrip {
+    grid-column: 1 / span 12;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-column-gap: 8px;
+    margin-top: 75px;
+    margin-bottom: 0px;
+    img {
+        width: 100%;
+        border-radius: 4px;
+    }
+}*/
+
+
+@media (max-width: 900px) {
+    .withIcon:after {
+        display: none;
+    }
+    .pictureCover {
+        margin-top: 0px;
+    }
+}

@@ -1,0 +1,64 @@
+@import 'app/vars.scss';
+
+.container {
+    margin-top: 0px;
+    grid-column: auto / span 6;
+    margin-bottom: 16px;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin-top: 16px;
+}
+
+.imageBox {
+    position: relative;
+    margin-bottom: 8px;
+    border-radius: 4px;
+}
+
+.image {
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.video {
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.label {
+    line-height: 17px * $scale;
+    font-size: 10px * $scale;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.27px * $scale;
+    font-weight: lighter;
+    text-align: center;
+    opacity: 0.6;
+    padding: 0 100px;
+    margin-top: 25px;
+}
+
+@media (max-width: 900px) {
+    .container {
+        grid-column: 1 / span 12;
+        margin-top: 35px;
+        margin-bottom: 20px;
+    }
+    .content {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .imageBox {
+        height: 260px;
+    }
+    .label {
+        padding: 0 30px;
+    }
+}
