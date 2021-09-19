@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="72px" viewBox="0 0 74 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>penis</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="57" cy="33" r="3"></circle>
+        <circle id="path-2" cx="13" cy="67" r="3"></circle>
+        <circle id="path-3" cx="22" cy="39" r="3"></circle>
+        <circle id="path-4" cx="68" cy="3" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-6" transform="translate(-966.000000, -728.000000)">
+            <g id="penis" transform="translate(967.000000, 729.000000)">
+                <path d="M10.4597079,45.8806564 C5.79209506,47.9773129 1.52528127,48.8976431 0.457635508,54.6363568 C-0.610010256,60.3750706 5.27444863,66.1071882 9.34337573,66.9134979 C13.4123028,67.7198076 17.5957855,67.8795442 21.3251121,65.225972 C23.9970078,66.6333814 29.9739584,67.514907 33.7847412,64.1562143 C38.6481327,59.8697885 37.8207362,54.6859766 36.567244,51.5786486 C40.4809123,49.0830462 46.4597281,45.4845545 56.398069,34.1347265 C62.2024717,27.505957 66.129875,20.8422622 69.441742,14.5228035 C70.3718606,13.4300576 71.6569961,11.540208 71.6045396,9.55054947 C71.7152821,8.17554986 71.7963842,4.41094064 67.7164075,2.67984965 C63.6364309,0.948758662 54.863882,6.5382973 52.7021657,8.00242322 C50.5404495,9.46654914 47.9876667,11.1942494 48.0039423,13.0564494 C48.008603,13.5897064 48.1666476,14.0084364 48.4780762,14.3126393 C47.7826393,15.3386503 45.2559161,22.4156901 27.8493233,35.3079083 C19.4104243,41.5581911 15.1273207,43.7839999 10.4597079,45.8806564 Z" id="Path-216" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M48.4825493,14.3525085 C50.9026191,13.76044 56.711382,13.3342332 59.5062385,13.9675103 C62.3010949,14.6007875 66.7692167,15.7065792 69.3691059,14.6281513" id="Path-217" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M21.1535221,65.348078 C23.2831784,63.9825156 26.0019662,60.5342463 26.1379375,57.3445562" id="Path-218" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-536" transform="translate(57.000000, 33.000000) rotate(-90.000000) translate(-57.000000, -33.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="57" cy="33" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-538" transform="translate(13.000000, 67.000000) rotate(-90.000000) translate(-13.000000, -67.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="13" cy="67" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-537" transform="translate(22.000000, 39.000000) rotate(-90.000000) translate(-22.000000, -39.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="22" cy="39" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-539" transform="translate(68.000000, 3.000000) rotate(-90.000000) translate(-68.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="68" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

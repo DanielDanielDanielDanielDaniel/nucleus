@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="60px" viewBox="0 0 86 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>website-content-ui</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="68" cy="30" r="3"></circle>
+        <circle id="path-2" cx="3" cy="55" r="3"></circle>
+        <circle id="path-3" cx="18" cy="17" r="3"></circle>
+        <circle id="path-4" cx="81" cy="3" r="3"></circle>
+        <circle id="path-5" cx="36" cy="42" r="3"></circle>
+        <circle id="path-6" cx="50" cy="42" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-4" transform="translate(-775.000000, -554.000000)">
+            <g id="website-content-ui" transform="translate(776.000000, 555.000000)">
+                <rect id="Rectangle-16-Copy-19" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" x="3" y="3" width="79" height="53"></rect>
+                <rect id="Rectangle-16-Copy-20" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" x="17" y="17" width="51" height="14"></rect>
+                <g id="Oval-Copy-129" transform="translate(68.000000, 30.000000) rotate(-90.000000) translate(-68.000000, -30.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="68" cy="30" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-130" transform="translate(3.000000, 55.000000) rotate(-90.000000) translate(-3.000000, -55.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3" cy="55" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-134" transform="translate(18.000000, 17.000000) rotate(-90.000000) translate(-18.000000, -17.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="18" cy="17" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-131" transform="translate(81.000000, 3.000000) rotate(-90.000000) translate(-81.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="81" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <path d="M49.509996,42 L37,42" id="Stroke-1-Copy-43" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-255" transform="translate(36.000000, 42.000000) rotate(-90.000000) translate(-36.000000, -42.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="36" cy="42" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+                <g id="Oval-Copy-256" transform="translate(50.000000, 42.000000) rotate(-90.000000) translate(-50.000000, -42.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="50" cy="42" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

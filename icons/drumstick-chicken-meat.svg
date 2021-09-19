@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="87px" viewBox="0 0 86 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>drumstick-chicken-meat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="59" r="3"></circle>
+        <circle id="path-2" cx="90" cy="31" r="3"></circle>
+        <circle id="path-3" cx="66" cy="9" r="3"></circle>
+        <circle id="path-4" cx="40" cy="68" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-5" transform="translate(-774.000000, -40.000000)">
+            <g id="drumstick-chicken-meat" transform="translate(766.000000, 35.000000)">
+                <g id="Group-5" transform="translate(49.146447, 49.646447) rotate(-315.000000) translate(-49.146447, -49.646447) translate(29.146447, 0.646447)" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M28.6191892,85 C27.0409912,79.9364356 26.3046847,74.8233866 26.4102697,69.6608529 C26.5686471,61.9170524 32.6213146,50.3465697 35.3110778,43.9619394 C39.8094388,33.284281 41.8292016,19.5548324 37.9241249,11.0645633 C34.0190481,2.5742942 27.4114992,7.38826669e-13 20,0" id="Path-56"></path>
+                    <path d="M8.61918918,85 C7.04099124,79.9364356 6.30468474,74.8233866 6.41026969,69.6608529 C6.56864711,61.9170524 12.6213146,50.3465697 15.3110778,43.9619394 C19.8094388,33.284281 21.8292016,19.5548324 17.9241249,11.0645633 C14.0190481,2.5742942 7.41149923,7.38826669e-13 0,0" id="Path-56-Copy" transform="translate(10.000000, 42.500000) scale(-1, 1) translate(-10.000000, -42.500000) "></path>
+                    <path d="M11.4114848,85.0942403 C10.4784773,87.5068674 9.66087957,89.3025422 8.95869159,90.4812646 C7.90540963,92.2493482 8.6074677,97.2081502 12.913695,97.9218323 C17.2199223,98.6355143 18.808396,94.2271378 20.5843311,94.2271378" id="Path-57"></path>
+                    <path d="M23.5663791,85.2281261 C22.6550086,87.6407533 21.8563714,89.4364281 21.1704676,90.6151505 C20.1416118,92.383234 19.9210024,97.2081502 24.1273658,97.9218323 C28.3337292,98.6355143 30.0274703,94.2330722 31.7622204,94.2330722" id="Path-57-Copy" transform="translate(26.152216, 91.614109) scale(-1, 1) translate(-26.152216, -91.614109) "></path>
+                    <polyline id="Path-58" points="14 69 17.2483296 71.1796633 20.1609623 69.101031 23.1265703 70.8157833 26.2104087 68.6381561"></polyline>
+                </g>
+                <g id="Oval-Copy-163" transform="translate(30.000000, 59.000000) rotate(-90.000000) translate(-30.000000, -59.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="30" cy="59" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-167" transform="translate(90.000000, 31.000000) rotate(-90.000000) translate(-90.000000, -31.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="90" cy="31" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-168" transform="translate(66.000000, 9.000000) rotate(-90.000000) translate(-66.000000, -9.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="66" cy="9" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-164" transform="translate(40.000000, 68.000000) rotate(-90.000000) translate(-40.000000, -68.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="40" cy="68" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

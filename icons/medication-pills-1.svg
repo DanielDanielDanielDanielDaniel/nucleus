@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="64px" viewBox="0 0 85 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>medication-pills-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="79" cy="28" r="3"></circle>
+        <circle id="path-2" cx="46" cy="55" r="3"></circle>
+        <path d="M44.5,34 C44.5,35.6568542 43.1568542,37 41.5,37 C39.8431458,37 38.5,35.6568542 38.5,34 C38.5,32.3431458 39.8431458,31 41.5,31 C43.1568542,31 44.5,32.3431458 44.5,34 Z M44.5,3 C44.5,4.65685425 43.1568542,6 41.5,6 C39.8431458,6 38.5,4.65685425 38.5,3 C38.5,1.34314575 39.8431458,-1.77635684e-15 41.5,-1.77635684e-15 C43.1568542,-1.77635684e-15 44.5,1.34314575 44.5,3 Z" id="path-3"></path>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-7" transform="translate(-963.000000, -226.000000)">
+            <g id="medication-pills-1" transform="translate(964.000000, 227.000000)">
+                <path d="M41.5513205,3 C32.1446489,3 23.5102009,3 15.6479763,3 C3.85463953,3 8.469406e-16,13.0205403 0,18.7040165" id="Path-340" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M41.5513205,18 C32.1446489,18 23.5102009,18 15.6479763,18 C3.85463953,18 8.469406e-16,28.0205403 0,33.7040165" id="Path-340-Copy-2" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(20.775660, 25.852008) scale(1, -1) translate(-20.775660, -25.852008) "></path>
+                <path d="M82.5513205,3 C73.1446489,3 64.5102009,3 56.6479763,3 C44.8546395,3 41,13.0205403 41,18.7040165" id="Path-340-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(61.775660, 10.852008) scale(-1, 1) translate(-61.775660, -10.852008) "></path>
+                <path d="M82.5513205,18 C81.9702384,18 81.5352588,18 81.2463816,18 M44.7085522,23.3292125 C42.0442328,26.6127849 41,30.7458622 41,33.7040165" id="Path-340-Copy-3" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(61.775660, 25.852008) scale(-1, -1) translate(-61.775660, -25.852008) "></path>
+                <circle id="Oval-28" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="62" cy="41" r="21"></circle>
+                <g id="Oval-Copy-530" transform="translate(79.000000, 28.000000) rotate(-90.000000) translate(-79.000000, -28.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="79" cy="28" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-551" transform="translate(46.000000, 55.000000) rotate(-90.000000) translate(-46.000000, -55.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="46" cy="55" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <polyline id="Path-409" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" points="49 25 49 28.2186272 71.8476401 56.2175767 75.3297665 56.2175767"></polyline>
+                <polyline id="Path-409" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(62.164883, 40.608788) scale(-1, -1) translate(-62.164883, -40.608788) " points="49 25 49 28.2186272 71.8476401 56.2175767 75.3297665 56.2175767"></polyline>
+                <polyline id="Path-341" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" points="41.6471027 3.12237698 38.5056983 5.74237484 38.5056983 30.4875368 41.915365 33.8972035"></polyline>
+                <polyline id="Path-341" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(43.070702, 16.260218) scale(-1, 1) translate(-43.070702, -16.260218) " points="44.6414044 3 41.5 5.61999786 41.5 29.5204368"></polyline>
+                <g id="Combined-Shape">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#151515" stroke-width="1.5" d="M43.75,34 C43.75,32.7573593 42.7426407,31.75 41.5,31.75 C40.2573593,31.75 39.25,32.7573593 39.25,34 C39.25,35.2426407 40.2573593,36.25 41.5,36.25 C42.7426407,36.25 43.75,35.2426407 43.75,34 Z M43.75,3 C43.75,1.75735931 42.7426407,0.75 41.5,0.75 C40.2573593,0.75 39.25,1.75735931 39.25,3 C39.25,4.24264069 40.2573593,5.25 41.5,5.25 C42.7426407,5.25 43.75,4.24264069 43.75,3 Z"></path>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -153,6 +153,15 @@ p {
   justify-content: center;
   align-items: center; }
 
+.btmMarginTight {
+  grid-column: col-start / span 12;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  margin-top: 75px;
+  justify-content: center;
+  align-items: center; }
+
 @media (max-width: 900px) {
   .btmMargin {
     grid-column: col-start / span 12;

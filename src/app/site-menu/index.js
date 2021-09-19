@@ -58,16 +58,18 @@ class SiteMenu extends Component {
           Nucleus
         </MenuItem>
 
-        <MenuItem sectionid='usecases'>
-          Use Cases
+        <MenuItem sectionid='terminology'>
+          Styles
         </MenuItem>
+
+        
 
         <MenuItem sectionid='features'>
           Customization
         </MenuItem>
 
-        <MenuItem sectionid='terminology'>
-          Terminology
+        <MenuItem sectionid='usecases'>
+          Use Cases
         </MenuItem>
 
         <MenuItem sectionid='how-to-use'>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="93px" viewBox="0 0 69 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>banana-trophy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="3" cy="64" r="3"></circle>
+        <circle id="path-2" cx="60" cy="3" r="3"></circle>
+        <circle id="path-3" cx="47" cy="88" r="3"></circle>
+        <circle id="path-4" cx="25" cy="88" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-4" transform="translate(-774.000000, -1046.000000)">
+            <g id="banana-trophy" transform="translate(775.000000, 1047.000000)">
+                <path d="M47.3976173,88 L26,88" id="Path-13-Copy-4" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M48.5413507,25.3212588 C50.6087194,18.1860354 54.4481185,17.1076855 59.9005195,14 C59.9005195,14 67,17.3029773 67,25.3212588 C67,84.8852317 -0.59557366,74.6026983 3.15011225,63.4059734 C6.89011857,52.2092484 36.2961668,67.6004998 48.5413507,25.3212588 Z" id="Stroke-1" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M60,4 L60,14" id="Stroke-5" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M36.3333333,70.5835474 L36.3333333,87.8656286" id="Path-15" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-101" transform="translate(3.000000, 64.000000) rotate(-90.000000) translate(-3.000000, -64.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3" cy="64" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-105" transform="translate(60.000000, 3.000000) rotate(-90.000000) translate(-60.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="60" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-98" transform="translate(47.000000, 88.000000) rotate(-90.000000) translate(-47.000000, -88.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="47" cy="88" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-99" transform="translate(25.000000, 88.000000) rotate(-90.000000) translate(-25.000000, -88.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="25" cy="88" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

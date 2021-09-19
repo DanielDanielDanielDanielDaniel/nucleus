@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860px" height="95px" viewBox="0 0 860 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>devices</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="49.1666667" cy="19.5294118" rx="2.95" ry="2.92941176"></ellipse>
+        <ellipse id="path-2" cx="49.1666667" cy="63.4705882" rx="2.95" ry="2.92941176"></ellipse>
+        <ellipse id="path-3" cx="9.83333333" cy="19.5294118" rx="2.95" ry="2.92941176"></ellipse>
+        <ellipse id="path-4" cx="9.83333333" cy="63.4705882" rx="2.95" ry="2.92941176"></ellipse>
+        <ellipse id="path-5" cx="9.80583706" cy="66.4079602" rx="2.94175112" ry="2.92976295"></ellipse>
+        <ellipse id="path-6" cx="9.80583706" cy="14.6488147" rx="2.94175112" ry="2.92976295"></ellipse>
+        <ellipse id="path-7" cx="39.2233482" cy="66.4079602" rx="2.94175112" ry="2.92976295"></ellipse>
+        <ellipse id="path-8" cx="39.2233482" cy="14.6488147" rx="2.94175112" ry="2.92976295"></ellipse>
+        <ellipse id="path-9" cx="52.1451613" cy="85.0666667" rx="2.9516129" ry="2.93333333"></ellipse>
+        <ellipse id="path-10" cx="52.1451613" cy="2.93333333" rx="2.9516129" ry="2.93333333"></ellipse>
+        <ellipse id="path-11" cx="7.87096774" cy="85.0666667" rx="2.9516129" ry="2.93333333"></ellipse>
+        <ellipse id="path-12" cx="7.87096774" cy="2.93333333" rx="2.9516129" ry="2.93333333"></ellipse>
+        <ellipse id="path-13" cx="2.94285714" cy="57.0491803" rx="2.94285714" ry="2.95081967"></ellipse>
+        <ellipse id="path-14" cx="100.057143" cy="57.0491803" rx="2.94285714" ry="2.95081967"></ellipse>
+        <ellipse id="path-15" cx="19.6190476" cy="2.95081967" rx="2.94285714" ry="2.95081967"></ellipse>
+        <ellipse id="path-16" cx="84.3619048" cy="2.95081967" rx="2.94285714" ry="2.95081967"></ellipse>
+        <ellipse id="path-17" cx="2.93333333" cy="48.5714286" rx="2.93333333" ry="2.91428571"></ellipse>
+        <ellipse id="path-18" cx="85.0666667" cy="48.5714286" rx="2.93333333" ry="2.91428571"></ellipse>
+        <ellipse id="path-19" cx="35.2" cy="56.3428571" rx="2.93333333" ry="2.91428571"></ellipse>
+        <ellipse id="path-20" cx="51.8222222" cy="56.3428571" rx="2.93333333" ry="2.91428571"></ellipse>
+        <ellipse id="path-21" cx="2.94175112" cy="73.2440737" rx="2.94175112" ry="2.92976295"></ellipse>
+        <ellipse id="path-22" cx="43.1456831" cy="73.2440737" rx="2.94175112" ry="2.92976295"></ellipse>
+        <ellipse id="path-23" cx="43.1456831" cy="19.531753" rx="2.94175112" ry="2.92976295"></ellipse>
+        <ellipse id="path-24" cx="2.94175112" cy="19.531753" rx="2.94175112" ry="2.92976295"></ellipse>
+        <ellipse id="path-25" cx="20.5116279" cy="2.93406593" rx="2.93023256" ry="2.93406593"></ellipse>
+        <ellipse id="path-26" cx="34.1860465" cy="86.0659341" rx="2.93023256" ry="2.93406593"></ellipse>
+        <ellipse id="path-27" cx="7.81395349" cy="86.0659341" rx="2.93023256" ry="2.93406593"></ellipse>
+        <ellipse id="path-28" cx="20.5116279" cy="2.93684211" rx="2.93023256" ry="2.93684211"></ellipse>
+        <ellipse id="path-29" cx="8.79069767" cy="90.0631579" rx="2.93023256" ry="2.93684211"></ellipse>
+        <ellipse id="path-30" cx="32.2325581" cy="90.0631579" rx="2.93023256" ry="2.93684211"></ellipse>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Draft-3-Copy-11" transform="translate(-292.000000, -4668.000000)">
+            <g id="devices" transform="translate(293.000000, 4669.000000)">
+                <g id="androidwatch" transform="translate(101.000000, 4.000000)">
+                    <ellipse id="Oval-3" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" cx="29.5" cy="41.9882353" rx="29.5" ry="29.2941176"></ellipse>
+                    <path d="M10.8166667,18.8904162 C12.1526655,10.1025713 12.9554546,4.94019241 13.2250338,3.40327946 C13.6294026,1.09791004 15.074504,7.78058835e-16 17.2322193,0 C18.6706961,0 22.7304932,0 29.4116106,0" id="Path-50" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M10.8166667,82.3610044 C12.1526655,73.5731596 12.9554546,68.4107806 13.2250338,66.8738677 C13.6294026,64.5684983 15.074504,63.4705882 17.2322193,63.4705882 C18.6706961,63.4705882 22.7304932,63.4705882 29.4116106,63.4705882" id="Path-50-Copy-2" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" transform="translate(20.114139, 72.915796) scale(1, -1) translate(-20.114139, -72.915796) "></path>
+                    <path d="M28.5166667,18.8904162 C29.8526655,10.1025713 30.6554546,4.94019241 30.9250338,3.40327946 C31.3294026,1.09791004 32.774504,7.78058835e-16 34.9322193,0 C36.3706961,0 40.9118512,0 48.5556846,0" id="Path-50-Copy" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" transform="translate(38.536176, 9.445208) scale(-1, 1) translate(-38.536176, -9.445208) "></path>
+                    <path d="M28.5166667,82.3610044 C29.8526655,73.5731596 30.6554546,68.4107806 30.9250338,66.8738677 C31.3294026,64.5684983 32.774504,63.4705882 34.9322193,63.4705882 C36.3706961,63.4705882 40.9118512,63.4705882 48.5556846,63.4705882" id="Path-50-Copy-3" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" transform="translate(38.536176, 72.915796) scale(-1, -1) translate(-38.536176, -72.915796) "></path>
+                    <g id="Oval-Copy-597" transform="translate(49.166667, 19.529412) rotate(-90.000000) translate(-49.166667, -19.529412) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="49.1666667" cy="19.5294118" rx="2.215" ry="2.19441176"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Oval-Copy-599" transform="translate(49.166667, 63.470588) rotate(-90.000000) translate(-49.166667, -63.470588) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="49.1666667" cy="63.4705882" rx="2.215" ry="2.19441176"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Oval-Copy-598" transform="translate(9.833333, 19.529412) rotate(-90.000000) translate(-9.833333, -19.529412) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="9.83333333" cy="19.5294118" rx="2.215" ry="2.19441176"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Oval-Copy-600" transform="translate(9.833333, 63.470588) rotate(-90.000000) translate(-9.833333, -63.470588) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="9.83333333" cy="63.4705882" rx="2.215" ry="2.19441176"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+                <g id="iwatch" transform="translate(0.000000, 4.000000)">
+                    <rect id="Rectangle-2" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" x="0" y="14.6488147" width="48.0486016" height="51.7591454" rx="8.82"></rect>
+                    <path d="M40.2802344,82.2554739 C38.686696,79.9027953 37.8899269,77.3745555 37.8899269,74.6707546 C37.8899269,70.6150532 36.0510964,66.4079602 32.2508195,66.4079602 C29.7173016,66.4079602 27.1385593,66.4079602 24.5145927,66.4079602" id="Path-49" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" transform="translate(32.397414, 74.331717) scale(1, -1) translate(-32.397414, -74.331717) "></path>
+                    <path d="M24.5908951,82.2554739 C22.9973567,79.9027953 22.2005876,77.3745555 22.2005876,74.6707546 C22.2005876,70.6150532 20.3617571,66.4079602 16.5614802,66.4079602 C14.0279623,66.4079602 11.44922,66.4079602 8.82525336,66.4079602" id="Path-49-Copy" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" transform="translate(16.708074, 74.331717) scale(-1, -1) translate(-16.708074, -74.331717) "></path>
+                    <path d="M40.2802344,15.8475137 C38.686696,13.4948351 37.8899269,10.9665953 37.8899269,8.26279438 C37.8899269,4.20709299 36.0510964,0 32.2508195,0 C29.7173016,3.11877699e-16 27.1385593,3.11877699e-16 24.5145927,0" id="Path-49" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M24.5908951,15.8475137 C22.9973567,13.4948351 22.2005876,10.9665953 22.2005876,8.26279438 C22.2005876,4.20709299 20.3617571,0 16.5614802,0 C14.0279623,3.11877699e-16 11.44922,3.11877699e-16 8.82525336,0" id="Path-49-Copy" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" transform="translate(16.708074, 7.923757) scale(-1, 1) translate(-16.708074, -7.923757) "></path>
+                    <g id="Oval-Copy-601" transform="translate(9.805837, 66.407960) rotate(-90.000000) translate(-9.805837, -66.407960) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="9.80583706" cy="66.4079602" rx="2.20675112" ry="2.19476295"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Oval-Copy-602" transform="translate(9.805837, 14.648815) rotate(-90.000000) translate(-9.805837, -14.648815) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="9.80583706" cy="14.6488147" rx="2.20675112" ry="2.19476295"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Oval-Copy-601" transform="translate(39.223348, 66.407960) rotate(-90.000000) translate(-39.223348, -66.407960) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="39.2233482" cy="66.4079602" rx="2.20675112" ry="2.19476295"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Oval-Copy-603" transform="translate(39.223348, 14.648815) rotate(-90.000000) translate(-39.223348, -14.648815) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="39.2233482" cy="14.6488147" rx="2.20675112" ry="2.19476295"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-8"></use>
+                    </g>
+                </g>
+                <g id="tablet" transform="translate(501.000000, 3.000000)">
+                    <rect id="Rectangle-5" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" x="0" y="2.93333333" width="61" height="82.1333333" rx="4.9"></rect>
+                    <rect id="Rectangle" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" x="3.93548387" y="10.7555556" width="53.1290323" height="63.5555556" rx="0.98"></rect>
+                    <ellipse id="Oval-4" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" cx="30.5" cy="79.2" rx="2.9516129" ry="2.93333333"></ellipse>
+                    <g id="Oval-Copy-615" transform="translate(52.145161, 85.066667) rotate(-90.000000) translate(-52.145161, -85.066667) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="52.1451613" cy="85.0666667" rx="2.2166129" ry="2.19833333"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-9"></use>
+                    </g>
+                    <g id="Oval-Copy-617" transform="translate(52.145161, 2.933333) rotate(-90.000000) translate(-52.145161, -2.933333) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-10"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="52.1451613" cy="2.93333333" rx="2.2166129" ry="2.19833333"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-10"></use>
+                    </g>
+                    <g id="Oval-Copy-616" transform="translate(7.870968, 85.066667) rotate(-90.000000) translate(-7.870968, -85.066667) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="7.87096774" cy="85.0666667" rx="2.2166129" ry="2.19833333"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-11"></use>
+                    </g>
+                    <g id="Oval-Copy-618" transform="translate(7.870968, 2.933333) rotate(-90.000000) translate(-7.870968, -2.933333) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-12"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="7.87096774" cy="2.93333333" rx="2.2166129" ry="2.19833333"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-12"></use>
+                    </g>
+                </g>
+                <g id="notebook" transform="translate(615.000000, 17.000000)">
+                    <path d="M16.2576477,56.728214 L15.8191479,56.728214 C13.5836542,56.728214 11.7714286,54.911085 11.7714286,52.6695427 L11.7714286,7.00949094 C11.7714286,4.76794869 13.5836542,2.95081967 15.8191479,2.95081967 L87.6661654,2.95081967 C89.9016591,2.95081967 91.7138847,4.76794869 91.7138847,7.00949094 L91.7138847,52.6695427 C91.7138847,54.911085 89.9016591,56.728214 87.6661654,56.728214 L87.3585936,56.728214" id="Rectangle-6" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M88.5639863,57.0491803 L100.28645,57.0491803 L100.28645,57.8367292 C98.4434447,58.9430139 94.4242841,59.4961562 88.228968,59.4961562 C82.0336519,59.4961562 69.9541546,59.4961562 51.9904762,59.4961562" id="Path-52" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M39.9400812,57.0491803 L52.2197832,57.0491803 L52.2197832,57.8367292 C50.376778,58.9430139 46.3576174,59.4961562 40.1623013,59.4961562 C33.9669852,59.4961562 21.887488,59.4961562 3.92380952,59.4961562" id="Path-52" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" transform="translate(28.071796, 58.272668) scale(-1, 1) translate(-28.071796, -58.272668) "></path>
+                    <rect id="Rectangle-7" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" x="14.7142857" y="6.8852459" width="74.0619048" height="46.6747196"></rect>
+                    <g id="Oval-Copy-619" transform="translate(2.942857, 57.049180) rotate(-90.000000) translate(-2.942857, -57.049180) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="2.94285714" cy="57.0491803" rx="2.20785714" ry="2.21581967"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-13"></use>
+                    </g>
+                    <g id="Oval-Copy-620" transform="translate(100.057143, 57.049180) rotate(-90.000000) translate(-100.057143, -57.049180) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-14"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="100.057143" cy="57.0491803" rx="2.20785714" ry="2.21581967"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-14"></use>
+                    </g>
+                    <g id="Oval-Copy-621" transform="translate(19.619048, 2.950820) rotate(-90.000000) translate(-19.619048, -2.950820) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-15"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="19.6190476" cy="2.95081967" rx="2.20785714" ry="2.21581967"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-15"></use>
+                    </g>
+                    <g id="Oval-Copy-622" transform="translate(84.361905, 2.950820) rotate(-90.000000) translate(-84.361905, -2.950820) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-16"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="84.3619048" cy="2.95081967" rx="2.20785714" ry="2.21581967"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-16"></use>
+                    </g>
+                </g>
+                <g id="desktopmonitor" transform="translate(770.000000, 13.000000)">
+                    <rect id="Rectangle-8" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" x="2.93333333" y="0" width="82.1333333" height="56.3428571" rx="1.96"></rect>
+                    <path d="M3.42222222,49.0571429 L84.6013353,49.0571429" id="Line" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M35.6929742,56.3428571 C35.1926798,61.5338309 34.8882043,64.3258105 34.7795476,64.718796 C34.6165626,65.3082743 34.1444116,65.5771567 33.9461792,65.7195382 C33.7479467,65.8619196 31.4304691,67.2874348 31.2956575,67.5536665 C31.1608459,67.8198983 33.070284,67.9712225 34.3057071,67.9712225 C35.1293225,67.9712225 38.5439083,67.9712225 44.5494646,67.9712225" id="Path-53" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M47.4263075,56.3428571 C46.9260132,61.5338309 46.6215377,64.3258105 46.512881,64.718796 C46.349896,65.3082743 45.8777449,65.5771567 45.6795125,65.7195382 C45.4812801,65.8619196 43.1638024,67.2874348 43.0289908,67.5536665 C42.8941792,67.8198983 44.8036174,67.9712225 46.0390405,67.9712225 C46.8626558,67.9712225 50.2772417,67.9712225 56.2827979,67.9712225" id="Path-53-Copy" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" transform="translate(49.652510, 62.157040) scale(-1, 1) translate(-49.652510, -62.157040) "></path>
+                    <g id="Oval-Copy-613" transform="translate(2.933333, 48.571429) rotate(-90.000000) translate(-2.933333, -48.571429) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-17"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="2.93333333" cy="48.5714286" rx="2.19833333" ry="2.17928571"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-17"></use>
+                    </g>
+                    <g id="Oval-Copy-623" transform="translate(85.066667, 48.571429) rotate(-90.000000) translate(-85.066667, -48.571429) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-18"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="85.0666667" cy="48.5714286" rx="2.19833333" ry="2.17928571"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-18"></use>
+                    </g>
+                    <g id="Oval-Copy-628" transform="translate(35.200000, 56.342857) rotate(-90.000000) translate(-35.200000, -56.342857) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-19"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="35.2" cy="56.3428571" rx="2.19833333" ry="2.17928571"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-19"></use>
+                    </g>
+                    <g id="Oval-Copy-629" transform="translate(51.822222, 56.342857) rotate(-90.000000) translate(-51.822222, -56.342857) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-20"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="51.8222222" cy="56.3428571" rx="2.19833333" ry="2.17928571"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-20"></use>
+                    </g>
+                </g>
+                <g id="androidphone" transform="translate(213.000000, 3.000000)">
+                    <path d="M2.94175112,6.36275318 C2.94175112,2.66616487 6.07945042,4.63868319e-16 9.25254681,0 C12.4256432,0 33.5749703,6.9825907e-17 36.6867606,0 C39.798551,0 43.1456831,2.84548532 43.1456831,6.36275318 C43.1456831,9.88002105 43.1456831,78.8054958 43.1456831,82.490952 C43.1456831,86.1764083 39.5292803,87.8928885 37.2478534,87.8928885 C34.9664266,87.8928885 11.7905969,87.8928885 8.8682299,87.8928885 C5.9458629,87.8928885 2.94175112,85.1383838 2.94175112,82.019011 C2.94175112,78.8996383 2.94175112,10.0593415 2.94175112,6.36275318 Z" id="Path-303-Copy-2" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M2.94175112,11.7190518 C2.94175112,9.44956726 5.09886671,7.8127012 8.27196311,7.8127012 C11.4450595,7.8127012 34.555554,7.8127012 37.6673443,7.8127012 C40.7791347,7.8127012 43.1456831,9.55965931 43.1456831,11.7190518" id="Path-303-Copy-2" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle-3" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" x="18.6310904" y="2.92976295" width="9.80583706" height="2.92976295" rx="1.46488147"></rect>
+                    <g id="Oval-Copy-608" transform="translate(2.941751, 73.244074) rotate(-90.000000) translate(-2.941751, -73.244074) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-21"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="2.94175112" cy="73.2440737" rx="2.20675112" ry="2.19476295"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-21"></use>
+                    </g>
+                    <g id="Oval-Copy-611" transform="translate(43.145683, 73.244074) rotate(-90.000000) translate(-43.145683, -73.244074) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-22"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="43.1456831" cy="73.2440737" rx="2.20675112" ry="2.19476295"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-22"></use>
+                    </g>
+                    <g id="Oval-Copy-609" transform="translate(43.145683, 19.531753) rotate(-90.000000) translate(-43.145683, -19.531753) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-23"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="43.1456831" cy="19.531753" rx="2.20675112" ry="2.19476295"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-23"></use>
+                    </g>
+                    <g id="Oval-Copy-610" transform="translate(2.941751, 19.531753) rotate(-90.000000) translate(-2.941751, -19.531753) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-24"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="2.94175112" cy="19.531753" rx="2.20675112" ry="2.19476295"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-24"></use>
+                    </g>
+                </g>
+                <g id="Group-14" transform="translate(406.000000, 1.000000)">
+                    <ellipse id="Oval-2" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" cx="20.5116279" cy="81.1758242" rx="2.93023256" ry="2.93406593"></ellipse>
+                    <path d="M0,8.95215872 C0,5.45580883 2.25348245,2.93406593 5.56833356,2.93406593 C8.88318467,2.93406593 33.026116,2.93406593 36.2769223,2.93406593 C39.5277286,2.93406593 42,5.62541576 42,8.95215872 C42,12.2789017 42,77.4707913 42,80.9566121 C42,84.4424329 39.2464285,86.0659341 36.8630813,86.0659341 C34.4797342,86.0659341 8.21976834,86.0659341 5.1668477,86.0659341 C2.11392705,86.0659341 9.12732856e-17,83.4606366 0,80.5102354 C0,77.5598341 3.09104606e-16,12.4485086 0,8.95215872 Z" id="Path-303" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle-4" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" x="2.93023256" y="11.7362637" width="36.1395349" height="64.5494505"></rect>
+                    <g id="Oval-Copy-604" transform="translate(20.511628, 2.934066) rotate(-90.000000) translate(-20.511628, -2.934066) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-25"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="20.5116279" cy="2.93406593" rx="2.19523256" ry="2.19906593"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-25"></use>
+                    </g>
+                    <g id="Oval-Copy-605" transform="translate(34.186047, 86.065934) rotate(-90.000000) translate(-34.186047, -86.065934) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-26"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="34.1860465" cy="86.0659341" rx="2.19523256" ry="2.19906593"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-26"></use>
+                    </g>
+                    <g id="Oval-Copy-606" transform="translate(7.813953, 86.065934) rotate(-90.000000) translate(-7.813953, -86.065934) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-27"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="7.81395349" cy="86.0659341" rx="2.19523256" ry="2.19906593"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-27"></use>
+                    </g>
+                </g>
+                <g id="iphone" transform="translate(311.000000, 0.000000)">
+                    <path d="M0,9.24410146 C0,5.57975357 2.25348245,2.93684211 5.56833356,2.93684211 C8.88318467,2.93684211 33.026116,2.93684211 36.2769223,2.93684211 C39.5277286,2.93684211 42,5.75751004 42,9.24410146 C42,12.7306929 42,81.0550225 42,84.7083353 C42,88.3616482 39.2464285,90.0631579 36.8630813,90.0631579 C34.4797342,90.0631579 8.21976834,90.0631579 5.1668477,90.0631579 C2.11392705,90.0631579 9.12732856e-17,87.3326771 0,84.2405104 C0,81.1483438 3.09104606e-16,12.9084493 0,9.24410146 Z" id="Path-303-Copy" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M21.0161375,85.829281 C14.3356128,85.829281 9.6204314,85.829281 6.87059331,85.829281 C4.12075522,85.829281 2.81017803,84.5157476 2.93886172,81.8886808 L2.93886172,43.5510867 C2.93886172,22.885688 2.93886172,11.4926937 2.93886172,9.37210389 C2.93886172,7.25151403 4.10237715,6.08537414 6.42940799,5.87368421 L11.4907469,5.87368421 C11.5330279,7.51079732 12.3497422,8.32935387 13.9408899,8.32935387 C15.5320375,8.32935387 17.9045801,8.32935387 21.0585175,8.32935387" id="Path-51" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M38.5975328,85.829281 C31.9170081,85.829281 27.2018267,85.829281 24.4519887,85.829281 C21.7021506,85.829281 20.3915734,84.5157476 20.5202571,81.8886808 L20.5202571,43.5510867 C20.5202571,22.885688 20.5202571,11.4926937 20.5202571,9.37210389 C20.5202571,7.25151403 21.6837725,6.08537414 24.0108033,5.87368421 L29.0721422,5.87368421 C29.1144232,7.51079732 29.9311376,8.32935387 31.5222852,8.32935387 C33.1134329,8.32935387 35.4859754,8.32935387 38.6399129,8.32935387" id="Path-51-Copy" stroke="#3F3F3F" stroke-width="0.98" stroke-linecap="round" stroke-linejoin="round" transform="translate(29.575770, 45.851483) scale(-1, 1) translate(-29.575770, -45.851483) "></path>
+                    <g id="Oval-Copy-607" transform="translate(20.511628, 2.936842) rotate(-90.000000) translate(-20.511628, -2.936842) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-28"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="20.5116279" cy="2.93684211" rx="2.19523256" ry="2.20184211"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-28"></use>
+                    </g>
+                    <g id="Oval-Copy-612" transform="translate(8.790698, 90.063158) rotate(-90.000000) translate(-8.790698, -90.063158) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-29"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="8.79069767" cy="90.0631579" rx="2.19523256" ry="2.20184211"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-29"></use>
+                    </g>
+                    <g id="Oval-Copy-614" transform="translate(32.232558, 90.063158) rotate(-90.000000) translate(-32.232558, -90.063158) ">
+                        <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-30"></use>
+                        <ellipse stroke="#151515" stroke-width="1.47" cx="32.2325581" cy="90.0631579" rx="2.19523256" ry="2.20184211"></ellipse>
+                        <use stroke="#151515" stroke-width="0.98" xlink:href="#path-30"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

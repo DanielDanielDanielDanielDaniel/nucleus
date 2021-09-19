@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>parking-sign</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="35.75" cy="23" r="3"></circle>
+        <circle id="path-2" cx="66" cy="38" r="3"></circle>
+        <circle id="path-3" cx="36" cy="71" r="3"></circle>
+        <circle id="path-4" cx="12" cy="79" r="3"></circle>
+        <circle id="path-5" cx="79" cy="13" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-7" transform="translate(-391.000000, -1374.000000)">
+            <g id="parking-sign" transform="translate(392.000000, 1375.000000)">
+                <circle id="Oval-5" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="47" cy="47" r="47"></circle>
+                <path d="M35.8161404,23.1072342 C41.4541469,23.1072342 46.9852769,23.1072342 52.4095304,23.1072342 C60.5459106,23.1072342 65.6707593,30.0887567 65.6707593,37.7048166 C65.6707593,45.3208766 59.6091052,52.0773864 52.4095304,52.0773864 C47.6098138,52.0773864 42.1124821,52.0773864 35.9175353,52.0773864 L35.8161404,23.1072342 Z" id="Path-589" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35.7306368,70.9484011 L35.7306368,23.0801823" id="Path-588" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-493" transform="translate(35.750000, 23.000000) rotate(-90.000000) translate(-35.750000, -23.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="35.75" cy="23" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-506" transform="translate(66.000000, 38.000000) rotate(-90.000000) translate(-66.000000, -38.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="66" cy="38" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-505" transform="translate(36.000000, 71.000000) rotate(-90.000000) translate(-36.000000, -71.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="36" cy="71" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-507" transform="translate(12.000000, 79.000000) rotate(-90.000000) translate(-12.000000, -79.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="12" cy="79" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval-Copy-508" transform="translate(79.000000, 13.000000) rotate(-90.000000) translate(-79.000000, -13.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="79" cy="13" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
