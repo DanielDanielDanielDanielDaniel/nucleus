@@ -1,18 +1,17 @@
 /* global variables */
 .container {
   margin-top: 0px;
-  grid-column: auto / span 6;
+  grid-column: auto / span 4;
   margin-bottom: 16px; }
 
 .content {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   margin-top: 16px; }
 
 .imageBox {
-  height: 380px;
+  height: 410px;
   position: relative;
-  background-color: #151515;
   margin-bottom: 8px;
   border-radius: 4px; }
 
@@ -41,6 +40,6 @@
   .content {
     grid-template-columns: repeat(3, 1fr); }
   .imageBox {
-    height: 260px; }
+    height: 390px; }
   .label {
     padding: 0 30px; } }

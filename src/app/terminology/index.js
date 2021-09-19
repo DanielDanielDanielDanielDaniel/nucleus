@@ -1,7 +1,7 @@
 import React from 'react'
 import cn from 'classnames'
 import IconLabelBox from 'components/presentation/icon-box'
-import PictureBox from 'components/presentation/picture-box-trio'
+import PictureBoxTrio from 'components/presentation/picture-box-trio'
 
 // images
 import thumb1 from './assets/thumb1.png'
@@ -30,17 +30,17 @@ const Features = ()=> (
         <div>
           <h4>Styles</h4>
           <p>
-          All of the 1000 icons come in these 3 styles for fast customization.
+          All of the 1000 icons come in 3 unique styles.
           </p>
         </div>
       </div>
     </div>
-    <PictureBox src={styleLight}>
-    </PictureBox>
-    <PictureBox src={styleDark}>
-    </PictureBox>
-    <PictureBox src={styleBinary}>
-    </PictureBox>
+    <PictureBoxTrio src={styleLight}>
+    </PictureBoxTrio>
+    <PictureBoxTrio src={styleDark}>
+    </PictureBoxTrio>
+    <PictureBoxTrio src={styleBinary}>
+    </PictureBoxTrio>
     <div className={globalStyles.btmMarginTight}></div>
   </div>
 )

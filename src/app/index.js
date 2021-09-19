@@ -40,9 +40,10 @@ class App extends Component {
           <SiteMenu onCloseMenu={this.onCloseMenu} isMenuOpen={this.state.menuOpen}/>
           <ScrollSpy idprop='sectionid' onScroll={sectionWatcher.update}>
           <Terminology sectionid='terminology' />
+          <UsecaseJet sectionid='' />
             <Features sectionid='features' />
-            <UsecaseJet sectionid='usecases' />
-            <UsecaseSteak sectionid='usecases' />  
+            
+            <UsecaseSteak sectionid='createsmarter' />  
             <UsecaseWatch sectionid='usecases' />
             <HowCanBeUsed sectionid='how-to-use'/>
             <DesignSpecification sectionid='design-spec' />
