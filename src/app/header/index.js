@@ -9,6 +9,7 @@ const Header = ({ onOpenMenu }) => (
           onClick={onOpenMenu}
           onTouchStart={onOpenMenu}/>
     <div className={styles.buttonBox}>
+      <a className={styles.button2} href='https://drive.google.com/file/d/19e00ZUo8vt6c5bD6ePByZI4estDloYFv/view?usp=sharing'>Download Free Version</a>
       <a className={styles.button} href='https://crmrkt.com/MVBWoK?u=DanielSeiler'>Buy Set</a>
     </div>
     <div className={styles.awardBadge}>

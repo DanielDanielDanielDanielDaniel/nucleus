@@ -23,15 +23,15 @@ const Contact = ()=> (
       </p>
 
       <p className={globalStyles.descriptionText}>
-        One uses them in combination with alphanumerical elements to specify communication.
+      What makes Nucleus unique is the style, the quality of the crafted icon-illustrations and the timely and carefully researched motives.
       </p>
 
       <p className={globalStyles.descriptionText}>
-        The icon itself affects consumption of the message which in its intention consists of a feeling to be conveyed and an information to be transferred.
+      The iconset captures the conceptual meaning of most recent trends to turn them into graphical elements.
       </p>
 
       <p className={globalStyles.descriptionText}>
-        Together the consumers feeling and perceived emotion form an experience. Therefor the icons can be seen as experience building components for digital interfaces.
+      Nucleus empowers you with novel icons in Artifical Intelligence, Augmented and Virtual Reality, Blockchain, Spatial Design, Sustainability and more.
       </p>
 
     </div>
@@ -39,16 +39,7 @@ const Contact = ()=> (
     <div className={globalStyles.sectionText}>
       <p className={globalStyles.descriptionText}>
       <br/><br/>
-      The graphical style of the icon makes recipients feel a certain way.
-      </p>
-
-      <p className={globalStyles.descriptionText}>
-        As tested on interviewees from a variety of age groups, 
-        the dark and light version of nucleus icons seem to be associated with technology, space, science, atoms, high value, precisions, professionalism, decency, rationality, stars.
-      </p>
-
-      <p className={globalStyles.descriptionText}>
-        The first icon of Nucleus Iconset was designed in September 2017.
+      The first icon of Nucleus Iconset was designed in September 2017.
       </p>
 
       <p className={globalStyles.descriptionText}>
@@ -60,9 +51,14 @@ const Contact = ()=> (
       </p>
 
       <p className={globalStyles.descriptionText}>
-        Iconset and website design by <a href='http://daniel-seiler.com'>Daniel Seiler</a>.<br/>
-        Website development. by <a href='https://redradix.com/'>Elias Alonso</a>.
+        Iconset and website design by <a href='https://www.linkedin.com/in/oezden/'>Özden Seiler</a> and <a href='https://aucta.io'>Daniel Seiler</a>.
       </p>
+
+      <p className={globalStyles.descriptionText}>
+        Download the <a href='https://drive.google.com/file/d/19e00ZUo8vt6c5bD6ePByZI4estDloYFv/view?usp=sharing'>Free Version</a> of Nucleus Icons.
+        <br/><br/>
+      </p>
+
     </div>
     <div className={globalStyles.sectionText}>
       <h4 className={globalStyles.descriptionTitle}>Contact</h4>
@@ -70,7 +66,9 @@ const Contact = ()=> (
         Specific icon requests, general feedback and questions, inquiries to
         <br/><a href='mailto:daniel@daniel-seiler.com'>daniel@daniel-seiler.com</a>
         <br/><br/>
-        Copyright © 2018
+        Nucleus v1.7 – Last updated Oct 2021
+        <br/><br/>
+        Copyright © 2017-2021
         <br/><br/>
       </p>
 
