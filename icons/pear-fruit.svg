@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="87px" viewBox="0 0 63 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>pear-fruit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="57" cy="3" r="3"></circle>
+        <circle id="path-2" cx="19" cy="11" r="3"></circle>
+        <circle id="path-3" cx="3" cy="66" r="3"></circle>
+        <circle id="path-4" cx="58" cy="66" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-5" transform="translate(-404.000000, -37.000000)">
+            <g id="pear-fruit" transform="translate(405.000000, 38.000000)">
+                <path d="M30.5,26 C40.0502516,26 43.0817892,34.1547728 45.197693,42.6295387 C47.2494785,50.8483101 58,53.2229961 58,66.9894382 C58,80.7592487 44.2955577,85 30.5,85 C16.7044423,85 3,80.7592487 3,66.9894382 C3,53.2229961 13.7505215,50.8483101 15.802307,42.6295387 C17.9148362,34.1547728 20.9497484,26 30.5,26 Z" id="Stroke-1" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M31,25.7264391 L31,17.4 C31,13.8736 28.075,11 24.5,11 L18,11" id="Stroke-3" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M39,21 C48.94,21 57,12.936 57,3 C47.06,3 39,11.056 39,21 Z" id="Stroke-5" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-146" transform="translate(57.000000, 3.000000) rotate(-90.000000) translate(-57.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="57" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-147" transform="translate(19.000000, 11.000000) rotate(-90.000000) translate(-19.000000, -11.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="19" cy="11" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-148" transform="translate(3.000000, 66.000000) rotate(-90.000000) translate(-3.000000, -66.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3" cy="66" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-149" transform="translate(58.000000, 66.000000) rotate(-90.000000) translate(-58.000000, -66.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="58" cy="66" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

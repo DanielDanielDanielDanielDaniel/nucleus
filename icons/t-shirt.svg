@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="80px" viewBox="0 0 94 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>t-shirt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="75" r="3"></circle>
+        <circle id="path-2" cx="24" cy="28" r="3"></circle>
+        <circle id="path-3" cx="68" cy="75" r="3"></circle>
+        <circle id="path-4" cx="68" cy="28" r="3"></circle>
+        <circle id="path-5" cx="56" cy="3" r="3"></circle>
+        <circle id="path-6" cx="34" cy="3" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-1" transform="translate(-770.000000, -613.000000)">
+            <g id="t-shirt" transform="translate(771.000000, 614.000000)">
+                <path d="M46,75 L68,75 L68,27 L80,37 L92,25 L75.856,8.86 C72.104,5.108 67.016,3 61.712,3 L30.28,3 C24.976,3 19.892,5.108 16.14,8.86 L0,25 L12,37 L24,27 L24,75 L46,75 Z" id="Stroke-1" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M57,3 C57,9.07566667 51.624,14 45,14 C38.368,14 33,9.07566667 33,3" id="Stroke-3" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-221" transform="translate(24.000000, 75.000000) rotate(-90.000000) translate(-24.000000, -75.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="24" cy="75" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-223" transform="translate(24.000000, 28.000000) rotate(-90.000000) translate(-24.000000, -28.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="24" cy="28" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-222" transform="translate(68.000000, 75.000000) rotate(-90.000000) translate(-68.000000, -75.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="68" cy="75" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-224" transform="translate(68.000000, 28.000000) rotate(-90.000000) translate(-68.000000, -28.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="68" cy="28" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval-Copy-225" transform="translate(56.000000, 3.000000) rotate(-90.000000) translate(-56.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="56" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+                <g id="Oval-Copy-226" transform="translate(34.000000, 3.000000) rotate(-90.000000) translate(-34.000000, -3.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="34" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

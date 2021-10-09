@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="89px" viewBox="0 0 70 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>emotion-human-mind</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="63" cy="84" r="3"></circle>
+        <circle id="path-2" cx="61" cy="11" r="3"></circle>
+        <circle id="path-3" cx="8" cy="20" r="3"></circle>
+        <circle id="path-4" cx="13" cy="74" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-3" transform="translate(-778.000000, -879.000000)">
+            <g id="emotion-human-mind" transform="translate(779.000000, 880.000000)">
+                <path d="M4.82222092,36.7892057 C0.693727044,48.4437911 -0.783841776,55.2142296 0.389514461,57.1005213 C1.5628707,58.9868129 4.03615934,59.5161375 7.80938039,58.6884952 L7.80938039,66.3772698 C7.86689263,71.8968598 10.705889,74.6566549 16.3263694,74.6566549 C24.7570901,74.6566549 24.2306677,74.7448475 25.3057863,74.7575708 C28.9350716,74.8005209 30.8641703,76.3564651 31.8803375,81.1858042 C32.1133248,82.2930771 33.0024005,83.1996827 34.5475646,83.9056208 L63.3077601,83.9019202 L59.4991877,60.8083575 C58.7766934,56.2885861 59.6051323,52.5737546 61.9845044,49.663863 C65.5535625,45.2990256 71.3223649,31.6656298 65.5535625,17.8470301 C59.7847602,4.02843042 41.5511388,-5.91881059 23.0116323,4.02843042 C10.6519613,10.6599244 4.5888242,21.5801829 4.82222092,36.7892057 Z" id="Path-92" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Path-41" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" points="37.4401509 16.3821055 45.3216733 10.1672835 46.36052 19.2307363 56.6409287 19.1349746 50.1928507 26.4259045 57.2903942 33.913947 46.36052 34.368163 44.4516206 43.9778672 37.0585946 37.5018432 28.1669167 43.1234643 28.7094421 34.368163 18.1335508 34.368163 25.0772049 27.0725754 19.0803619 17.6348323 28.7094421 19.1349746 30.3284481 10.1672835"></polygon>
+                <g id="Oval-Copy-461" transform="translate(63.000000, 84.000000) rotate(-90.000000) translate(-63.000000, -84.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="63" cy="84" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-462" transform="translate(61.000000, 11.000000) rotate(-90.000000) translate(-61.000000, -11.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="61" cy="11" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-463" transform="translate(8.000000, 20.000000) rotate(-90.000000) translate(-8.000000, -20.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="8" cy="20" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-469" transform="translate(13.000000, 74.000000) rotate(-90.000000) translate(-13.000000, -74.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="13" cy="74" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

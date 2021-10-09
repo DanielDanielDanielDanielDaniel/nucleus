@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="38px" viewBox="0 0 107 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>cell-culture</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="32" cy="14" r="3"></circle>
+        <circle id="path-2" cx="57" cy="13" r="3"></circle>
+        <circle id="path-3" cx="42" cy="27" r="3"></circle>
+        <circle id="path-4" cx="21" cy="22" r="3"></circle>
+        <circle id="path-5" cx="63" cy="26" r="3"></circle>
+        <circle id="path-6" cx="82" cy="12" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-6" transform="translate(-952.000000, -82.000000)">
+            <g id="cell-culture" transform="translate(953.000000, 83.000000)">
+                <ellipse id="Oval-15-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="52.5" cy="18" rx="52.5" ry="18"></ellipse>
+                <path d="M35.0122431,26.1718542 C34.7631703,29.7747089 38.3227729,33.6062532 44.9284209,33.4431876 C51.5340689,33.280122 54.5055416,28.9981587 54.4170486,26.1718542 C54.3285557,23.3455496 50.2449558,20.3333105 44.9284209,20.0230882 C39.611886,19.7128658 35.2613158,22.5689995 35.0122431,26.1718542 Z" id="Path-100-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M41.0121084,25.7850045 C40.8326368,28.0271564 42.6656333,30.1952328 45.3557184,30.0167555 C48.0458035,29.8382782 49.6739737,27.4171519 49.7117572,25.7850045 C49.7495407,24.1528571 48.0239289,21.8833619 45.3557184,22.0046668 C42.6875079,22.1259717 41.19158,23.5428526 41.0121084,25.7850045 Z" id="Path-101-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M62.0006424,25.9813881 C61.956396,28.3368904 64.2050108,29.5842428 66.507318,29.5494422 C68.8096252,29.5146416 71.1049723,27.6980512 71.1338071,25.5036258 C71.1626418,23.3092004 69.2640214,21.9539662 66.507318,22.0011956 C63.7506146,22.0484249 62.0448889,23.6258857 62.0006424,25.9813881 Z" id="Path-102-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M58.0179332,25.3046977 C57.7619003,27.7069323 60.2143472,32.7962691 67.5060638,32.4492576 C74.7977804,32.1022461 75.802523,26.9641884 75.7175101,24.8279297 C75.6324973,22.691671 73.0791287,18.8029544 67.5060638,19.0077807 C61.9329989,19.212607 58.273966,22.9024632 58.0179332,25.3046977 Z" id="Path-103-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M70.0234158,12.0445658 C70.2347051,14.8355726 72.8701036,19.4207981 78.4685232,19.4153295 C84.0669428,19.4098608 86.6431803,16.0133238 85.9735177,12.0445658 C85.303855,8.07580779 82.4850077,5.43295202 76.7180538,6.10410614 C70.9510999,6.77526026 69.8121265,9.25355898 70.0234158,12.0445658 Z" id="Path-104-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M74.0040393,13.3826828 C74.0348626,14.9248458 76.4878066,17.138163 79.3041682,16.6216229 C82.1205297,16.1050828 83.0407566,13.5959607 82.631104,11.7376095 C82.2214514,9.87925832 80.3422199,8.54440736 77.1907784,9.14596031 C74.039337,9.74751326 73.9732159,11.8405198 74.0040393,13.3826828 Z" id="Path-105-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M53.0631208,19.0896491 C57.1710812,19.500296 62.5114793,17.9854763 62.7436489,12.8131153 C62.9758185,7.6407542 57.9332139,5.93055407 54.0415144,6.00214385 C50.1498148,6.07373362 45.5566349,7.11377393 45.0410891,11.454401 C44.5255433,15.7950281 48.9551605,18.6790022 53.0631208,19.0896491 Z" id="Path-106-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M29.929948,18.9300539 C31.537735,22.2997448 31.8832551,24.31619 28.2639943,26.2307193 C24.6447336,28.1452485 18.8767854,28.077636 15.6517656,25.1071576 C12.4267458,22.1366792 14.4943976,17.7542914 17.0074969,16.062983 C19.5205962,14.3716746 23.6688258,13.2476158 25.9671558,14.18226 C24.8634801,10.3293382 27.368625,7.19330847 29.8717813,6.15475961 C32.3749376,5.11621076 38.1935952,3.77290823 41.5886407,7.19330847 C44.9836863,10.6137087 44.7813457,15.5653346 41.5886407,17.9566319 C38.3959357,20.3479292 34.3068671,20.1679604 29.929948,18.9300539 Z" id="Path-107-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M32.9804763,14.4813206 C34.6315154,16.6787289 38.046447,16.152743 39.6368336,15.0242097 C41.2272203,13.8956765 41.285387,10.3668973 39.6368336,9.02508624 C37.9882803,7.68327516 34.8686565,7.63356004 33.4149864,9.02508624 C31.9613163,10.4166124 31.3294371,12.2839123 32.9804763,14.4813206 Z" id="Path-108-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M23.0127836,24.3354678 C21.4726092,24.2032256 18.982876,20.6983097 20.4425119,18.8986223 C21.9021478,17.098935 25.4175039,16.2577552 27.061583,17.8212957 C28.705662,19.3848362 28.3263356,21.4604424 27.061583,22.9921653 C25.7968303,24.5238881 24.552958,24.46771 23.0127836,24.3354678 Z" id="Path-109-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M52.6011294,15.5022402 C54.8830534,15.8368229 57.2231441,15.1870463 57.9539564,12.9777064 C58.6847686,10.7683665 57.189835,9.23316357 55.5370558,9.04176036 C53.8842767,8.85035715 50.5981073,9.25951259 50.1392367,11.4778012 C49.6803662,13.6960899 50.3192054,15.1676574 52.6011294,15.5022402 Z" id="Path-110-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-492" transform="translate(32.000000, 14.000000) rotate(-90.000000) translate(-32.000000, -14.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="32" cy="14" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-493" transform="translate(57.000000, 13.000000) rotate(-90.000000) translate(-57.000000, -13.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="57" cy="13" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-494" transform="translate(42.000000, 27.000000) rotate(-90.000000) translate(-42.000000, -27.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="42" cy="27" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-497" transform="translate(21.000000, 22.000000) rotate(-90.000000) translate(-21.000000, -22.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="21" cy="22" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval-Copy-495" transform="translate(63.000000, 26.000000) rotate(-90.000000) translate(-63.000000, -26.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="63" cy="26" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+                <g id="Oval-Copy-496" transform="translate(82.000000, 12.000000) rotate(-90.000000) translate(-82.000000, -12.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="82" cy="12" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

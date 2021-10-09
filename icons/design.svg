@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>design</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="35" cy="98" r="3"></circle>
+        <circle id="path-2" cx="3" cy="67" r="3"></circle>
+        <circle id="path-3" cx="68" cy="75" r="3"></circle>
+        <circle id="path-4" cx="81" cy="20" r="3"></circle>
+        <circle id="path-5" cx="28" cy="34" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-1" transform="translate(-956.000000, -449.000000)">
+            <g id="design" transform="translate(957.000000, 433.000000)">
+                <g id="Group-29" transform="translate(3.000000, 0.000000)" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon id="Stroke-1" transform="translate(21.415505, 77.271526) scale(1, -1) rotate(-45.000000) translate(-21.415505, -77.271526) " points="35.5802316 84.8733345 8.47742929 84.8509533 -1.26878378 69.6697167 44.0997939 69.984521"></polygon>
+                    <polygon id="Stroke-3" transform="translate(52.990200, 46.509800) scale(1, -1) rotate(-45.000000) translate(-52.990200, -46.509800) " points="51.3604916 82.9959406 23.9901997 35.0656049 39.4568664 10.02366 66.523533 10.02366 81.9901997 35.0656049"></polygon>
+                    <path d="M63.7781081,12.763456 L63.7781081,54.9766594" id="Stroke-5" transform="translate(64.263456, 34.263456) scale(1, -1) rotate(-45.000000) translate(-64.263456, -34.263456) "></path>
+                    <path d="M51.1066017,54.6066017 C51.1066017,58.7466017 47.7466017,62.1066017 43.6066017,62.1066017 C39.4666017,62.1066017 36.1066017,58.7466017 36.1066017,54.6066017 C36.1066017,50.4628517 39.4666017,47.1066017 43.6066017,47.1066017 C47.7466017,47.1066017 51.1066017,50.4628517 51.1066017,54.6066017 Z" id="Stroke-7" transform="translate(43.606602, 54.606602) scale(1, -1) rotate(-45.000000) translate(-43.606602, -54.606602) "></path>
+                </g>
+                <g id="Oval-Copy-196" transform="translate(35.000000, 98.000000) rotate(-90.000000) translate(-35.000000, -98.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="35" cy="98" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-197" transform="translate(3.000000, 67.000000) rotate(-90.000000) translate(-3.000000, -67.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3" cy="67" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-200" transform="translate(68.000000, 75.000000) rotate(-90.000000) translate(-68.000000, -75.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="68" cy="75" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-202" transform="translate(81.000000, 20.000000) rotate(-90.000000) translate(-81.000000, -20.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="81" cy="20" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval-Copy-203" transform="translate(28.000000, 34.000000) rotate(-90.000000) translate(-28.000000, -34.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="28" cy="34" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

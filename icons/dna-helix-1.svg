@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="104px" viewBox="0 0 46 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>dna-helix-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="41" cy="3" r="3"></circle>
+        <circle id="path-2" cx="41" cy="99" r="3"></circle>
+        <circle id="path-3" cx="3" cy="3" r="3"></circle>
+        <circle id="path-4" cx="3" cy="99" r="3"></circle>
+        <circle id="path-5" cx="22" cy="40" r="3"></circle>
+        <circle id="path-6" cx="22" cy="61" r="3"></circle>
+        <circle id="path-7" cx="14" cy="51" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-3" transform="translate(-417.000000, -198.000000)">
+            <g id="dna-helix-1" transform="translate(418.000000, 199.000000)">
+                <path d="M40.996651,4 C40.996651,10.5290429 36.6270444,17.0942541 18.5543408,30.2286952 C0.481637243,43.3631363 -4.69057742,53.8479165 18.5543408,70.8778145 C41.7992591,87.9077125 40.996651,91.6008949 40.996651,98" id="Path-40" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M40.996651,4 C40.996651,10.5290429 36.6270444,17.0942541 18.5543408,30.2286952 C0.481637243,43.3631363 -4.69057742,53.8479165 18.5543408,70.8778145 C41.7992591,87.9077125 40.996651,91.6008949 40.996651,98" id="Path-40-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.000000, 51.000000) scale(-1, 1) translate(-22.000000, -51.000000) "></path>
+                <g id="Oval-Copy-530">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="41" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-532">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="41" cy="99" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-531">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-533">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3" cy="99" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <path d="M40.8094505,51 L15,51" id="Line-7" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35.5244038,39.5 L22.5,39.5" id="Line-7-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M37.2482319,61 L23,61" id="Line-7-Copy-2" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-534">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="22" cy="40" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+                <g id="Oval-Copy-535">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="22" cy="61" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-6"></use>
+                </g>
+                <g id="Oval-Copy-536">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="14" cy="51" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

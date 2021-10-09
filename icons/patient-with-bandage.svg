@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="83px" viewBox="0 0 63 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>patient-with-bandage</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="48" cy="37" r="3"></circle>
+        <circle id="path-2" cx="32" cy="13" r="3"></circle>
+        <circle id="path-3" cx="10" cy="78" r="3"></circle>
+        <circle id="path-4" cx="21" cy="65" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-7" transform="translate(-407.000000, -710.000000)">
+            <g id="patient-with-bandage" transform="translate(408.000000, 711.000000)">
+                <path d="M7.91533476,78.2354448 L47.9471388,37.6667977" id="Path-399" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M22.9153348,78.2354448 L56.910629,43.7842597" id="Path-399" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M61.1504605,78.0482146 C61.1504605,64.4154922 61.1504605,55.71392 61.1504605,51.943498 C61.1504605,46.287865 55.378102,41.442138 50.4875988,38.7635789 C45.5970956,36.0850197 37.2256119,33.7616955 36.209693,29.3867375" id="Path-400" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8.53283952,64.6752316 C6.59044195,64.6752316 4.93878784,64.6752316 3.57787719,64.6752316 C1.53651122,64.6752316 0,66.2087334 0,68.2531088 C1.14873054e-16,70.2974842 0,72.3974794 0,74.3956478 C1.12276696e-16,76.3938163 1.41070551,78.0632517 3.6676039,78.0632517 C5.92450229,78.0632517 37.8734345,78.0632517 40.8542004,78.0632517 C43.8349663,78.0632517 45.0228513,76.1762564 45.0228513,73.0263302 C45.0228513,61.6652543 45.0228513,54.5087311 45.0228513,51.5567606 C45.0228513,45.9011276 39.2504927,41.0554005 34.3599895,38.3768414 C29.4694863,35.6982823 21.0980026,33.3749581 20.0820837,29" id="Path-400" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.511426, 53.531626) scale(-1, 1) translate(-22.511426, -53.531626) "></path>
+                <path d="M50.3831478,61.5911758 L50.3831478,77.9873638" id="Path-402" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M20.0492213,34.1985208 C20.6933365,37.4133868 24.2105478,40.8789384 30.1035626,40.8789384 C35.9965773,40.8789384 40.7006028,37.9027947 41.3308514,34.6479603" id="Path-404" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M19.5302981,0.494136918 C24.7442958,0.494136918 31.2552549,4.28827962 31.2552549,10.5652939 C31.2552549,19.8885257 29.0711745,31.4165291 19.5302981,31.4165291" id="Path-405" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.392777, 15.955333) scale(-1, 1) translate(-25.392777, -15.955333) "></path>
+                <path d="M42.1179441,9.43357074 L20.1758702,17.1692565" id="Path-406" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M29.1134123,0.873744971 L21.3798192,16.4999697" id="Path-408" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-575" transform="translate(48.000000, 37.000000) rotate(-90.000000) translate(-48.000000, -37.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="48" cy="37" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <path d="M8.67040281,67.097484 C8.67040281,66.2472076 9.83505522,64.5447696 11.4880038,64.5447696 C12.5899696,64.5447696 15.8293252,64.5447696 21.2060707,64.5447696" id="Path-398" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M44.6015332,66.7537988 C44.6015332,66.7537988 40.8888576,70.4789036 33.4635063,77.9291131" id="Path-401" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M30.5302981,0.494136918 C35.7442958,0.494136918 42.2552549,4.28827962 42.2552549,10.5652939 C42.2552549,19.8885257 40.0711745,31.4165291 30.5302981,31.4165291" id="Path-405" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M36.5118389,2.18337076 L31.8550816,12.856385" id="Path-407" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-578" transform="translate(32.000000, 13.000000) rotate(-90.000000) translate(-32.000000, -13.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="32" cy="13" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-579" transform="translate(10.000000, 78.000000) rotate(-90.000000) translate(-10.000000, -78.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="10" cy="78" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-580" transform="translate(21.000000, 65.000000) rotate(-90.000000) translate(-21.000000, -65.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="21" cy="65" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
