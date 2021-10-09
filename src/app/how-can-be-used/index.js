@@ -51,7 +51,7 @@ const HowCanBeUsed = ()=> (
     </div>
     <PictureBox src={iwatchMeasurements} label='Icons are founded on a concentric grid, which improves its consistency throughout the set in all arrangements of icons.'>
     </PictureBox>
-    <PictureBox src={parabolicProcess} label='The Iconjar tag search allows you to find icons based on tags through all categories and save loads of time.'>
+    <PictureBox src={parabolicProcess} label='Many icons reflect their real-world counterparts allowing you to express yourself more authentic and up-to-date.'>
     </PictureBox>
     <VideoBox thumbnail={thumb3} thumbnailx2={thumb3x2} thumbnailx3={thumb3x3}
               className={styles.pictureCover} src={video3}

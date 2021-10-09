@@ -58,7 +58,7 @@ const Contact = ()=> (
       </p>
 
       <p className={globalStyles.descriptionText}>
-        Iconset and website design by <a href='https://aucta.io'>Daniel Seiler</a>.<br/>
+        Iconset and website design by <a href='https://www.linkedin.com/in/oezden/'>Özden Seiler</a> and <a href='https://aucta.io'>Daniel Seiler</a>.<br/>
       </p>
     </div>
     <div className={globalStyles.sectionText}>
